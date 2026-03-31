@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T07:31:29.400502+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-04-01T07:42:35.721033+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本 中国 美国",
-      "match_count": 72,
+      "match_count": 74,
       "titles": [
         {
           "title": "中国和巴基斯坦关于恢复海湾和中东地区和平稳定的五点倡议",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时40分 ~ 07时31分]"
+          "appearance_count": 7,
+          "time_info": "[05时40分 ~ 07时42分]"
         },
         {
           "title": "鲁比奥放话：美国不会允许伊朗向通过霍尔木兹海峡的船舶收费",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时40分 ~ 07时31分]"
+          "appearance_count": 7,
+          "time_info": "[05时40分 ~ 07时42分]"
         },
         {
           "title": "3秒一架！中国无人机蜂群突击铺天盖地",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时41分 ~ 07时31分]"
+          "appearance_count": 6,
+          "time_info": "[05时41分 ~ 07时42分]"
         },
         {
           "title": "深度解析中国经济重点方向",
@@ -51,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时41分 ~ 07时31分]"
+          "appearance_count": 6,
+          "time_info": "[05时41分 ~ 07时42分]"
         },
         {
           "title": "中国拉了一个叫“WDO”的群",
@@ -62,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时41分 ~ 07时31分]"
+          "appearance_count": 6,
+          "time_info": "[05时41分 ~ 07时42分]"
         },
         {
           "title": "中国3艘船成功通过霍尔木兹",
@@ -73,8 +73,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时41分 ~ 07时31分]"
+          "appearance_count": 6,
+          "time_info": "[05时41分 ~ 07时42分]"
         },
         {
           "title": "3月中国制造业PMI重返扩张区间",
@@ -84,8 +84,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时41分 ~ 07时31分]"
+          "appearance_count": 6,
+          "time_info": "[05时41分 ~ 07时42分]"
         },
         {
           "title": "王伟牺牲25周年 墓前摆满中国战机",
@@ -95,20 +95,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时41分 ~ 07时31分]"
-        },
-        {
-          "title": "美国军人向脱衣舞女泄露部署计划",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%BA%E5%90%91%E8%84%B1%E8%A1%A3%E8%88%9E%E5%A5%B3%E6%B3%84%E9%9C%B2%E9%83%A8%E7%BD%B2%E8%AE%A1%E5%88%92%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时41分 ~ 07时31分]"
+          "appearance_count": 6,
+          "time_info": "[05时41分 ~ 07时42分]"
         },
         {
           "title": "中国和巴基斯坦恢复中东地区和平稳定的五点倡议",
@@ -119,8 +107,21 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时40分 ~ 07时42分]"
+        },
+        {
+          "title": "美国军人向脱衣舞女泄露部署计划",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%BA%E5%90%91%E8%84%B1%E8%A1%A3%E8%88%9E%E5%A5%B3%E6%B3%84%E9%9C%B2%E9%83%A8%E7%BD%B2%E8%AE%A1%E5%88%92%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[05时40分 ~ 07时31分]"
+          "time_info": "[05时41分 ~ 07时42分]"
         },
         {
           "title": "凤凰女记者三问文化遗产受损情况，伊朗官员提到了中国",
@@ -130,8 +131,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时31分]"
+          "appearance_count": 4,
+          "time_info": "[06时45分 ~ 07时42分]"
         },
         {
           "title": "警惕！日本完成两地远程导弹部署，装备性能披露",
@@ -159,6 +160,70 @@
           "time_info": "[05时41分 ~ 07时31分]"
         },
         {
+          "title": "中国无人机蜂群突击铺天盖地",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%9C%82%E7%BE%A4%E7%AA%81%E5%87%BB%E9%93%BA%E5%A4%A9%E7%9B%96%E5%9C%B0%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            10,
+            2,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时41分 ~ 07时42分]"
+        },
+        {
+          "title": "中国和巴基斯坦关于恢复海湾和中东地区和平稳定的五点倡议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32868295",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时40分 ~ 07时42分]"
+        },
+        {
+          "title": "马上评｜“弯道超车”，这就是中国制造的少年气概",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865888",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时40分 ~ 07时42分]"
+        },
+        {
+          "title": "美国打伊朗，阿拉伯国家掏钱？白宫新闻秘书：特朗普有这想法",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865145",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时40分 ~ 07时42分]"
+        },
+        {
+          "title": "中国和巴基斯坦提出5点倡议",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%8F%90%E5%87%BA5%E7%82%B9%E5%80%A1%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时41分 ~ 07时42分]"
+        },
+        {
           "title": "私募股权对日本快餐业的胃口正不断增长",
           "url": "https://wallstreetcn.com/livenews/3080389",
           "source": "华尔街见闻-快讯",
@@ -172,56 +237,41 @@
           "time_info": "[05时40分 ~ 06时52分]"
         },
         {
-          "title": "中国无人机蜂群突击铺天盖地",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%9C%82%E7%BE%A4%E7%AA%81%E5%87%BB%E9%93%BA%E5%A4%A9%E7%9B%96%E5%9C%B0%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "中国和巴基斯坦提出关于恢复海湾和中东地区和平稳定的五点倡议，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2022423954862646954",
+          "source": "知乎",
           "ranks": [
-            20,
-            10,
-            2,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时41分 ~ 07时31分]"
+          "appearance_count": 6,
+          "time_info": "[05时41分 ~ 07时42分]"
         },
         {
-          "title": "中国和巴基斯坦关于恢复海湾和中东地区和平稳定的五点倡议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32868295",
-          "source": "澎湃新闻",
+          "title": "“只要有图纸 中国100%做得出来”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%AA%E8%A6%81%E6%9C%89%E5%9B%BE%E7%BA%B8+%E4%B8%AD%E5%9B%BD100%25%E5%81%9A%E5%BE%97%E5%87%BA%E6%9D%A5%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            19,
-            11,
+            10,
             9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[05时40分 ~ 07时31分]"
+          "time_info": "[05时41分 ~ 07时42分]"
         },
         {
-          "title": "马上评｜“弯道超车”，这就是中国制造的少年气概",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865888",
-          "source": "澎湃新闻",
+          "title": "关键时刻 巴外长抵京与中国对表",
+          "url": "https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB+%E5%B7%B4%E5%A4%96%E9%95%BF%E6%8A%B5%E4%BA%AC%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%AF%B9%E8%A1%A8",
+          "source": "百度热搜",
           "ranks": [
-            14,
-            13,
-            12
+            20,
+            22,
+            24
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[05时40分 ~ 07时31分]"
-        },
-        {
-          "title": "美国打伊朗，阿拉伯国家掏钱？白宫新闻秘书：特朗普有这想法",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865145",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时40分 ~ 07时31分]"
+          "time_info": "[05时41分 ~ 07时42分]"
         },
         {
           "title": "美国总统特朗普：鲍威尔必须尽快离任。 （美国军队）很快就会离开伊朗。 今天股价涨了。 我只要（宣布美军）离开伊朗，汽油价格就会下跌。 美国将在2-3周内离开伊朗。 法国等国家将在霍尔木兹海峡应对（伊朗）。",
@@ -235,27 +285,54 @@
           "time_info": "06时02分"
         },
         {
-          "title": "中国和巴基斯坦提出5点倡议",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%8F%90%E5%87%BA5%E7%82%B9%E5%80%A1%E8%AE%AE",
-          "source": "bilibili 热搜",
+          "title": "伊朗外长：没什么比发动战争更能嘲讽“美国优先”",
+          "url": "https://wallstreetcn.com/livenews/3080448",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时41分 ~ 07时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
-          "title": "中国和巴基斯坦提出关于恢复海湾和中东地区和平稳定的五点倡议，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2022423954862646954",
-          "source": "知乎",
+          "title": "美国总统特朗普：（被问及伊朗威胁打击中东地区美国公司）拿什么威胁？玩具枪（BB guns）吗？他们已经没什么可以拿来威胁的了。",
+          "url": "https://flash.jin10.com/detail/20260401062411940800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            11
+            1,
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时41分 ~ 07时31分]"
+          "appearance_count": 4,
+          "time_info": "[06时45分 ~ 07时42分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈及伊朗表示）他们没有军队。他们一无所有。他们承认自己在失败。他们在乞求达成协议。",
+          "url": "https://flash.jin10.com/detail/20260401061746839800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时45分 ~ 07时42分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗重建需要15到20年时间。",
+          "url": "https://flash.jin10.com/detail/20260401061710804800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时45分 ~ 07时42分]"
         },
         {
           "title": "中国常驻联合国副代表孙磊3月31日在安理会黎以局势紧急公开会上发言，呼吁国际社会采取紧急行动，在冲突进一步失控前踩下刹车，早日恢复地区和平稳定。",
@@ -296,18 +373,6 @@
           "time_info": "[05时41分 ~ 07时31分]"
         },
         {
-          "title": "“只要有图纸 中国100%做得出来”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%AA%E8%A6%81%E6%9C%89%E5%9B%BE%E7%BA%B8+%E4%B8%AD%E5%9B%BD100%25%E5%81%9A%E5%BE%97%E5%87%BA%E6%9D%A5%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时41分 ~ 07时31分]"
-        },
-        {
           "title": "中国品牌集体“异动” 出海抢单成主机厂新增长极",
           "url": "https://www.cls.cn/detail/2330592",
           "source": "财联社热门",
@@ -334,19 +399,6 @@
           "time_info": "[05时41分 ~ 07时31分]"
         },
         {
-          "title": "关键时刻 巴外长抵京与中国对表",
-          "url": "https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB+%E5%B7%B4%E5%A4%96%E9%95%BF%E6%8A%B5%E4%BA%AC%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%AF%B9%E8%A1%A8",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时41分 ~ 07时31分]"
-        },
-        {
           "title": "美国总统特朗普：伊朗政权更迭并不是这次行动的目标。",
           "url": "https://flash.jin10.com/detail/20260401055805584800",
           "source": "金十数据",
@@ -358,45 +410,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时02分 ~ 06时52分]"
-        },
-        {
-          "title": "美国总统特朗普：（被问及伊朗威胁打击中东地区美国公司）拿什么威胁？玩具枪（BB guns）吗？他们已经没什么可以拿来威胁的了。",
-          "url": "https://flash.jin10.com/detail/20260401062411940800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时31分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈及伊朗表示）他们没有军队。他们一无所有。他们承认自己在失败。他们在乞求达成协议。",
-          "url": "https://flash.jin10.com/detail/20260401061746839800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时31分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗重建需要15到20年时间。",
-          "url": "https://flash.jin10.com/detail/20260401061710804800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时31分]"
         },
         {
           "title": "美国总统特朗普：美联储主席鲍威尔必须尽快离职。",
@@ -435,6 +448,19 @@
           "time_info": "[06时02分 ~ 06时45分]"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）执法主任：在预测市场中打击利用不当信息进行内幕交易、打击能源市场操纵、零售欺诈和反洗钱违规行为是我们的优先事项。",
+          "url": "https://flash.jin10.com/detail/20260401061236219800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时45分 ~ 07时42分]"
+        },
+        {
           "title": "美国总统特朗普：（被问及降低汽油价格的计划）我只需要离开伊朗。我们很快就会做到。",
           "url": "https://flash.jin10.com/detail/20260401055556054800",
           "source": "金十数据",
@@ -445,6 +471,66 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 06时45分]"
+        },
+        {
+          "title": "美国总统特朗普：将于周三就出生地公民权案件上诉至最高法院。",
+          "url": "https://flash.jin10.com/detail/20260401060429496800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时45分 ~ 07时42分]"
+        },
+        {
+          "title": "美国总统特朗普：不需要与伊朗达成协议，美国就能结束战争。当我们觉得他们被迫回到石器时代，无法制造核武器时，无论我们是否达成协议，我们都会离开。",
+          "url": "https://flash.jin10.com/detail/20260401060410948800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时45分 ~ 07时42分]"
+        },
+        {
+          "title": "图是中国的？苏格兰撤下了",
+          "url": "https://news.ifeng.com/c/8rx8mJPpChy",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时45分 ~ 07时42分]"
+        },
+        {
+          "title": "美国为何爆发反特朗普抗议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时45分 ~ 07时42分]"
+        },
+        {
+          "title": "开场9分钟连丢两球，中国男足0比2不敌喀麦隆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32866476",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时45分 ~ 07时42分]"
         },
         {
           "title": "据路透/益普索民调：美国总统特朗普所属共和党人中，四成认为美国应尽快结束对伊战争，即便目标未达成亦如此。",
@@ -459,32 +545,6 @@
           "time_info": "[05时40分 ~ 06时02分]"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）执法主任：在预测市场中打击利用不当信息进行内幕交易、打击能源市场操纵、零售欺诈和反洗钱违规行为是我们的优先事项。",
-          "url": "https://flash.jin10.com/detail/20260401061236219800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时31分]"
-        },
-        {
-          "title": "美国总统特朗普：将于周三就出生地公民权案件上诉至最高法院。",
-          "url": "https://flash.jin10.com/detail/20260401060429496800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时31分]"
-        },
-        {
           "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
           "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
           "source": "澎湃新闻",
@@ -494,41 +554,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时40分 ~ 06时02分]"
-        },
-        {
-          "title": "美国总统特朗普：不需要与伊朗达成协议，美国就能结束战争。当我们觉得他们被迫回到石器时代，无法制造核武器时，无论我们是否达成协议，我们都会离开。",
-          "url": "https://flash.jin10.com/detail/20260401060410948800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时31分]"
-        },
-        {
-          "title": "图是中国的？苏格兰撤下了",
-          "url": "https://news.ifeng.com/c/8rx8mJPpChy",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时31分]"
-        },
-        {
-          "title": "美国为何爆发反特朗普抗议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时31分]"
         },
         {
           "title": "美国NASA：阿尔忒弥斯II号计划明日发射",
@@ -567,18 +592,6 @@
           "time_info": "[05时40分 ~ 06时02分]"
         },
         {
-          "title": "开场9分钟连丢两球，中国男足0比2不敌喀麦隆",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32866476",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时31分]"
-        },
-        {
           "title": "美国总统特朗普：如果法国或其他国家想要获取石油，那就去霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260401055531767800",
           "source": "金十数据",
@@ -612,6 +625,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 06时45分]"
+        },
+        {
+          "title": "美国众议院民主党人就美国国防部长赫格塞斯涉嫌交易一事向相关银行提出质询。",
+          "url": "https://wallstreetcn.com/livenews/3080429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 07时42分]"
         },
         {
           "title": "美国总统特朗普：（伊朗）经历了政权更迭，新任伊朗领导人非常不同，更加理性。",
@@ -706,6 +731,18 @@
           "time_info": "[06时45分 ~ 06时52分]"
         },
         {
+          "title": "俄副外长：俄方将不向日本等设置价格上限的国家供油",
+          "url": "https://wallstreetcn.com/livenews/3080420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 07时42分]"
+        },
+        {
           "title": "美国至3月27日当周API取暖油库存 -53万桶，前值30.4万桶。",
           "url": "https://flash.jin10.com/detail/20260401044522041800",
           "source": "金十数据",
@@ -784,15 +821,15 @@
           "time_info": "[05时40分 ~ 05时41分]"
         },
         {
-          "title": "美国众议院民主党人就美国国防部长赫格塞斯涉嫌交易一事向相关银行提出质询。",
-          "url": "https://wallstreetcn.com/livenews/3080429",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗高层向美国发出密集警告",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%AB%98%E5%B1%82%E5%90%91%E7%BE%8E%E5%9B%BD%E5%8F%91%E5%87%BA%E5%AF%86%E9%9B%86%E8%AD%A6%E5%91%8A",
+          "source": "百度热搜",
           "ranks": [
-            8
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 07时42分]"
         },
         {
           "title": "美国总统特朗普：世界杯期间我们将不得不“强迫自己”前往洛杉矶。",
@@ -806,15 +843,15 @@
           "time_info": "06时02分"
         },
         {
-          "title": "俄副外长：俄方将不向日本等设置价格上限的国家供油",
-          "url": "https://wallstreetcn.com/livenews/3080420",
-          "source": "华尔街见闻-快讯",
+          "title": "英格兰0比1日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B00%E6%AF%941%E6%97%A5%E6%9C%AC%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            17
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "07时42分"
         },
         {
           "title": "美国总统特朗普签署了一项有关邮寄投票的行政命令。",
@@ -845,18 +882,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "伊朗高层向美国发出密集警告",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%AB%98%E5%B1%82%E5%90%91%E7%BE%8E%E5%9B%BD%E5%8F%91%E5%87%BA%E5%AF%86%E9%9B%86%E8%AD%A6%E5%91%8A",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         }
@@ -867,6 +893,19 @@
       "match_count": 15,
       "titles": [
         {
+          "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
+          "url": "https://www.cls.cn/detail/2331315",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时02分 ~ 07时42分]"
+        },
+        {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
           "url": "https://wallstreetcn.com/articles/3768819",
           "source": "华尔街见闻",
@@ -876,6 +915,33 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时40分 ~ 06时02分]"
+        },
+        {
+          "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
+          "url": "https://www.cls.cn/detail/2331277",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时40分 ~ 07时42分]"
+        },
+        {
+          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
+          "url": "https://wallstreetcn.com/articles/3768902",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时45分 ~ 07时42分]"
         },
         {
           "title": "美伊结束冲突信号提振华尔街，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -889,41 +955,15 @@
           "time_info": "[06时45分 ~ 06时52分]"
         },
         {
-          "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
-          "url": "https://www.cls.cn/detail/2331277",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时40分 ~ 07时31分]"
-        },
-        {
-          "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
-          "url": "https://www.cls.cn/detail/2331315",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时02分 ~ 07时31分]"
-        },
-        {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
           "url": "https://wallstreetcn.com/articles/3768819",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 07时42分]"
         },
         {
           "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
@@ -935,8 +975,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时40分 ~ 07时31分]"
+          "appearance_count": 7,
+          "time_info": "[05时40分 ~ 07时42分]"
+        },
+        {
+          "title": "【早报】伊朗总统：愿在诉求满足前提下结束战争；美股大涨，科技股、中概股大幅走强",
+          "url": "https://www.cls.cn/detail/2331350",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 07时42分]"
         },
         {
           "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -948,29 +999,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时40分 ~ 06时52分]"
-        },
-        {
-          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
-          "url": "https://wallstreetcn.com/articles/3768902",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时31分]"
-        },
-        {
-          "title": "【早报】伊朗总统：愿在诉求满足前提下结束战争；美股大涨，科技股、中概股大幅走强",
-          "url": "https://www.cls.cn/detail/2331350",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
         },
         {
           "title": "黄金ETF收跌将近3.8%，领跌美股大类资产类ETF，一季度布油基金涨超83%",
@@ -1044,6 +1072,148 @@
       ]
     },
     {
+      "keyword_group": "AI 人工智能",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时41分 ~ 07时42分]"
+        },
+        {
+          "title": "功勋翻译下岗,AI包揽游戏翻译",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时41分 ~ 07时42分]"
+        },
+        {
+          "title": "澳大利亚与Anthropic围绕国别人工智能（National AI）计划签署备忘录（MOU）。",
+          "url": "https://wallstreetcn.com/livenews/3080416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时45分 ~ 07时31分]"
+        },
+        {
+          "title": "重仓“隐藏款”浮出水面，基金经理沿AI主线布局",
+          "url": "https://wallstreetcn.com/livenews/3080408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时45分 ~ 07时31分]"
+        },
+        {
+          "title": "澳大利亚3月AIG/PWC制造业表现指数 -27.9，前值-15.6。",
+          "url": "https://flash.jin10.com/detail/20260401060121394800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 06时52分]"
+        },
+        {
+          "title": "77部作品看到AI创作可能性",
+          "url": "https://search.bilibili.com/all?keyword=77%E9%83%A8%E4%BD%9C%E5%93%81%E7%9C%8B%E5%88%B0AI%E5%88%9B%E4%BD%9C%E5%8F%AF%E8%83%BD%E6%80%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 07时42分]"
+        },
+        {
+          "title": "澳大利亚3月AIG建筑业表现指数 -31.4，前值-8.2。",
+          "url": "https://flash.jin10.com/detail/20260401060044293800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 06时52分]"
+        },
+        {
+          "title": "如何看待前端排版库 Pretext，能否实现 AI 自动排版?",
+          "url": "https://www.zhihu.com/question/2021882744435646530",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时02分]"
+        },
+        {
+          "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
+          "url": "https://flash.jin10.com/detail/20260401041908272800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 05时41分]"
+        },
+        {
+          "title": "OpenAI按8520亿美元估值完成本轮1220亿美元规模的融资",
+          "url": "https://wallstreetcn.com/livenews/3080357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 05时41分]"
+        },
+        {
+          "title": "苹果客服回应撤回国行AI",
+          "url": "https://www.douyin.com/hot/2449610",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "澳大利亚依照国家AI计划与Anthropic签署谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3080416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金 原油",
       "match_count": 12,
       "titles": [
@@ -1053,11 +1223,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时40分 ~ 07时31分]"
+          "appearance_count": 7,
+          "time_info": "[05时40分 ~ 07时42分]"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上个交易日增加1.143吨，当前持仓量为1047.276吨。",
@@ -1069,8 +1240,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时31分]"
+          "appearance_count": 4,
+          "time_info": "[06时45分 ~ 07时42分]"
         },
         {
           "title": "现货黄金涨3.5%，3月份累跌超11%，一季度涨约5%",
@@ -1085,6 +1256,18 @@
           "time_info": "[05时40分 ~ 06时02分]"
         },
         {
+          "title": "WTI原油向上触及103美元/桶，日内涨1.18%。",
+          "url": "https://flash.jin10.com/detail/20260401062519619800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 07时42分]"
+        },
+        {
           "title": "行业周报：美国上周API原油库存激增超1000万桶，精炼油库存锐减超1000万桶",
           "url": "https://wallstreetcn.com/livenews/3080374",
           "source": "华尔街见闻-快讯",
@@ -1095,18 +1278,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时40分 ~ 06时02分]"
-        },
-        {
-          "title": "WTI原油向上触及103美元/桶，日内涨1.18%。",
-          "url": "https://flash.jin10.com/detail/20260401062519619800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时31分]"
         },
         {
           "title": "美国至3月27日当周API投产原油量 -20.5万桶/日，前值22.3万桶/日。",
@@ -1181,138 +1352,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 人工智能",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "澳大利亚与Anthropic围绕国别人工智能（National AI）计划签署备忘录（MOU）。",
-          "url": "https://wallstreetcn.com/livenews/3080416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            21
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时31分]"
-        },
-        {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时41分 ~ 07时31分]"
-        },
-        {
-          "title": "功勋翻译下岗,AI包揽游戏翻译",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时41分 ~ 07时31分]"
-        },
-        {
-          "title": "重仓“隐藏款”浮出水面，基金经理沿AI主线布局",
-          "url": "https://wallstreetcn.com/livenews/3080408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时31分]"
-        },
-        {
-          "title": "澳大利亚3月AIG/PWC制造业表现指数 -27.9，前值-15.6。",
-          "url": "https://flash.jin10.com/detail/20260401060121394800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 06时52分]"
-        },
-        {
-          "title": "澳大利亚3月AIG建筑业表现指数 -31.4，前值-8.2。",
-          "url": "https://flash.jin10.com/detail/20260401060044293800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 06时52分]"
-        },
-        {
-          "title": "如何看待前端排版库 Pretext，能否实现 AI 自动排版?",
-          "url": "https://www.zhihu.com/question/2021882744435646530",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时02分]"
-        },
-        {
-          "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
-          "url": "https://flash.jin10.com/detail/20260401041908272800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时40分 ~ 05时41分]"
-        },
-        {
-          "title": "OpenAI按8520亿美元估值完成本轮1220亿美元规模的融资",
-          "url": "https://wallstreetcn.com/livenews/3080357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时40分 ~ 05时41分]"
-        },
-        {
-          "title": "苹果客服回应撤回国行AI",
-          "url": "https://www.douyin.com/hot/2449610",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "77部作品看到AI创作可能性",
-          "url": "https://search.bilibili.com/all?keyword=77%E9%83%A8%E4%BD%9C%E5%93%81%E7%9C%8B%E5%88%B0AI%E5%88%9B%E4%BD%9C%E5%8F%AF%E8%83%BD%E6%80%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "07时31分"
         }
@@ -1330,8 +1370,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时41分 ~ 07时31分]"
+          "appearance_count": 6,
+          "time_info": "[05时41分 ~ 07时42分]"
         },
         {
           "title": "Claude Code源码意外泄露",
@@ -1342,19 +1382,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时41分 ~ 07时31分]"
+          "appearance_count": 6,
+          "time_info": "[05时41分 ~ 07时42分]"
         },
         {
           "title": "史诗级泄露！51.2万行，Claude Code源代码开源了！",
           "url": "https://wallstreetcn.com/articles/3768915",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 07时42分]"
         }
       ]
     },
