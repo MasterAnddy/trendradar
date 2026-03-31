@@ -31,6 +31,11 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
+    env:
+      AI_BILINGUAL_TRANSLATION: "true"
+      AI_FEED_TIMEZONE: "Asia/Tokyo"
+      PYTHONUTF8: "1"
+      TZ: "Asia/Tokyo"
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -76,7 +81,6 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          AI_BILINGUAL_TRANSLATION: "true"
         run: python ai_feed.py --mode "${{ steps.route.outputs.mode }}" --feed "${{ steps.route.outputs.feed }}"
 
       - name: Commit AI feed state

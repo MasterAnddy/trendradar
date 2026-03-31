@@ -23,6 +23,9 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
+    env:
+      PYTHONUTF8: "1"
+      TZ: "Asia/Tokyo"
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4

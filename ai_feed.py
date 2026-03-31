@@ -5,21 +5,23 @@ import json
 import os
 import re
 import sys
-from dataclasses import dataclass
+from dataclasses import asdict, dataclass
 from datetime import datetime
 from html.parser import HTMLParser
 from pathlib import Path
 from typing import Dict, List, Optional
-from urllib.error import URLError, HTTPError
+from urllib.error import HTTPError, URLError
 from urllib.parse import urljoin
 from urllib.request import Request, urlopen
 from xml.etree import ElementTree as ET
+from zoneinfo import ZoneInfo
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent
 CONFIG_PATH = PROJECT_ROOT / "config" / "ai_sources.json"
 STATE_DIR = PROJECT_ROOT / "output" / ".ai_feed"
 STATE_PATH = STATE_DIR / "state.json"
+TIMEZONE = ZoneInfo(os.environ.get("AI_FEED_TIMEZONE", "Asia/Tokyo"))
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0 Safari/537.36"
@@ -27,18 +29,32 @@ USER_AGENT = (
 TRANSLATOR = None
 TRANSLATOR_READY = False
 
+CATEGORY_LABELS = {
+    "research": "研究",
+    "product": "产品发布",
+    "company": "公司动态",
+    "media": "媒体补充",
+    "other": "未分类",
+}
+CATEGORY_ORDER = ["research", "product", "company", "media", "other"]
+FEED_TITLES = {
+    "all": "AI 专线",
+    "research": "AI 研究专线",
+    "company": "AI 公司/产品专线",
+}
+
 
 @dataclass
 class Item:
     source: str
-    category: str
+    category_key: str
     title: str
     url: str
     published: str = ""
 
 
 class AnchorCollector(HTMLParser):
-    def __init__(self):
+    def __init__(self) -> None:
         super().__init__()
         self.items: List[Dict[str, str]] = []
         self._href: Optional[str] = None
@@ -59,14 +75,14 @@ class AnchorCollector(HTMLParser):
     def handle_endtag(self, tag):
         if tag != "a" or self._href is None:
             return
-        title = re.sub(r"\s+", " ", "".join(self._chunks)).strip()
+        title = clean_title("".join(self._chunks))
         self.items.append({"href": self._href, "title": title})
         self._href = None
         self._chunks = []
 
 
 class HeadingCollector(HTMLParser):
-    def __init__(self):
+    def __init__(self) -> None:
         super().__init__()
         self.items: List[str] = []
         self._tag: Optional[str] = None
@@ -83,42 +99,50 @@ class HeadingCollector(HTMLParser):
 
     def handle_endtag(self, tag):
         if self._tag == tag:
-            title = re.sub(r"\s+", " ", "".join(self._chunks)).strip()
+            title = clean_title("".join(self._chunks))
             if title:
                 self.items.append(title)
             self._tag = None
             self._chunks = []
 
 
+def now_local() -> datetime:
+    return datetime.now(TIMEZONE)
+
+
+def now_local_text() -> str:
+    return now_local().strftime("%Y-%m-%d %H:%M:%S")
+
+
+def today_local() -> str:
+    return now_local().strftime("%Y-%m-%d")
+
+
 def ensure_state_dir() -> None:
     STATE_DIR.mkdir(parents=True, exist_ok=True)
 
 
-def now_local() -> str:
-    return datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-
-
 def load_config() -> Dict:
-    with open(CONFIG_PATH, "r", encoding="utf-8") as f:
-        return json.load(f)
+    with open(CONFIG_PATH, "r", encoding="utf-8") as handle:
+        return json.load(handle)
 
 
 def load_state() -> Dict:
     ensure_state_dir()
     if not STATE_PATH.exists():
-        return {"sent_urls": [], "daily_seen": {}, "last_daily_date": ""}
-    with open(STATE_PATH, "r", encoding="utf-8") as f:
-        return json.load(f)
+        return {}
+    with open(STATE_PATH, "r", encoding="utf-8") as handle:
+        return json.load(handle)
 
 
 def save_state(state: Dict) -> None:
     ensure_state_dir()
-    with open(STATE_PATH, "w", encoding="utf-8") as f:
-        json.dump(state, f, ensure_ascii=False, indent=2)
+    with open(STATE_PATH, "w", encoding="utf-8") as handle:
+        json.dump(state, handle, ensure_ascii=False, indent=2)
 
 
 def fetch_text(url: str) -> str:
-    req = Request(
+    request = Request(
         url,
         headers={
             "User-Agent": USER_AGENT,
@@ -129,20 +153,28 @@ def fetch_text(url: str) -> str:
             "Referer": url,
         },
     )
-    with urlopen(req, timeout=20) as resp:
-        charset = resp.headers.get_content_charset() or "utf-8"
-        return resp.read().decode(charset, errors="ignore")
+    with urlopen(request, timeout=20) as response:
+        charset = response.headers.get_content_charset() or "utf-8"
+        return response.read().decode(charset, errors="ignore")
 
 
 def clean_title(title: str) -> str:
-    title = re.sub(r"\s+", " ", title or "").strip()
-    return title
+    return re.sub(r"\s+", " ", title or "").strip()
+
+
+def normalize_category(category_key: Optional[str]) -> str:
+    if not category_key:
+        return "other"
+    return category_key if category_key in CATEGORY_LABELS else "other"
+
+
+def keyword_match(text: str, keywords: List[str]) -> bool:
+    haystack = (text or "").lower()
+    return any(keyword.lower() in haystack for keyword in keywords)
 
 
 def is_probably_english(text: str) -> bool:
-    if not text:
-        return False
-    if re.search(r"[\u4e00-\u9fff\u3040-\u30ff]", text):
+    if not text or re.search(r"[\u4e00-\u9fff\u3040-\u30ff]", text):
         return False
     letters = re.findall(r"[A-Za-z]", text)
     if len(letters) < 6:
@@ -169,19 +201,27 @@ def get_translator():
     try:
         installed_languages = argostranslate.translate.get_installed_languages()
         from_lang = next((lang for lang in installed_languages if lang.code == "en"), None)
-        to_lang = next((lang for lang in installed_languages if lang.code == "zh"), None)
+        to_lang = next((lang for lang in installed_languages if lang.code in {"zh", "zh-CN"}), None)
 
         if from_lang is None or to_lang is None or from_lang.get_translation(to_lang) is None:
             print("AI feed: installing Argos en->zh translation package")
             argostranslate.package.update_package_index()
             available_packages = argostranslate.package.get_available_packages()
             package_to_install = next(
-                pkg for pkg in available_packages if pkg.from_code == "en" and pkg.to_code == "zh"
+                (
+                    package
+                    for package in available_packages
+                    if package.from_code == "en" and package.to_code.startswith("zh")
+                ),
+                None,
             )
+            if package_to_install is None:
+                print("AI feed: no Argos en->zh package found")
+                return None
             argostranslate.package.install_from_path(package_to_install.download())
             installed_languages = argostranslate.translate.get_installed_languages()
             from_lang = next((lang for lang in installed_languages if lang.code == "en"), None)
-            to_lang = next((lang for lang in installed_languages if lang.code == "zh"), None)
+            to_lang = next((lang for lang in installed_languages if lang.code in {"zh", "zh-CN"}), None)
 
         if from_lang is None or to_lang is None:
             print("AI feed: Argos en/zh languages unavailable after install")
@@ -210,11 +250,6 @@ def maybe_translate_bilingual(title: str) -> Optional[str]:
         return None
 
 
-def keyword_match(text: str, keywords: List[str]) -> bool:
-    haystack = (text or "").lower()
-    return any(keyword.lower() in haystack for keyword in keywords)
-
-
 def fetch_rss_items(source: Dict, keywords: List[str]) -> List[Item]:
     xml_text = fetch_text(source["url"])
     root = ET.fromstring(xml_text)
@@ -223,14 +258,12 @@ def fetch_rss_items(source: Dict, keywords: List[str]) -> List[Item]:
         title = clean_title(node.findtext("title", ""))
         link = clean_title(node.findtext("link", ""))
         published = clean_title(node.findtext("pubDate", ""))
-        if not title or not link:
-            continue
-        if not keyword_match(title, keywords):
+        if not title or not link or not keyword_match(title, keywords):
             continue
         items.append(
             Item(
                 source=source["name"],
-                category=source.get("category", "未分类"),
+                category_key=normalize_category(source.get("category_key")),
                 title=title,
                 url=link,
                 published=published,
@@ -242,18 +275,18 @@ def fetch_rss_items(source: Dict, keywords: List[str]) -> List[Item]:
 
 
 def html_link_allowed(href: str, source: Dict) -> bool:
-    if not href:
-        return False
-    if href.startswith("mailto:") or href.startswith("javascript:"):
+    if not href or href.startswith("mailto:") or href.startswith("javascript:"):
         return False
     for token in source.get("deny_substrings", []):
         if token and token in href:
             return False
+
     allow_prefixes = source.get("allow_prefixes", [])
-    if href.startswith("http://") or href.startswith("https://"):
-        if source.get("base_url") and not href.startswith(source["base_url"]):
+    if href.startswith(("http://", "https://")):
+        base_url = source.get("base_url", "")
+        if base_url and not href.startswith(base_url):
             return False
-        path = href.replace(source.get("base_url", ""), "", 1)
+        path = href.replace(base_url, "", 1)
     else:
         path = href
     return any(path.startswith(prefix) for prefix in allow_prefixes)
@@ -263,14 +296,13 @@ def fetch_html_items(source: Dict, keywords: List[str]) -> List[Item]:
     html = fetch_text(source["url"])
     parser = AnchorCollector()
     parser.feed(html)
-    seen = set()
+
     items: List[Item] = []
+    seen = set()
     for raw in parser.items:
-        href = raw["href"]
         title = clean_title(raw["title"])
-        if not title or len(title) < 8:
-            continue
-        if not html_link_allowed(href, source):
+        href = raw["href"]
+        if len(title) < 8 or not html_link_allowed(href, source):
             continue
         if not keyword_match(title, keywords):
             continue
@@ -282,7 +314,7 @@ def fetch_html_items(source: Dict, keywords: List[str]) -> List[Item]:
         items.append(
             Item(
                 source=source["name"],
-                category=source.get("category", "未分类"),
+                category_key=normalize_category(source.get("category_key")),
                 title=title,
                 url=full_url,
             )
@@ -296,19 +328,17 @@ def fetch_article_heading_items(source: Dict, keywords: List[str]) -> List[Item]
     html = fetch_text(source["url"])
     parser = HeadingCollector()
     parser.feed(html)
+
     items: List[Item] = []
     seen = set()
     for title in parser.items:
-        title = clean_title(title)
-        if len(title) < 8 or title in seen:
-            continue
-        if not keyword_match(title, keywords):
+        if len(title) < 8 or title in seen or not keyword_match(title, keywords):
             continue
         seen.add(title)
         items.append(
             Item(
                 source=source["name"],
-                category=source.get("category", "未分类"),
+                category_key=normalize_category(source.get("category_key")),
                 title=title,
                 url=source["url"],
             )
@@ -330,8 +360,9 @@ def fetch_items(config: Dict) -> List[Item]:
                 items = fetch_html_items(source, config["keywords"])
             print(f"{source['name']}: fetched {len(items)} matching items")
             all_items.extend(items)
-        except (URLError, HTTPError, ET.ParseError, TimeoutError, ValueError) as exc:
+        except (HTTPError, URLError, ET.ParseError, TimeoutError, ValueError) as exc:
             print(f"{source['name']}: fetch failed: {exc}")
+
     deduped: List[Item] = []
     seen_urls = set()
     for item in all_items:
@@ -340,6 +371,16 @@ def fetch_items(config: Dict) -> List[Item]:
         seen_urls.add(item.url)
         deduped.append(item)
     return deduped
+
+
+def filter_by_feed(items: List[Item], feed: str) -> List[Item]:
+    if feed == "research":
+        allowed_categories = {"research"}
+    elif feed == "company":
+        allowed_categories = {"product", "company", "media"}
+    else:
+        allowed_categories = set(CATEGORY_LABELS)
+    return [item for item in items if item.category_key in allowed_categories]
 
 
 def split_message(text: str, limit: int = 3800) -> List[str]:
@@ -373,73 +414,70 @@ def send_telegram(text: str) -> None:
                 "disable_web_page_preview": False,
             }
         ).encode("utf-8")
-        req = Request(
+        request = Request(
             f"https://api.telegram.org/bot{token}/sendMessage",
             data=payload,
             headers={"Content-Type": "application/json", "User-Agent": USER_AGENT},
             method="POST",
         )
-        with urlopen(req, timeout=20) as resp:
-            json.loads(resp.read().decode("utf-8", errors="ignore"))
+        with urlopen(request, timeout=20):
+            pass
 
 
-def format_realtime(items: List[Item]) -> str:
+def title_lines(item: Item) -> List[str]:
+    lines = [f"[{item.source}] {item.title}"]
+    translation = maybe_translate_bilingual(item.title)
+    if translation:
+        lines.append(f"中文：{translation}")
+    lines.append(item.url)
+    if item.published:
+        lines.append(f"时间：{item.published}")
+    return lines
+
+
+def format_realtime(items: List[Item], feed: str) -> str:
     grouped: Dict[str, List[Item]] = {}
     for item in items:
-        grouped.setdefault(item.category, []).append(item)
+        grouped.setdefault(item.category_key, []).append(item)
 
-    lines = [f"AI专线新增 {len(items)} 条 ({now_local()})", ""]
-    idx = 1
-    for category in ["研究", "产品发布", "公司动态", "媒体补充", "未分类"]:
-        category_items = grouped.get(category, [])
+    lines = [f"{FEED_TITLES[feed]}新增 {len(items)} 条 ({now_local_text()})", ""]
+    index = 1
+    for category_key in CATEGORY_ORDER:
+        category_items = grouped.get(category_key, [])
         if not category_items:
             continue
-        lines.append(f"{category}: {len(category_items)} 条")
+        lines.append(f"{CATEGORY_LABELS[category_key]}：{len(category_items)} 条")
         for item in category_items[:8]:
-            lines.append(f"{idx}. [{item.source}] {item.title}")
-            translation = maybe_translate_bilingual(item.title)
-            if translation:
-                lines.append(f"   中文: {translation}")
-            lines.append(item.url)
-            if item.published:
-                lines.append(f"时间: {item.published}")
+            item_lines = title_lines(item)
+            lines.append(f"{index}. {item_lines[0]}")
+            for extra_line in item_lines[1:]:
+                lines.append(f"   {extra_line}")
             lines.append("")
-            idx += 1
+            index += 1
     return "\n".join(lines).strip()
 
 
-def format_daily(items: List[Item]) -> str:
+def format_daily(items: List[Item], feed: str) -> str:
     grouped: Dict[str, List[Item]] = {}
     for item in items:
-        grouped.setdefault(item.category, []).append(item)
+        grouped.setdefault(item.category_key, []).append(item)
 
-    lines = [f"AI专线日报 {datetime.now().strftime('%Y-%m-%d')}", ""]
-    for category in ["研究", "产品发布", "公司动态", "媒体补充", "未分类"]:
-        category_items = grouped.get(category, [])
+    lines = [f"{FEED_TITLES[feed]}日报 {today_local()}", ""]
+    for category_key in CATEGORY_ORDER:
+        category_items = grouped.get(category_key, [])
         if not category_items:
             continue
-        lines.append(f"{category}: {len(category_items)} 条")
+        lines.append(f"{CATEGORY_LABELS[category_key]}：{len(category_items)} 条")
         for item in category_items[:6]:
-            lines.append(f"- [{item.source}] {item.title}")
-            translation = maybe_translate_bilingual(item.title)
-            if translation:
-                lines.append(f"  中文: {translation}")
-            lines.append(f"  {item.url}")
+            item_lines = title_lines(item)
+            lines.append(f"- {item_lines[0]}")
+            for extra_line in item_lines[1:]:
+                lines.append(f"  {extra_line}")
         lines.append("")
     return "\n".join(lines).strip()
 
 
-def filter_by_feed(items: List[Item], feed: str) -> List[Item]:
-    if feed == "research":
-        allowed = {"研究"}
-    elif feed == "company":
-        allowed = {"产品发布", "公司动态"}
-    else:
-        allowed = {"研究", "产品发布", "公司动态", "媒体补充", "未分类"}
-    return [item for item in items if item.category in allowed]
-
-
-def _state_key(feed: str, suffix: str) -> str:
+def state_key(feed: str, suffix: str) -> str:
     return f"{feed}_{suffix}"
 
 
@@ -447,32 +485,23 @@ def run_realtime(feed: str) -> int:
     config = load_config()
     state = load_state()
     items = filter_by_feed(fetch_items(config), feed)
-    sent_urls = set(state.get(_state_key(feed, "sent_urls"), []))
+    sent_urls = set(state.get(state_key(feed, "sent_urls"), []))
     new_items = [item for item in items if item.url not in sent_urls]
     if not new_items:
         print("AI feed: no new items")
         return 0
 
-    message = format_realtime(new_items)
-    send_telegram(message)
-    state[_state_key(feed, "sent_urls")] = (
-        state.get(_state_key(feed, "sent_urls"), []) + [item.url for item in new_items]
+    send_telegram(format_realtime(new_items, feed))
+    state[state_key(feed, "sent_urls")] = (
+        state.get(state_key(feed, "sent_urls"), []) + [item.url for item in new_items]
     )[-500:]
-    today = datetime.now().strftime("%Y-%m-%d")
-    daily_seen = state.get(_state_key(feed, "daily_seen"), {})
+
+    today = today_local()
+    daily_seen = state.get(state_key(feed, "daily_seen"), {})
     today_items = daily_seen.get(today, [])
-    today_items.extend(
-        {
-            "source": item.source,
-            "category": item.category,
-            "title": item.title,
-            "url": item.url,
-            "published": item.published,
-        }
-        for item in new_items
-    )
+    today_items.extend(asdict(item) for item in new_items)
     daily_seen[today] = today_items[-200:]
-    state[_state_key(feed, "daily_seen")] = {today: daily_seen[today]}
+    state[state_key(feed, "daily_seen")] = {today: daily_seen[today]}
     save_state(state)
     print(f"AI feed: sent {len(new_items)} new items")
     return 0
@@ -480,16 +509,19 @@ def run_realtime(feed: str) -> int:
 
 def run_daily(feed: str) -> int:
     state = load_state()
-    today = datetime.now().strftime("%Y-%m-%d")
-    if state.get(_state_key(feed, "last_daily_date")) == today:
+    today = today_local()
+    if state.get(state_key(feed, "last_daily_date")) == today:
         print("AI feed: daily digest already sent today")
         return 0
-    items = [Item(**item) for item in state.get(_state_key(feed, "daily_seen"), {}).get(today, [])]
-    if not items:
+
+    raw_items = state.get(state_key(feed, "daily_seen"), {}).get(today, [])
+    if not raw_items:
         print("AI feed: no daily items to summarize")
         return 0
-    send_telegram(format_daily(items))
-    state[_state_key(feed, "last_daily_date")] = today
+
+    items = [Item(**item) for item in raw_items]
+    send_telegram(format_daily(items, feed))
+    state[state_key(feed, "last_daily_date")] = today
     save_state(state)
     print(f"AI feed: sent daily digest with {len(items)} items")
     return 0
