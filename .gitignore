@@ -1,0 +1,6 @@
+.deps/
+.venv/
+.venv_local/
+__pycache__/
+telegram.env.ps1
+server.log

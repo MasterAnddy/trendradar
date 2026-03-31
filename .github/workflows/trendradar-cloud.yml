@@ -1,0 +1,71 @@
+name: TrendRadar Cloud
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+    - cron: "5 * * * *"
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Mode to run"
+        required: true
+        default: "current"
+        type: choice
+        options:
+          - incremental
+          - current
+          - daily
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Resolve mode
+        id: mode
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            MODE="${{ inputs.mode }}"
+          else
+            case "${{ github.event.schedule }}" in
+              "*/15 * * * *") MODE="incremental" ;;
+              "5 * * * *") MODE="current" ;;
+              "0 12 * * *") MODE="daily" ;;
+              *) echo "Unknown schedule"; exit 1 ;;
+            esac
+          fi
+          echo "mode=$MODE" >> "$GITHUB_OUTPUT"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests==2.32.4 pytz==2025.2 PyYAML==6.0.2 Flask
+
+      - name: Run TrendRadar
+        env:
+          CONFIG_PATH: config/profiles/${{ steps.mode.outputs.mode }}.telegram.yaml
+          FREQUENCY_WORDS_PATH: config/keywords/frequency_words.user.txt
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GITHUB_ACTIONS: true
+        run: python main.py
+
+      - name: Commit generated files
+        shell: bash
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add output api img
+          git diff --quiet && git diff --staged --quiet || (git commit -m "TrendRadar ${{ steps.mode.outputs.mode }} update $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M:%S')" && git push)

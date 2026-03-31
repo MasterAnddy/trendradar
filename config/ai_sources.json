@@ -1,0 +1,225 @@
+{
+  "keywords": [
+    "ai",
+    "artificial intelligence",
+    "agent",
+    "agents",
+    "llm",
+    "model",
+    "models",
+    "gpt",
+    "openai",
+    "anthropic",
+    "claude",
+    "gemini",
+    "deepmind",
+    "copilot",
+    "machine learning",
+    "generative",
+    "人工智能",
+    "大模型",
+    "智能体",
+    "生成式",
+    "生成ai",
+    "生成式ai",
+    "aiモデル",
+    "生成ai",
+    "人工知能"
+  ],
+  "sources": [
+    {
+      "name": "OpenAI Newsroom",
+      "category": "产品发布",
+      "type": "html",
+      "url": "https://openai.com/news/",
+      "base_url": "https://openai.com",
+      "allow_prefixes": [
+        "/index/",
+        "/news/"
+      ],
+      "deny_substrings": [
+        "#",
+        "cdn.openai.com"
+      ],
+      "max_items": 8
+    },
+    {
+      "name": "OpenAI ChatGPT Release Notes",
+      "category": "产品发布",
+      "type": "article_headings",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "max_items": 12
+    },
+    {
+      "name": "OpenAI Model Release Notes",
+      "category": "产品发布",
+      "type": "article_headings",
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "max_items": 12
+    },
+    {
+      "name": "Google Blog AI",
+      "category": "产品发布",
+      "type": "html",
+      "url": "https://blog.google/technology/ai/",
+      "base_url": "https://blog.google",
+      "allow_prefixes": [
+        "/technology/ai/",
+        "/products/"
+      ],
+      "deny_substrings": [
+        "#"
+      ],
+      "max_items": 8
+    },
+    {
+      "name": "Google Research Blog",
+      "category": "研究",
+      "type": "html",
+      "url": "https://research.google/blog/",
+      "base_url": "https://research.google",
+      "allow_prefixes": [
+        "/blog/"
+      ],
+      "deny_substrings": [
+        "#"
+      ],
+      "max_items": 10
+    },
+    {
+      "name": "Anthropic News",
+      "category": "产品发布",
+      "type": "html",
+      "url": "https://www.anthropic.com/news",
+      "base_url": "https://www.anthropic.com",
+      "allow_prefixes": [
+        "/news/"
+      ],
+      "deny_substrings": [
+        "#"
+      ],
+      "max_items": 8
+    },
+    {
+      "name": "Microsoft Official Blog",
+      "category": "产品发布",
+      "type": "html",
+      "url": "https://blogs.microsoft.com/blog/tag/ai/",
+      "base_url": "https://blogs.microsoft.com",
+      "allow_prefixes": [
+        "/blog/"
+      ],
+      "deny_substrings": [
+        "#"
+      ],
+      "max_items": 10
+    },
+    {
+      "name": "Microsoft Research Blog",
+      "category": "研究",
+      "type": "html",
+      "url": "https://www.microsoft.com/en-us/research/blog/",
+      "base_url": "https://www.microsoft.com",
+      "allow_prefixes": [
+        "/en-us/research/blog/"
+      ],
+      "deny_substrings": [
+        "#"
+      ],
+      "max_items": 10
+    },
+    {
+      "name": "Meta Newsroom",
+      "category": "公司动态",
+      "type": "html",
+      "url": "https://about.fb.com/news/",
+      "base_url": "https://about.fb.com",
+      "allow_prefixes": [
+        "/news/"
+      ],
+      "deny_substrings": [
+        "#",
+        "/video/",
+        "/feed/"
+      ],
+      "max_items": 10
+    },
+    {
+      "name": "Meta Engineering AI",
+      "category": "研究",
+      "type": "html",
+      "url": "https://engineering.fb.com/category/ai-research/",
+      "base_url": "https://engineering.fb.com",
+      "allow_prefixes": [
+        "/202"
+      ],
+      "deny_substrings": [
+        "#"
+      ],
+      "max_items": 10
+    },
+    {
+      "name": "NVIDIA Newsroom",
+      "category": "公司动态",
+      "type": "html",
+      "url": "https://nvidianews.nvidia.com/news/",
+      "base_url": "https://nvidianews.nvidia.com",
+      "allow_prefixes": [
+        "/news/"
+      ],
+      "deny_substrings": [
+        "#"
+      ],
+      "max_items": 10
+    },
+    {
+      "name": "NVIDIA Developer Blog",
+      "category": "研究",
+      "type": "html",
+      "url": "https://developer.nvidia.com/blog/",
+      "base_url": "https://developer.nvidia.com",
+      "allow_prefixes": [
+        "/blog/"
+      ],
+      "deny_substrings": [
+        "#"
+      ],
+      "max_items": 10
+    },
+    {
+      "name": "Google DeepMind Blog",
+      "category": "研究",
+      "type": "html",
+      "url": "https://deepmind.google/blog/",
+      "base_url": "https://deepmind.google",
+      "allow_prefixes": [
+        "/blog/"
+      ],
+      "deny_substrings": [
+        "#"
+      ],
+      "max_items": 8
+    },
+    {
+      "name": "TechCrunch AI",
+      "category": "媒体补充",
+      "type": "rss",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "max_items": 10
+    },
+    {
+      "name": "The Verge AI",
+      "category": "媒体补充",
+      "type": "rss",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "max_items": 10
+    },
+    {
+      "name": "NVIDIA Blog",
+      "category": "产品发布",
+      "type": "rss",
+      "url": "https://blogs.nvidia.com/feed/",
+      "max_items": 10
+    }
+  ]
+}
