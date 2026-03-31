@@ -380,7 +380,19 @@
     "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
     "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
     "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
-    "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/"
+    "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+    "https://openai.com/news/global-affairs/",
+    "https://openai.com/news/ai-adoption/",
+    "https://openai.com/index/accelerating-the-next-phase-ai/",
+    "https://openai.com/index/our-approach-to-the-model-spec/",
+    "https://openai.com/index/safety-bug-bounty/",
+    "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard/",
+    "https://openai.com/index/update-on-the-openai-foundation/",
+    "https://openai.com/index/powering-product-discovery-in-chatgpt/",
+    "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "https://help.openai.com/en/articles/9624314-model-release-notes",
+    "https://www.anthropic.com/news/australia-MOU",
+    "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/"
   ],
   "company_daily_seen": {
     "2026-04-01": [
@@ -712,6 +724,90 @@
         "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
         "url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
         "published": "Mon, 30 Mar 2026 13:52:02 +0000"
+      },
+      {
+        "source": "OpenAI Newsroom",
+        "category_key": "product",
+        "title": "Global Affairs",
+        "url": "https://openai.com/news/global-affairs/",
+        "published": ""
+      },
+      {
+        "source": "OpenAI Newsroom",
+        "category_key": "product",
+        "title": "AI Adoption",
+        "url": "https://openai.com/news/ai-adoption/",
+        "published": ""
+      },
+      {
+        "source": "OpenAI Newsroom",
+        "category_key": "product",
+        "title": "OpenAI raises $122 billion to accelerate the next phase of AICompanyMar 31, 2026",
+        "url": "https://openai.com/index/accelerating-the-next-phase-ai/",
+        "published": ""
+      },
+      {
+        "source": "OpenAI Newsroom",
+        "category_key": "product",
+        "title": "Inside our approach to the Model SpecResearchMar 25, 2026",
+        "url": "https://openai.com/index/our-approach-to-the-model-spec/",
+        "published": ""
+      },
+      {
+        "source": "OpenAI Newsroom",
+        "category_key": "product",
+        "title": "Introducing the OpenAI Safety Bug Bounty programSafetyMar 25, 2026",
+        "url": "https://openai.com/index/safety-bug-bounty/",
+        "published": ""
+      },
+      {
+        "source": "OpenAI Newsroom",
+        "category_key": "product",
+        "title": "Helping developers build safer AI experiences for teensSafetyMar 24, 2026",
+        "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard/",
+        "published": ""
+      },
+      {
+        "source": "OpenAI Newsroom",
+        "category_key": "product",
+        "title": "Update on the OpenAI FoundationCompanyMar 24, 2026",
+        "url": "https://openai.com/index/update-on-the-openai-foundation/",
+        "published": ""
+      },
+      {
+        "source": "OpenAI Newsroom",
+        "category_key": "product",
+        "title": "Powering Product Discovery in ChatGPTProductMar 24, 2026",
+        "url": "https://openai.com/index/powering-product-discovery-in-chatgpt/",
+        "published": ""
+      },
+      {
+        "source": "OpenAI ChatGPT Release Notes",
+        "category_key": "product",
+        "title": "ChatGPT — Release Notes",
+        "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+        "published": ""
+      },
+      {
+        "source": "OpenAI Model Release Notes",
+        "category_key": "product",
+        "title": "Model Release Notes",
+        "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+        "published": ""
+      },
+      {
+        "source": "Anthropic News",
+        "category_key": "product",
+        "title": "Mar 31, 2026AnnouncementsAustralian government and Anthropic sign MOU for AI safety and research",
+        "url": "https://www.anthropic.com/news/australia-MOU",
+        "published": ""
+      },
+      {
+        "source": "TechCrunch AI",
+        "category_key": "media",
+        "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+        "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+        "published": "Tue, 31 Mar 2026 22:46:25 +0000"
       }
     ]
   }
