@@ -1,0 +1,64 @@
+name: Breaking Feed Cloud
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+    inputs:
+      force_send:
+        description: "Send current alerts immediately"
+        required: true
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    env:
+      BREAKING_FEED_TIMEZONE: "Asia/Tokyo"
+      PYTHONUTF8: "1"
+      TZ: "Asia/Tokyo"
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests==2.32.4
+
+      - name: Resolve force-send flag
+        id: flags
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.force_send }}" = "true" ]; then
+            echo "force_send=--force-send" >> "$GITHUB_OUTPUT"
+          else
+            echo "force_send=" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Run breaking feed
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python breaking_feed.py ${{ steps.flags.outputs.force_send }}
+
+      - name: Commit breaking-feed state
+        shell: bash
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          mkdir -p output/.breaking_feed
+          git add -A output/.breaking_feed
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Breaking feed update $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M:%S')" && git push)
