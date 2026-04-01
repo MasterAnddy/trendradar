@@ -1,0 +1,73 @@
+{
+  "bootstrapped": true,
+  "sent_keys": [
+    "wallstreetcn-quick:anthropic意外泄露了claudeai智能体的源代码",
+    "jin10:荷兰国际英国央行加息预期调整空间更大英镑兑欧元或走弱",
+    "wallstreetcn-hot:美以袭击伊朗最大岛屿",
+    "ifeng:美以伊战争丨伊朗霍尔木兹海峡不会开放",
+    "wallstreetcn-hot:伊朗总统称要结束战争对方须保证不再侵略伊外长称与美有信息交流但没谈判"
+  ],
+  "last_checked_at": "2026-04-01 18:29:39",
+  "last_sent_at": "2026-04-01 18:29:39",
+  "last_alerts": [
+    {
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "Anthropic意外泄露了Claude AI智能体的源代码",
+      "url": "https://wallstreetcn.com/livenews/3080773",
+      "rank": 14,
+      "score": 90,
+      "matched_keywords": [
+        "anthropic",
+        "claude",
+        "ai",
+        "智能体"
+      ]
+    },
+    {
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "荷兰国际：英国央行加息预期调整空间更大 英镑兑欧元或走弱",
+      "url": "https://flash.jin10.com/detail/20260401171651604800",
+      "rank": 24,
+      "score": 85,
+      "matched_keywords": [
+        "央行",
+        "加息"
+      ]
+    },
+    {
+      "source_id": "wallstreetcn-hot",
+      "source_name": "华尔街见闻",
+      "title": "美以袭击伊朗最大岛屿",
+      "url": "https://wallstreetcn.com/articles/3768911",
+      "rank": 2,
+      "score": 75,
+      "matched_keywords": [
+        "袭击"
+      ]
+    },
+    {
+      "source_id": "ifeng",
+      "source_name": "凤凰网",
+      "title": "美以伊战争丨伊朗：霍尔木兹海峡不会开放",
+      "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+      "rank": 1,
+      "score": 70,
+      "matched_keywords": [
+        "战争"
+      ]
+    },
+    {
+      "source_id": "wallstreetcn-hot",
+      "source_name": "华尔街见闻",
+      "title": "伊朗总统称要结束战争、对方须保证不再侵略，伊外长称与美有信息交流但没谈判",
+      "url": "https://wallstreetcn.com/articles/3768922",
+      "rank": 5,
+      "score": 70,
+      "matched_keywords": [
+        "战争"
+      ]
+    }
+  ]
+}
