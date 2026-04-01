@@ -827,5 +827,6 @@
       }
     ]
   },
-  "research_last_daily_date": "2026-04-01"
+  "research_last_daily_date": "2026-04-01",
+  "company_last_daily_date": "2026-04-01"
 }
