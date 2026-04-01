@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T16:44:47.149292+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-04-01T17:19:38.093412+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本 中国 美国",
-      "match_count": 136,
+      "match_count": 147,
       "titles": [
         {
           "title": "凤凰女记者三问文化遗产受损情况，伊朗官员提到了中国",
@@ -98,8 +98,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[05时40分 ~ 16时44分]"
+          "appearance_count": 20,
+          "time_info": "[05时40分 ~ 17时19分]"
+        },
+        {
+          "title": "泰国泡面先吃后付,日本人怒了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352621&amp;topic_name=%E6%B3%B0%E5%9B%BD%E6%B3%A1%E9%9D%A2%E5%85%88%E5%90%83%E5%90%8E%E4%BB%98%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%80%92%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时36分 ~ 17时19分]"
         },
         {
           "title": "中国和巴基斯坦恢复中东地区和平稳定的五点倡议",
@@ -154,8 +169,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时41分 ~ 16时44分]"
+          "appearance_count": 15,
+          "time_info": "[05时41分 ~ 17时19分]"
         },
         {
           "title": "开场9分钟连丢两球，中国男足0比2不敌喀麦隆",
@@ -172,21 +187,6 @@
           "time_info": "[06时45分 ~ 15时48分]"
         },
         {
-          "title": "泰国泡面先吃后付,日本人怒了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352621&amp;topic_name=%E6%B3%B0%E5%9B%BD%E6%B3%A1%E9%9D%A2%E5%85%88%E5%90%83%E5%90%8E%E4%BB%98%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%80%92%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时36分 ~ 16时44分]"
-        },
-        {
           "title": "图是中国的？苏格兰撤下了",
           "url": "https://news.ifeng.com/c/8rx8mJPpChy",
           "source": "凤凰网",
@@ -194,8 +194,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时45分 ~ 16时44分]"
+          "appearance_count": 17,
+          "time_info": "[06时45分 ~ 17时19分]"
         },
         {
           "title": "3秒一架！中国无人机蜂群突击铺天盖地",
@@ -235,6 +235,32 @@
           "time_info": "[05时41分 ~ 07时42分]"
         },
         {
+          "title": "中国投下赞成票，俄罗斯、朝鲜等投了反对票",
+          "url": "https://news.ifeng.com/c/8rxRaA3NYJG",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时48分 ~ 17时19分]"
+        },
+        {
+          "title": "日本彻底撕下伪装",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BD%BB%E5%BA%95%E6%92%95%E4%B8%8B%E4%BC%AA%E8%A3%85%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            16,
+            2,
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时49分 ~ 17时19分]"
+        },
+        {
           "title": "日本历史首胜英格兰",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8E%86%E5%8F%B2%E9%A6%96%E8%83%9C%E8%8B%B1%E6%A0%BC%E5%85%B0",
           "source": "bilibili 热搜",
@@ -249,15 +275,17 @@
           "time_info": "[14时02分 ~ 16时44分]"
         },
         {
-          "title": "中国投下赞成票，俄罗斯、朝鲜等投了反对票",
-          "url": "https://news.ifeng.com/c/8rxRaA3NYJG",
-          "source": "凤凰网",
+          "title": "中国最强“东西大动脉”要来了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%BC%BA%E2%80%9C%E4%B8%9C%E8%A5%BF%E5%A4%A7%E5%8A%A8%E8%84%89%E2%80%9D%E8%A6%81%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            9
+            23,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时48分 ~ 16时44分]"
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 17时19分]"
         },
         {
           "title": "中国无人机蜂群突击铺天盖地",
@@ -286,6 +314,21 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时35分 ~ 11时45分]"
+        },
+        {
+          "title": "日本1:0英格兰",
+          "url": "https://www.douyin.com/hot/2450690",
+          "source": "抖音",
+          "ranks": [
+            13,
+            12,
+            14,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时36分 ~ 17时19分]"
         },
         {
           "title": "美国打伊朗，阿拉伯国家掏钱？白宫新闻秘书：特朗普有这想法",
@@ -337,20 +380,6 @@
           "time_info": "[13时48分 ~ 15时16分]"
         },
         {
-          "title": "日本彻底撕下伪装",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BD%BB%E5%BA%95%E6%92%95%E4%B8%8B%E4%BC%AA%E8%A3%85%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            16,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时49分 ~ 16时44分]"
-        },
-        {
           "title": "日本防卫省：055编队穿越对马海峡",
           "url": "https://www.toutiao.com/trending/7623354277327994922/",
           "source": "今日头条",
@@ -365,19 +394,6 @@
           "time_info": "[05时41分 ~ 07时31分]"
         },
         {
-          "title": "中国最强“东西大动脉”要来了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%BC%BA%E2%80%9C%E4%B8%9C%E8%A5%BF%E5%A4%A7%E5%8A%A8%E8%84%89%E2%80%9D%E8%A6%81%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 16时44分]"
-        },
-        {
           "title": "“只要有图纸 中国100%做得出来”",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%AA%E8%A6%81%E6%9C%89%E5%9B%BE%E7%BA%B8+%E4%B8%AD%E5%9B%BD100%25%E5%81%9A%E5%BE%97%E5%87%BA%E6%9D%A5%E2%80%9D",
           "source": "百度热搜",
@@ -390,19 +406,28 @@
           "time_info": "[05时41分 ~ 08时04分]"
         },
         {
-          "title": "日本1:0英格兰",
-          "url": "https://www.douyin.com/hot/2450690",
-          "source": "抖音",
+          "title": "外交部：日本这一动向十分危险",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%97%A5%E6%9C%AC%E8%BF%99%E4%B8%80%E5%8A%A8%E5%90%91%E5%8D%81%E5%88%86%E5%8D%B1%E9%99%A9",
+          "source": "百度热搜",
           "ranks": [
-            13,
-            12,
-            14,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 17时19分]"
+        },
+        {
+          "title": "美国为何爆发反特朗普抗议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
             11,
-            10
+            28
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时36分 ~ 16时44分]"
+          "time_info": "[06时45分 ~ 17时19分]"
         },
         {
           "title": "关键时刻 巴外长抵京与中国对表",
@@ -417,6 +442,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[05时41分 ~ 08时04分]"
+        },
+        {
+          "title": "伊朗外长：一直收到美国总统特使信息，但不意味着谈判",
+          "url": "https://news.ifeng.com/c/8ry7uIFNLZS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 17时19分]"
+        },
+        {
+          "title": "伊朗：收到美国总统特使“私信”",
+          "url": "https://www.cls.cn/detail/2331889",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时16分 ~ 17时19分]"
         },
         {
           "title": "私募股权对日本快餐业的胃口正不断增长",
@@ -475,18 +524,6 @@
           "time_info": "[11时36分 ~ 15时48分]"
         },
         {
-          "title": "美国为何爆发反特朗普抗议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时45分 ~ 15时16分]"
-        },
-        {
           "title": "美国总统特朗普：鲍威尔必须尽快离任。 （美国军队）很快就会离开伊朗。 今天股价涨了。 我只要（宣布美军）离开伊朗，汽油价格就会下跌。 美国将在2-3周内离开伊朗。 法国等国家将在霍尔木兹海峡应对（伊朗）。",
           "url": "https://wallstreetcn.com/livenews/3080399",
           "source": "华尔街见闻-快讯",
@@ -509,41 +546,6 @@
           "time_info": "08时04分"
         },
         {
-          "title": "伊朗外长：一直收到美国总统特使信息，但不意味着谈判",
-          "url": "https://news.ifeng.com/c/8ry7uIFNLZS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时44分"
-        },
-        {
-          "title": "外交部：日本这一动向十分危险",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%97%A5%E6%9C%AC%E8%BF%99%E4%B8%80%E5%8A%A8%E5%90%91%E5%8D%81%E5%88%86%E5%8D%B1%E9%99%A9",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时44分"
-        },
-        {
-          "title": "伊朗：收到美国总统特使“私信”",
-          "url": "https://www.cls.cn/detail/2331889",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时16分 ~ 16时44分]"
-        },
-        {
           "title": "日本一季度短观大型非制造业景气判断指数 36，预期 33，前值 34。",
           "url": "https://wallstreetcn.com/livenews/3080456",
           "source": "华尔街见闻-快讯",
@@ -553,6 +555,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "台积电：将日本厂生产制程变更为3纳米，月产能15,000片，2028年将安装设备并开始量产。",
+          "url": "https://wallstreetcn.com/livenews/3080780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "鲁比奥：美国可以看到战争的“终点线”",
@@ -587,6 +600,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "受贿数额特别巨大 中国大唐原总经理寇伟一审被判死缓",
+          "url": "https://wallstreetcn.com/livenews/3080779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "美国总统特朗普：伊朗重建需要15到20年时间。",
@@ -636,17 +660,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
-        {
-          "title": "伊朗高官喊话特朗普：霍尔木兹海峡肯定会重新开放 但不会对美国开放",
-          "url": "https://wallstreetcn.com/livenews/3080750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时44分"
         },
         {
           "title": "民调：三分之二的美国人认为，应尽快结束对伊朗的战争",
@@ -787,6 +800,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时45分 ~ 07时42分]"
+        },
+        {
+          "title": "伊朗高官喊话特朗普：霍尔木兹海峡肯定会重新开放 但不会对美国开放",
+          "url": "https://wallstreetcn.com/livenews/3080750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 17时19分]"
         },
         {
           "title": "美国总统特朗普：（被问及降低汽油价格的计划）我只需要离开伊朗。我们很快就会做到。",
@@ -1154,6 +1179,18 @@
           "time_info": "[06时02分 ~ 06时45分]"
         },
         {
+          "title": "日本央行新任审议委员浅田统一郎：希望避免就具体立场发表评论。 政策组合能够克服严峻的经济形势。 毫无疑问，高油价将推高通胀。 若出现滞胀将难以应对。 对日本央行结束通缩的政策予以积极评价。 希望避免对近期日本央行政策进行评估。 日本央行无意干预外汇市场。 不便表态日元疲软或走强哪个更好。 被称为“再通胀主义者”并不觉得奇怪。",
+          "url": "https://wallstreetcn.com/livenews/3080742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 17时19分]"
+        },
+        {
           "title": "美国总统特朗普：我不需要国会批准建设这个舞厅，法官错了。",
           "url": "https://flash.jin10.com/detail/20260401054746054800",
           "source": "金十数据",
@@ -1314,6 +1351,18 @@
           "time_info": "[05时40分 ~ 05时41分]"
         },
         {
+          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 17时19分]"
+        },
+        {
           "title": "外交部：坚决反对菲律宾损害中国的主权和权益",
           "url": "https://flash.jin10.com/detail/20260401153133921800",
           "source": "金十数据",
@@ -1356,6 +1405,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时48分 ~ 13时49分]"
+        },
+        {
+          "title": "古巴：感谢中国无条件支持",
+          "url": "https://www.toutiao.com/trending/7623044049636802611/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 17时19分]"
         },
         {
           "title": "40年期日本国债收益率下跌12.0个基点，至3.795%。",
@@ -1414,15 +1475,37 @@
           "time_info": "[07时31分 ~ 07时42分]"
         },
         {
-          "title": "日本央行新任审议委员浅田统一郎：希望避免就具体立场发表评论。 政策组合能够克服严峻的经济形势。 毫无疑问，高油价将推高通胀。 若出现滞胀将难以应对。 对日本央行结束通缩的政策予以积极评价。 希望避免对近期日本央行政策进行评估。 日本央行无意干预外汇市场。 不便表态日元疲软或走强哪个更好。 被称为“再通胀主义者”并不觉得奇怪。",
-          "url": "https://wallstreetcn.com/livenews/3080742",
+          "title": "外媒：特朗普正“认真考虑”让美国退出北约",
+          "url": "https://wallstreetcn.com/livenews/3080775",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "据《每日电讯报》：特朗普称北约为“纸老虎”，并表示让美国退出北约已“不容再议”。",
+          "url": "https://flash.jin10.com/detail/20260401165838207800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时44分"
+          "time_info": "17时19分"
+        },
+        {
+          "title": "据《每日电讯报》：美国总统特朗普表示，他正在强烈考虑让美国退出北约，原因是北约未能加入他对伊朗的战争。",
+          "url": "https://flash.jin10.com/detail/20260401165751001800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "中国财险(02328.HK)：2025年原保险保费收入5557.77 亿元，同比增长3.3%；保险服务收入 5,115.94亿元，同比增长5.4%。",
@@ -1431,9 +1514,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "中国最强东西大动脉要来了",
+          "url": "https://www.toutiao.com/trending/7623662543868792374/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "美国总统特朗普：世界杯期间我们将不得不“强迫自己”前往洛杉矶。",
@@ -1464,7 +1558,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -1475,9 +1569,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "一中国人涉及超7亿房产在英被冻结",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B6%89%E5%8F%8A%E8%B6%857%E4%BA%BF%E6%88%BF%E4%BA%A7%E5%9C%A8%E8%8B%B1%E8%A2%AB%E5%86%BB%E7%BB%93%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "中国香港2月零售销售额年率 19.3%，前值5.50%。",
@@ -1486,20 +1591,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
         {
-          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
-          "source": "澎湃新闻",
+          "title": "中方回应美颁通用许可证排除中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E9%A2%81%E9%80%9A%E7%94%A8%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%8E%92%E9%99%A4%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时44分"
+          "time_info": "17时19分"
         },
         {
           "title": "美国总统特朗普签署了一项有关邮寄投票的行政命令。",
@@ -1530,9 +1635,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "日本动向十分危险",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8A%A8%E5%90%91%E5%8D%81%E5%88%86%E5%8D%B1%E9%99%A9%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "日本央行新任审议委员浅田统一郎：财政与货币政策的配合可支撑经济。",
@@ -1541,7 +1657,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -1568,13 +1684,24 @@
           "time_info": "14时02分"
         },
         {
+          "title": "伊朗外交部：美国对外交并不认真",
+          "url": "https://www.toutiao.com/trending/7623618474815946771/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "日本男教师因接受性服务时偷拍被解雇",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E6%95%99%E5%B8%88%E5%9B%A0%E6%8E%A5%E5%8F%97%E6%80%A7%E6%9C%8D%E5%8A%A1%E6%97%B6%E5%81%B7%E6%8B%8D%E8%A2%AB%E8%A7%A3%E9%9B%87%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -1596,9 +1723,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "中国机车终于“上桌”了",
+          "url": "https://www.toutiao.com/trending/7623671984383069734/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "日本地震多座核电站据报无异常",
@@ -1612,24 +1750,13 @@
           "time_info": "15时16分"
         },
         {
-          "title": "古巴：感谢中国无条件支持",
-          "url": "https://www.toutiao.com/trending/7623044049636802611/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时44分"
-        },
-        {
           "title": "日本央行新任审议委员浅田统一郎：日本央行并不以汇率为目标，因此无法判断日元贬值或升值孰优。",
           "url": "https://flash.jin10.com/detail/20260401161724416800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -1640,7 +1767,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         }
@@ -1648,7 +1775,7 @@
     },
     {
       "keyword_group": "黄金 原油",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "高盛：若中东冲突升级并加剧西方财政担忧，黄金将冲击6100美元！",
@@ -1660,8 +1787,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[05时40分 ~ 16时44分]"
+          "appearance_count": 20,
+          "time_info": "[05时40分 ~ 17时19分]"
         },
         {
           "title": "布伦特原油转跌，下破102美元/桶，最低至101.78美元/桶。",
@@ -1699,6 +1826,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时45分 ~ 08时04分]"
+        },
+        {
+          "title": "金十图示：2026年04月01日（周三）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20260401170211100800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "现货黄金日内涨幅达1.5%，报4737.51美元/盎司。",
@@ -2019,7 +2157,7 @@
     },
     {
       "keyword_group": "AI 人工智能",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
@@ -2044,11 +2182,12 @@
             18,
             19,
             20,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时41分 ~ 16时44分]"
+          "appearance_count": 15,
+          "time_info": "[05时41分 ~ 17时19分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -2060,11 +2199,12 @@
             25,
             26,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时41分 ~ 16时44分]"
+          "appearance_count": 15,
+          "time_info": "[05时41分 ~ 17时19分]"
         },
         {
           "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
@@ -2089,17 +2229,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时35分 ~ 14时02分]"
-        },
-        {
-          "title": "HBM之父：看好高带宽闪存技术 未来AI产业或从GPU转向内存主导",
-          "url": "https://flash.jin10.com/detail/20260401164104532800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时44分"
         },
         {
           "title": "澳大利亚与Anthropic围绕国别人工智能（National AI）计划签署备忘录（MOU）。",
@@ -2151,6 +2280,18 @@
           "time_info": "[11时36分 ~ 11时45分]"
         },
         {
+          "title": "HBM之父：看好高带宽闪存技术 未来AI产业或从GPU转向内存主导",
+          "url": "https://flash.jin10.com/detail/20260401164104532800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 17时19分]"
+        },
+        {
           "title": "港股人工智能板块午后冲高，智谱(02513.HK)涨近30%，MINIMAX-W(00100.HK)涨超16%，兆易创新(03986.HK)涨超8%，哔哩哔哩(09626.HK)涨超7%，百度(09888.HK)涨超5%。",
           "url": "https://flash.jin10.com/detail/20260401132954043800",
           "source": "金十数据",
@@ -2183,8 +2324,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 16时44分]"
+          "appearance_count": 3,
+          "time_info": "[15时48分 ~ 17时19分]"
         },
         {
           "title": "英伟达再度动用“钞能力” 入股迈威尔科技并开展AI互联、硅光子合作",
@@ -2277,6 +2418,17 @@
           "time_info": "[05时40分 ~ 05时41分]"
         },
         {
+          "title": "Anthropic意外泄露了Claude AI智能体的源代码",
+          "url": "https://wallstreetcn.com/livenews/3080773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "苹果客服回应撤回国行AI",
           "url": "https://www.douyin.com/hot/2449610",
           "source": "抖音",
@@ -2286,6 +2438,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "微软预计到2029年将在新加坡的AI领域投资55亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3080767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "HBM之父：看好高带宽闪存技术 未来AI产业或从GPU转向内存主导",
+          "url": "https://wallstreetcn.com/livenews/3080764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "澳大利亚依照国家AI计划与Anthropic签署谅解备忘录",
@@ -2305,7 +2479,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         }
@@ -2323,8 +2497,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时31分 ~ 16时44分]"
+          "appearance_count": 15,
+          "time_info": "[07时31分 ~ 17时19分]"
         },
         {
           "title": "【早报】伊朗总统：愿在诉求满足前提下结束战争；美股大涨，科技股、中概股大幅走强",
@@ -2364,8 +2538,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时45分 ~ 16时44分]"
+          "appearance_count": 17,
+          "time_info": "[06时45分 ~ 17时19分]"
         },
         {
           "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
@@ -2541,7 +2715,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -2571,7 +2745,7 @@
     },
     {
       "keyword_group": "特斯拉 Tesla 英伟达 NVIDIA",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "传闻中标特斯拉光伏项目第二期，拉普拉斯股价涨停！公司回应：不太清楚",
@@ -2681,9 +2855,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "原特斯拉中国区高管孔艳双入职小米",
+          "url": "https://www.toutiao.com/trending/7623635986878119986/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         }
       ]
     },
@@ -2712,8 +2897,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时31分 ~ 16时44分]"
+          "appearance_count": 15,
+          "time_info": "[07时31分 ~ 17时19分]"
         },
         {
           "title": "Claude Code源码意外泄露",
@@ -2746,11 +2931,12 @@
           "url": "https://www.douyin.com/hot/2451216",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 16时44分]"
+          "appearance_count": 4,
+          "time_info": "[15时16分 ~ 17时19分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -2761,8 +2947,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 16时44分]"
+          "appearance_count": 3,
+          "time_info": "[15时48分 ~ 17时19分]"
         }
       ]
     },
