@@ -18,57 +18,62 @@
     "jin10:英国央行贝利货币政策委员会或将讨论预防性加息方案但需结合政策授权范畴及通胀回归目标路径进行综合研判",
     "jin10:英国央行行长贝利我仍认为市场加息的预期过于超前",
     "wallstreetcn-quick:美以空袭美原驻伊朗使馆区域",
-    "wallstreetcn-quick:英国央行行长贝利我认为市场在预期利率上调方面有些操之过急了若情况合适我们将采取行动但解决能源价格冲击的根源最为重要如果能源价格长期高企且供应中断将对许多国家造成相当严重的压力我非常清楚我们需在对增长和就业损害最小的方式下使通胀回归目标"
+    "wallstreetcn-quick:英国央行行长贝利我认为市场在预期利率上调方面有些操之过急了若情况合适我们将采取行动但解决能源价格冲击的根源最为重要如果能源价格长期高企且供应中断将对许多国家造成相当严重的压力我非常清楚我们需在对增长和就业损害最小的方式下使通胀回归目标",
+    "ifeng:美以伊战争丨特朗普伊朗新政权总统向美国请求停火",
+    "wallstreetcn-quick:美国圣路易斯联储主席musalem我决心将通货膨胀率降至2预计未来两个季度关税影响将逐渐减弱降低通胀有利于经济增长长期通胀预期仍然看起来得到锚定尚未看到石油冲击将如何在经济中传导部分潜在的通胀压力无法用关税来解释目前尚无法在宏观层面看到人工智能带来的生产力提升我们的职责不是以较低的利率为赤字融资",
+    "wallstreetcn-quick:美联储理事barr金融服务业防护措施被削弱对影响监管的政策持异议",
+    "wallstreetcn-quick:特朗普称当霍尔木兹海峡开放才会考虑停火伊朗最新表态霍尔木兹海峡不会对伊朗的敌人开放"
   ],
-  "last_checked_at": "2026-04-01 21:39:36",
-  "last_sent_at": "2026-04-01 21:39:36",
+  "last_checked_at": "2026-04-01 23:17:56",
+  "last_sent_at": "2026-04-01 23:17:56",
   "last_alerts": [
     {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "英国央行贝利：货币政策委员会或将讨论预防性加息方案，但需结合政策授权范畴及通胀回归目标路径进行综合研判。",
-      "url": "https://flash.jin10.com/detail/20260401202720321800",
-      "rank": 14,
+      "source_id": "ifeng",
+      "source_name": "凤凰网",
+      "title": "美以伊战争丨特朗普：伊朗新政权总统向美国请求停火",
+      "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+      "rank": 1,
       "score": 90,
       "matched_keywords": [
-        "央行",
-        "加息",
-        "通胀"
-      ]
-    },
-    {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "英国央行行长贝利：我仍认为，市场加息的预期过于超前。",
-      "url": "https://flash.jin10.com/detail/20260401202709165800",
-      "rank": 15,
-      "score": 85,
-      "matched_keywords": [
-        "央行",
-        "加息"
+        "战争",
+        "停火"
       ]
     },
     {
       "source_id": "wallstreetcn-quick",
       "source_name": "华尔街见闻快讯",
-      "title": "美以空袭美原驻伊朗使馆区域",
-      "url": "https://wallstreetcn.com/livenews/3080913",
-      "rank": 4,
-      "score": 80,
+      "title": "美国圣路易斯联储主席Musalem：我决心将通货膨胀率降至 2%。 预计未来两个季度关税影响将逐渐减弱。 降低通胀有利于经济增长。 长期通胀预期仍然看起来得到锚定。 尚未看到石油冲击将如何在经济中传导。 部分潜在的通胀压力无法用关税来解释。 目前尚无法在宏观层面看到人工智能带来的生产力提升。 我们的职责不是以较低的利率为赤字融资。",
+      "url": "https://wallstreetcn.com/livenews/3080943",
+      "rank": 25,
+      "score": 90,
       "matched_keywords": [
-        "空袭"
+        "关税",
+        "通胀",
+        "融资",
+        "人工智能"
       ]
     },
     {
       "source_id": "wallstreetcn-quick",
       "source_name": "华尔街见闻快讯",
-      "title": "英国央行行长贝利：我认为市场在预期利率上调方面有些操之过急了。 若情况合适我们将采取行动，但解决能源价格冲击的根源最为重要。 如果能源价格长期高企且供应中断，将对许多国家造成“相当严重”的压力。 我非常清楚，我们需在对增长和就业损害最小的方式下使通胀回归目标。",
-      "url": "https://wallstreetcn.com/livenews/3080912",
-      "rank": 5,
-      "score": 80,
+      "title": "美联储理事Barr：金融服务业防护措施被削弱。 对影响监管的政策持异议。",
+      "url": "https://wallstreetcn.com/livenews/3080953",
+      "rank": 16,
+      "score": 78,
       "matched_keywords": [
-        "央行",
-        "通胀"
+        "美联储",
+        "监管"
+      ]
+    },
+    {
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "特朗普称当霍尔木兹海峡开放才会“考虑”停火，伊朗最新表态：霍尔木兹海峡不会对伊朗的“敌人”开放",
+      "url": "https://wallstreetcn.com/livenews/3080963",
+      "rank": 8,
+      "score": 75,
+      "matched_keywords": [
+        "停火"
       ]
     }
   ]
