@@ -14,57 +14,61 @@
     "jin10:阿联酋方面表示周三共有5枚导弹和35架无人机对该国发动袭击",
     "wallstreetcn-quick:伊朗原子能组织发言人袭击重水设施构成战争罪",
     "wallstreetcn-hot:史诗级泄露512万行claudecode源代码开源了",
-    "jin10:欧洲地中海地震中心秘鲁北部地区发生62级地震"
+    "jin10:欧洲地中海地震中心秘鲁北部地区发生62级地震",
+    "jin10:英国央行贝利货币政策委员会或将讨论预防性加息方案但需结合政策授权范畴及通胀回归目标路径进行综合研判",
+    "jin10:英国央行行长贝利我仍认为市场加息的预期过于超前",
+    "wallstreetcn-quick:美以空袭美原驻伊朗使馆区域",
+    "wallstreetcn-quick:英国央行行长贝利我认为市场在预期利率上调方面有些操之过急了若情况合适我们将采取行动但解决能源价格冲击的根源最为重要如果能源价格长期高企且供应中断将对许多国家造成相当严重的压力我非常清楚我们需在对增长和就业损害最小的方式下使通胀回归目标"
   ],
-  "last_checked_at": "2026-04-01 20:33:55",
-  "last_sent_at": "2026-04-01 20:33:55",
+  "last_checked_at": "2026-04-01 21:39:36",
+  "last_sent_at": "2026-04-01 21:39:36",
   "last_alerts": [
     {
       "source_id": "jin10",
       "source_name": "金十数据",
-      "title": "阿联酋方面表示，周三共有5枚导弹和35架无人机对该国发动袭击。",
-      "url": "https://flash.jin10.com/detail/20260401192253776800",
-      "rank": 9,
-      "score": 95,
+      "title": "英国央行贝利：货币政策委员会或将讨论预防性加息方案，但需结合政策授权范畴及通胀回归目标路径进行综合研判。",
+      "url": "https://flash.jin10.com/detail/20260401202720321800",
+      "rank": 14,
+      "score": 90,
       "matched_keywords": [
-        "袭击",
-        "导弹"
+        "央行",
+        "加息",
+        "通胀"
+      ]
+    },
+    {
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "英国央行行长贝利：我仍认为，市场加息的预期过于超前。",
+      "url": "https://flash.jin10.com/detail/20260401202709165800",
+      "rank": 15,
+      "score": 85,
+      "matched_keywords": [
+        "央行",
+        "加息"
       ]
     },
     {
       "source_id": "wallstreetcn-quick",
       "source_name": "华尔街见闻快讯",
-      "title": "伊朗原子能组织发言人：袭击重水设施构成“战争罪”",
-      "url": "https://wallstreetcn.com/livenews/3080855",
-      "rank": 13,
-      "score": 90,
+      "title": "美以空袭美原驻伊朗使馆区域",
+      "url": "https://wallstreetcn.com/livenews/3080913",
+      "rank": 4,
+      "score": 80,
       "matched_keywords": [
-        "战争",
-        "袭击"
+        "空袭"
       ]
     },
     {
-      "source_id": "wallstreetcn-hot",
-      "source_name": "华尔街见闻",
-      "title": "史诗级泄露！51.2万行，Claude Code源代码开源了！",
-      "url": "https://wallstreetcn.com/articles/3768915",
-      "rank": 4,
-      "score": 82,
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "英国央行行长贝利：我认为市场在预期利率上调方面有些操之过急了。 若情况合适我们将采取行动，但解决能源价格冲击的根源最为重要。 如果能源价格长期高企且供应中断，将对许多国家造成“相当严重”的压力。 我非常清楚，我们需在对增长和就业损害最小的方式下使通胀回归目标。",
+      "url": "https://wallstreetcn.com/livenews/3080912",
+      "rank": 5,
+      "score": 80,
       "matched_keywords": [
-        "源代码",
-        "claude",
-        "开源"
-      ]
-    },
-    {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "欧洲地中海地震中心：秘鲁北部地区发生6.2级地震。",
-      "url": "https://flash.jin10.com/detail/20260401192809736800",
-      "rank": 4,
-      "score": 75,
-      "matched_keywords": [
-        "地震"
+        "央行",
+        "通胀"
       ]
     }
   ]
