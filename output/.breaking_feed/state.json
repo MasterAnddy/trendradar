@@ -10,73 +10,61 @@
     "jin10:欧洲央行管委马赫鲁夫已准备好在数据明确战争影响时采取行动",
     "wallstreetcn-quick:英国央行金融体系迄今表现出韧性但风险上升多项脆弱性可能同时暴露中东冲突已对全球经济造成重大负面供应冲击主权债务市场高风险资产估值私募信贷领域仍存在风险外债市场或股票估值出现冲击可能传导至英国mfs违约凸显高风险信贷市场的弱点美国科技公司估值依然明显偏高伊朗冲突加剧风险因ai数据中心和供应链能源消耗巨大市场预计中东冲突为短期事件但对其走势和长期影响存在高度不确定性按当前市场利率预期到2028年第四季度58的英国房贷持有人还款将增加且大多数幅度较为温和银行使用人工智能带来的风险可能会迅速增加",
     "jin10:欧洲央行管委马赫鲁夫不排除任何可能性长期战争将使欧洲央行面临不利局面",
-    "wallstreetcn-quick:十国外长强烈谴责针对联黎部队的袭击"
+    "wallstreetcn-quick:十国外长强烈谴责针对联黎部队的袭击",
+    "jin10:阿联酋方面表示周三共有5枚导弹和35架无人机对该国发动袭击",
+    "wallstreetcn-quick:伊朗原子能组织发言人袭击重水设施构成战争罪",
+    "wallstreetcn-hot:史诗级泄露512万行claudecode源代码开源了",
+    "jin10:欧洲地中海地震中心秘鲁北部地区发生62级地震"
   ],
-  "last_checked_at": "2026-04-01 19:34:53",
-  "last_sent_at": "2026-04-01 19:34:53",
+  "last_checked_at": "2026-04-01 20:33:55",
+  "last_sent_at": "2026-04-01 20:33:55",
   "last_alerts": [
     {
       "source_id": "jin10",
       "source_name": "金十数据",
-      "title": "欧洲央行马赫鲁夫：若中东战争持续，欧元区将走向不利情景",
-      "url": "https://flash.jin10.com/detail/20260401182410538800",
-      "rank": 8,
+      "title": "阿联酋方面表示，周三共有5枚导弹和35架无人机对该国发动袭击。",
+      "url": "https://flash.jin10.com/detail/20260401192253776800",
+      "rank": 9,
       "score": 95,
       "matched_keywords": [
-        "战争",
-        "欧洲央行",
-        "央行"
-      ]
-    },
-    {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "欧洲央行管委马赫鲁夫：已准备好在数据明确战争影响时采取行动。",
-      "url": "https://flash.jin10.com/detail/20260401180559768800",
-      "rank": 29,
-      "score": 90,
-      "matched_keywords": [
-        "战争",
-        "欧洲央行",
-        "央行"
+        "袭击",
+        "导弹"
       ]
     },
     {
       "source_id": "wallstreetcn-quick",
       "source_name": "华尔街见闻快讯",
-      "title": "英国央行：金融体系迄今表现出韧性，但风险上升，多项脆弱性可能同时暴露。 中东冲突已对全球经济造成“重大负面供应冲击”。 主权债务市场、高风险资产估值、私募信贷领域仍存在风险。 外债市场或股票估值出现冲击，可能传导至英国。 MFS违约凸显高风险信贷市场的弱点。 美国科技公司估值“依然明显偏高”，伊朗冲突加剧风险，因AI数据中心和供应链能源消耗巨大。 市场预计中东冲突为短期事件，但对其走势和长期影响存在高度不确定性。 按当前市场利率预期，到2028年第四季度，58%的英国房贷持有人还款将增加，且大多数幅度较为温和。 银行使用人工智能带来的风险可能会“迅速增加”。",
-      "url": "https://wallstreetcn.com/livenews/3080798",
-      "rank": 30,
-      "score": 90,
-      "matched_keywords": [
-        "央行",
-        "违约",
-        "人工智能",
-        "ai"
-      ]
-    },
-    {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "欧洲央行管委马赫鲁夫：不排除任何可能性，长期战争将使欧洲央行面临不利局面。",
-      "url": "https://flash.jin10.com/detail/20260401180531961800",
-      "rank": 30,
+      "title": "伊朗原子能组织发言人：袭击重水设施构成“战争罪”",
+      "url": "https://wallstreetcn.com/livenews/3080855",
+      "rank": 13,
       "score": 90,
       "matched_keywords": [
         "战争",
-        "欧洲央行",
-        "央行"
-      ]
-    },
-    {
-      "source_id": "wallstreetcn-quick",
-      "source_name": "华尔街见闻快讯",
-      "title": "十国外长强烈谴责针对联黎部队的袭击",
-      "url": "https://wallstreetcn.com/livenews/3080846",
-      "rank": 2,
-      "score": 85,
-      "matched_keywords": [
         "袭击"
+      ]
+    },
+    {
+      "source_id": "wallstreetcn-hot",
+      "source_name": "华尔街见闻",
+      "title": "史诗级泄露！51.2万行，Claude Code源代码开源了！",
+      "url": "https://wallstreetcn.com/articles/3768915",
+      "rank": 4,
+      "score": 82,
+      "matched_keywords": [
+        "源代码",
+        "claude",
+        "开源"
+      ]
+    },
+    {
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "欧洲地中海地震中心：秘鲁北部地区发生6.2级地震。",
+      "url": "https://flash.jin10.com/detail/20260401192809736800",
+      "rank": 4,
+      "score": 75,
+      "matched_keywords": [
+        "地震"
       ]
     }
   ]
