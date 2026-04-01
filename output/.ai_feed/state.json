@@ -392,7 +392,8 @@
     "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "https://help.openai.com/en/articles/9624314-model-release-notes",
     "https://www.anthropic.com/news/australia-MOU",
-    "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/"
+    "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+    "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/"
   ],
   "company_daily_seen": {
     "2026-04-01": [
@@ -808,6 +809,13 @@
         "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
         "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
         "published": "Tue, 31 Mar 2026 22:46:25 +0000"
+      },
+      {
+        "source": "TechCrunch AI",
+        "category_key": "media",
+        "title": "Anthropic is having a month",
+        "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+        "published": "Tue, 31 Mar 2026 23:58:26 +0000"
       }
     ]
   }
