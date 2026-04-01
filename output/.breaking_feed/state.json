@@ -35,28 +35,19 @@
     "jin10:加拿大央行会议纪要官员们同意在应对战争后果时应保持政策灵活性",
     "wallstreetcn-quick:石油基金cayler在3月份增长18美国和以色列发动的伊朗战争震撼市场",
     "wallstreetcn-quick:加拿大央行伊朗战争不应凌驾于其他经济风险之上",
-    "jin10:加拿大央行会议纪要目前评估伊朗战争对经济前景的影响为时过早"
+    "jin10:加拿大央行会议纪要目前评估伊朗战争对经济前景的影响为时过早",
+    "jin10:据politico特朗普将在当地时间周三晚上发表的讲话中宣布伊朗战争已接近尾声而其他国家则需解决霍尔木兹海峡问题",
+    "wallstreetcn-quick:特朗普伊朗目前已无能力发展核武器4月1日获悉美国总统特朗普表示他并不关心伊朗的浓缩铀库存并称相关设施埋得非常深特朗普表示美国将通过卫星持续监控相关情况并称伊朗目前已无能力发展核武器同时重申阻止伊朗获得核武器的目标已实现央视",
+    "cls-hot:伊朗真主党胡塞武装联合袭击以色列"
   ],
-  "last_checked_at": "2026-04-02 03:37:48",
-  "last_sent_at": "2026-04-02 03:37:48",
+  "last_checked_at": "2026-04-02 04:44:44",
+  "last_sent_at": "2026-04-02 04:44:44",
   "last_alerts": [
     {
       "source_id": "jin10",
       "source_name": "金十数据",
-      "title": "加拿大央行会议纪要：官员们同意在应对战争后果时应保持政策灵活性。",
-      "url": "https://flash.jin10.com/detail/20260402013154349800",
-      "rank": 6,
-      "score": 95,
-      "matched_keywords": [
-        "战争",
-        "央行"
-      ]
-    },
-    {
-      "source_id": "wallstreetcn-quick",
-      "source_name": "华尔街见闻快讯",
-      "title": "石油基金Cayler在3月份增长18%，美国和以色列发动的伊朗战争震撼市场。",
-      "url": "https://wallstreetcn.com/livenews/3081071",
+      "title": "据Politico：特朗普将在当地时间周三晚上发表的讲话中宣布伊朗战争已接近尾声，而其他国家则需解决霍尔木兹海峡问题。",
+      "url": "https://flash.jin10.com/detail/20260402033435211800",
       "rank": 1,
       "score": 90,
       "matched_keywords": [
@@ -66,25 +57,23 @@
     {
       "source_id": "wallstreetcn-quick",
       "source_name": "华尔街见闻快讯",
-      "title": "加拿大央行：伊朗战争不应凌驾于其他经济风险之上",
-      "url": "https://wallstreetcn.com/livenews/3081061",
-      "rank": 11,
-      "score": 90,
+      "title": "【特朗普：伊朗目前“已无能力”发展核武器】4月1日获悉，美国总统特朗普表示，他并不关心伊朗的浓缩铀库存，并称相关设施“埋得非常深”。特朗普表示，美国将通过卫星持续监控相关情况，并称伊朗目前“已无能力”发展核武器，同时重申阻止伊朗获得核武器的目标已实现。（央视）",
+      "url": "https://wallstreetcn.com/livenews/3081066",
+      "rank": 26,
+      "score": 75,
       "matched_keywords": [
-        "战争",
-        "央行"
+        "核武"
       ]
     },
     {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "加拿大央行会议纪要：目前评估伊朗战争对经济前景的影响为时过早。",
-      "url": "https://flash.jin10.com/detail/20260402013027283800",
-      "rank": 13,
-      "score": 90,
+      "source_id": "cls-hot",
+      "source_name": "财联社热门",
+      "title": "伊朗、真主党、胡塞武装联合袭击以色列",
+      "url": "https://www.cls.cn/detail/2332372",
+      "rank": 7,
+      "score": 70,
       "matched_keywords": [
-        "战争",
-        "央行"
+        "袭击"
       ]
     }
   ]
