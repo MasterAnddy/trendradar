@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T21:14:37.843154+08:00",
-  "total_titles_processed": 1810,
+  "generated_at": "2026-04-01T21:58:28.878503+08:00",
+  "total_titles_processed": 1894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本 中国 美国",
-      "match_count": 217,
+      "match_count": 225,
       "titles": [
         {
           "title": "凤凰女记者三问文化遗产受损情况，伊朗官员提到了中国",
@@ -57,6 +57,17 @@
           "time_info": "[05时40分 ~ 08时04分]"
         },
         {
+          "title": "美以伊战争丨伊朗议长嘲讽鲁比奥：做啥“美国梦”呢",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时51分 ~ 21时14分]"
+        },
+        {
           "title": "泰国泡面先吃后付,日本人怒了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352621&amp;topic_name=%E6%B3%B0%E5%9B%BD%E6%B3%A1%E9%9D%A2%E5%85%88%E5%90%83%E5%90%8E%E4%BB%98%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%80%92%E4%BA%86",
           "source": "贴吧",
@@ -67,22 +78,12 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时36分 ~ 21时14分]"
-        },
-        {
-          "title": "美以伊战争丨伊朗议长嘲讽鲁比奥：做啥“美国梦”呢",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时51分 ~ 21时14分]"
+          "appearance_count": 15,
+          "time_info": "[11时36分 ~ 21时58分]"
         },
         {
           "title": "深度解析中国经济重点方向",
@@ -141,8 +142,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[05时40分 ~ 21时14分]"
+          "appearance_count": 29,
+          "time_info": "[05时40分 ~ 21时58分]"
         },
         {
           "title": "中国和巴基斯坦恢复中东地区和平稳定的五点倡议",
@@ -206,26 +207,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[13时48分 ~ 21时14分]"
-        },
-        {
-          "title": "中国和巴基斯坦提出5点倡议",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%8F%90%E5%87%BA5%E7%82%B9%E5%80%A1%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            16,
-            22,
-            20,
-            19,
-            21,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[05时41分 ~ 19时51分]"
+          "appearance_count": 18,
+          "time_info": "[13时48分 ~ 21时58分]"
         },
         {
           "title": "开场9分钟连丢两球，中国男足0比2不敌喀麦隆",
@@ -240,6 +223,25 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[06时45分 ~ 15时48分]"
+        },
+        {
+          "title": "中国和巴基斯坦提出5点倡议",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%8F%90%E5%87%BA5%E7%82%B9%E5%80%A1%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            16,
+            22,
+            20,
+            19,
+            21,
+            23,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[05时41分 ~ 21时58分]"
         },
         {
           "title": "日本彻底撕下伪装",
@@ -269,11 +271,12 @@
             11,
             10,
             15,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时36分 ~ 21时14分]"
+          "appearance_count": 15,
+          "time_info": "[11时36分 ~ 21时58分]"
         },
         {
           "title": "图是中国的？苏格兰撤下了",
@@ -294,11 +297,12 @@
             11,
             28,
             24,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时45分 ~ 19时51分]"
+          "appearance_count": 11,
+          "time_info": "[06时45分 ~ 21时58分]"
         },
         {
           "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
@@ -307,11 +311,12 @@
           "ranks": [
             20,
             19,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时44分 ~ 21时14分]"
+          "appearance_count": 11,
+          "time_info": "[16时44分 ~ 21时58分]"
         },
         {
           "title": "中国最强“东西大动脉”要来了",
@@ -350,6 +355,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[05时41分 ~ 08时04分]"
+        },
+        {
+          "title": "英国冻结一中国人涉及7.38亿元房产",
+          "url": "https://www.toutiao.com/trending/7623653683580207131/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时52分 ~ 21时58分]"
         },
         {
           "title": "美国军人向脱衣舞女泄露部署计划",
@@ -405,6 +423,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时35分 ~ 11时45分]"
+        },
+        {
+          "title": "英国议员怒批政府：自取其辱，回头还得买中国涡轮机",
+          "url": "https://news.ifeng.com/c/8ryIDWAsoga",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时51分 ~ 21时58分]"
+        },
+        {
+          "title": "中国最强东西大动脉要来了",
+          "url": "https://www.toutiao.com/trending/7623662543868792374/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时19分 ~ 21时58分]"
         },
         {
           "title": "美国打伊朗，阿拉伯国家掏钱？白宫新闻秘书：特朗普有这想法",
@@ -468,18 +511,6 @@
           "time_info": "[19时51分 ~ 21时14分]"
         },
         {
-          "title": "英国冻结一中国人涉及7.38亿元房产",
-          "url": "https://www.toutiao.com/trending/7623653683580207131/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时52分 ~ 21时14分]"
-        },
-        {
           "title": "经纬度：“弯道超车”，这就是中国制造的少年气概",
           "url": "https://m.thepaper.cn/newsDetail_forward_32865888",
           "source": "澎湃新闻",
@@ -518,28 +549,17 @@
           "time_info": "[05时41分 ~ 08时04分]"
         },
         {
-          "title": "英国议员怒批政府：自取其辱，回头还得买中国涡轮机",
-          "url": "https://news.ifeng.com/c/8ryIDWAsoga",
-          "source": "凤凰网",
+          "title": "一中国公民涉及超7亿房产在英被冻结",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%B6%89%E5%8F%8A%E8%B6%857%E4%BA%BF%E6%88%BF%E4%BA%A7%E5%9C%A8%E8%8B%B1%E8%A2%AB%E5%86%BB%E7%BB%93",
+          "source": "百度热搜",
           "ranks": [
-            10
+            9,
+            14,
+            13
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[18时51分 ~ 21时14分]"
-        },
-        {
-          "title": "中国最强东西大动脉要来了",
-          "url": "https://www.toutiao.com/trending/7623662543868792374/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时19分 ~ 21时14分]"
+          "time_info": "[17时52分 ~ 21时58分]"
         },
         {
           "title": "关键时刻 巴外长抵京与中国对表",
@@ -645,17 +665,15 @@
           "time_info": "17时52分"
         },
         {
-          "title": "一中国公民涉及超7亿房产在英被冻结",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%B6%89%E5%8F%8A%E8%B6%857%E4%BA%BF%E6%88%BF%E4%BA%A7%E5%9C%A8%E8%8B%B1%E8%A2%AB%E5%86%BB%E7%BB%93",
-          "source": "百度热搜",
+          "title": "美以伊战争丨特朗普：伊朗新政权总统向美国请求停火",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            14,
-            13
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时52分 ~ 21时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "美国总统特朗普：鲍威尔必须尽快离任。 （美国军队）很快就会离开伊朗。 今天股价涨了。 我只要（宣布美军）离开伊朗，汽油价格就会下跌。 美国将在2-3周内离开伊朗。 法国等国家将在霍尔木兹海峡应对（伊朗）。",
@@ -697,9 +715,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时14分"
+        },
+        {
+          "title": "美国总统特朗普抵达美国最高法院，出席出生地公民身份案的口头辩论。",
+          "url": "https://flash.jin10.com/detail/20260401214028794800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "日本一季度短观大型非制造业景气判断指数 36，预期 33，前值 34。",
@@ -741,9 +770,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时14分"
+        },
+        {
+          "title": "中国“东西大动脉”要来了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E4%B8%9C%E8%A5%BF%E5%A4%A7%E5%8A%A8%E8%84%89%E2%80%9D%E8%A6%81%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "鲁比奥：美国可以看到战争的“终点线”",
@@ -808,7 +848,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时14分"
         },
@@ -897,6 +937,17 @@
           "time_info": "19时08分"
         },
         {
+          "title": "美国银行：将耐克(NKE.N)评级由“买入”下调至“中性”；将目标价由73美元下调至55美元。",
+          "url": "https://flash.jin10.com/detail/20260401213755326800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "民调：三分之二的美国人认为，应尽快结束对伊朗的战争",
           "url": "https://flash.jin10.com/detail/20260401050726363800",
           "source": "金十数据",
@@ -974,6 +1025,32 @@
           "time_info": "[05时40分 ~ 06时52分]"
         },
         {
+          "title": "外媒：特朗普正“认真考虑”让美国退出北约",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时50分 ~ 21时58分]"
+        },
+        {
+          "title": "受贿数额特别巨大，中国大唐原总经理寇伟一审被判死缓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32871524",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时50分 ~ 21时58分]"
+        },
+        {
           "title": "俄方拒绝给日本供油",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%96%B9%E6%8B%92%E7%BB%9D%E7%BB%99%E6%97%A5%E6%9C%AC%E4%BE%9B%E6%B2%B9%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -988,6 +1065,19 @@
           "time_info": "[05时41分 ~ 07时31分]"
         },
         {
+          "title": "美国2月零售销售速评",
+          "url": "https://wallstreetcn.com/livenews/3080923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时06分 ~ 21时58分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗政权更迭并不是这次行动的目标。",
           "url": "https://flash.jin10.com/detail/20260401055805584800",
           "source": "金十数据",
@@ -999,18 +1089,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时02分 ~ 06时52分]"
-        },
-        {
-          "title": "美国2月零售销售速评",
-          "url": "https://wallstreetcn.com/livenews/3080923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 21时14分]"
         },
         {
           "title": "美国总统特朗普：美联储主席鲍威尔必须尽快离职。",
@@ -1217,18 +1295,6 @@
           "time_info": "[13时48分 ~ 14时02分]"
         },
         {
-          "title": "外媒：特朗普正“认真考虑”让美国退出北约",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时50分 ~ 21时14分]"
-        },
-        {
           "title": "一中国人涉及超7亿房产在英被冻结",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B6%89%E5%8F%8A%E8%B6%857%E4%BA%BF%E6%88%BF%E4%BA%A7%E5%9C%A8%E8%8B%B1%E8%A2%AB%E5%86%BB%E7%BB%93%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -1240,18 +1306,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时19分 ~ 19时08分]"
-        },
-        {
-          "title": "受贿数额特别巨大，中国大唐原总经理寇伟一审被判死缓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32871524",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时50分 ~ 21时14分]"
         },
         {
           "title": "中国大唐原总经理寇伟一审被判死缓",
@@ -1338,6 +1392,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时35分 ~ 11时45分]"
+        },
+        {
+          "title": "特朗普：伊朗已向美国请求停火",
+          "url": "https://www.douyin.com/hot/2451793",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时06分 ~ 21时58分]"
+        },
+        {
+          "title": "世界杯上，美国和伊朗在这个情况下有望对打",
+          "url": "https://news.ifeng.com/c/8ryP49JmirY",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时06分 ~ 21时58分]"
         },
         {
           "title": "A股油气股震荡回落，科力股份尾盘跌超7%，通源石油、中曼石油、中国海油、潜能恒信、蓝焰控股跌超3%。",
@@ -1598,6 +1674,17 @@
           "time_info": "[19时50分 ~ 19时51分]"
         },
         {
+          "title": "特朗普称伊朗请求美国停火",
+          "url": "https://www.toutiao.com/trending/7623249911446224902/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时58分]"
+        },
+        {
           "title": "外媒：特朗普正“认真考虑”让美国退出北约",
           "url": "https://wallstreetcn.com/livenews/3080775",
           "source": "华尔街见闻-快讯",
@@ -1718,6 +1805,17 @@
           "time_info": "[11时36分 ~ 11时45分]"
         },
         {
+          "title": "WTI日内涨近1%，报道称阿联酋准备帮助美国武力打开霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3768942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时58分]"
+        },
+        {
           "title": "美国总统特朗普：我们将对停止建设白宫宴会厅的决定提起上诉。",
           "url": "https://flash.jin10.com/detail/20260401054740234800",
           "source": "金十数据",
@@ -1750,28 +1848,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时50分 ~ 19时51分]"
-        },
-        {
-          "title": "特朗普：伊朗已向美国请求停火",
-          "url": "https://www.douyin.com/hot/2451793",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 21时14分]"
-        },
-        {
-          "title": "世界杯上，美国和伊朗在这个情况下有望对打",
-          "url": "https://news.ifeng.com/c/8ryP49JmirY",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 21时14分]"
         },
         {
           "title": "美国总统特朗普称：将出席最高法院有关公民身份问题的听证会。",
@@ -2168,15 +2244,15 @@
           "time_info": "19时08分"
         },
         {
-          "title": "特朗普称伊朗请求美国停火",
-          "url": "https://www.toutiao.com/trending/7623249911446224902/",
-          "source": "今日头条",
+          "title": "特朗普称伊朗“请求美国停火”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E2%80%9C%E8%AF%B7%E6%B1%82%E7%BE%8E%E5%9B%BD%E5%81%9C%E7%81%AB%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时14分"
+          "time_info": "21时58分"
         },
         {
           "title": "据《每日电讯报》：特朗普称北约为“纸老虎”，并表示让美国退出北约已“不容再议”。",
@@ -2196,18 +2272,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时14分"
-        },
-        {
-          "title": "WTI日内涨近1%，报道称阿联酋准备帮助美国武力打开霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3768942",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时14分"
         },
@@ -2243,6 +2308,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
+        },
+        {
+          "title": "美国3月标普全球制造业PMI终值将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260401213500000800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "美国2月零售销售 7383.66亿美元，前值7335.37亿美元。",
@@ -2331,6 +2407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
+        },
+        {
+          "title": "美国法官裁定白宫“断供”公共媒体违宪",
+          "url": "https://wallstreetcn.com/livenews/3080939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "美国零售销售月率高于预期 为逾半年高位",
@@ -2487,6 +2574,17 @@
           "time_info": "16时44分"
         },
         {
+          "title": "马克龙访问日本",
+          "url": "https://www.douyin.com/hot/2450996",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "日经225指数收涨5.2%，报53739.68点。 日本东证指数收涨4.9%，报3670.90点。 韩国首尔综指收涨8.4%，报5478.70点。",
           "url": "https://wallstreetcn.com/livenews/3080667",
           "source": "华尔街见闻-快讯",
@@ -2526,7 +2624,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时14分"
         },
@@ -2600,7 +2698,7 @@
     },
     {
       "keyword_group": "黄金 原油",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "高盛：若中东冲突升级并加剧西方财政担忧，黄金将冲击6100美元！",
@@ -2689,17 +2787,6 @@
           "time_info": "[17时52分 ~ 19时51分]"
         },
         {
-          "title": "上期所原油主力合约跌超4%，报666.1元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3080935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时14分"
-        },
-        {
           "title": "金十图示：2026年04月01日（周三）上海黄金交易所市场行情",
           "url": "https://flash.jin10.com/detail/20260401170211100800",
           "source": "金十数据",
@@ -2734,17 +2821,6 @@
           "time_info": "17时52分"
         },
         {
-          "title": "夜盘期货开盘，乙二醇、低硫燃油跌逾4%，原油、燃油跌逾3%，纯苯、液化石油气、甲醇、PTA等跌逾2%。",
-          "url": "https://wallstreetcn.com/livenews/3080933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时14分"
-        },
-        {
           "title": "哈萨克斯坦央行：为与黄金购买量相匹配，该行3月份出售了价值3500亿坚戈的外汇，并将在第二季度出售价值1.1万亿坚戈的外汇。",
           "url": "https://flash.jin10.com/detail/20260401183153114800",
           "source": "金十数据",
@@ -2755,6 +2831,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时51分 ~ 19时08分]"
+        },
+        {
+          "title": "上期所原油主力合约跌超4%，报666.1元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3080935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时58分]"
+        },
+        {
+          "title": "夜盘期货开盘，乙二醇、低硫燃油跌逾4%，原油、燃油跌逾3%，纯苯、液化石油气、甲醇、PTA等跌逾2%。",
+          "url": "https://wallstreetcn.com/livenews/3080933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时58分]"
         },
         {
           "title": "WTI原油向上触及103美元/桶，日内涨1.18%。",
@@ -2850,6 +2950,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时06分 ~ 21时14分]"
+        },
+        {
+          "title": "【油价短线走低，特朗普称霍尔木兹海峡开放后，将考虑停火】布伦特原油5分钟内下跌1.25美元/桶，报100.65美元/桶；WTI原油5分钟内下跌1.11美元/桶，报98.88美元/桶。特朗普称霍尔木兹海峡开放后，将考虑停火。",
+          "url": "https://wallstreetcn.com/livenews/3080925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时58分]"
         },
         {
           "title": "国际现货黄金“死猫跳”还是真反转？美联储今年仍有望重启降息 | Live分析更新中",
@@ -3017,17 +3129,6 @@
           "time_info": "15时16分"
         },
         {
-          "title": "【油价短线走低，特朗普称霍尔木兹海峡开放后，将考虑停火】布伦特原油5分钟内下跌1.25美元/桶，报100.65美元/桶；WTI原油5分钟内下跌1.11美元/桶，报98.88美元/桶。特朗普称霍尔木兹海峡开放后，将考虑停火。",
-          "url": "https://wallstreetcn.com/livenews/3080925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时14分"
-        },
-        {
           "title": "国际能源署署长比罗尔：预计4月份的石油（供应）损失将是3月份的两倍；考虑进一步动用战略石油储备，如果我们认为有必要动用原油或成品油储备，我们可能会采取行动。",
           "url": "https://flash.jin10.com/detail/20260401174209850800",
           "source": "金十数据",
@@ -3037,6 +3138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        },
+        {
+          "title": "纽约证券交易所ARCA黄金矿业指数大涨3.6%，创两周来新高。",
+          "url": "https://flash.jin10.com/detail/20260401213412205800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "布伦特原油失守100美元/桶",
@@ -3092,6 +3204,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        },
+        {
+          "title": "黄金年内回撤达26%",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%B9%B4%E5%86%85%E5%9B%9E%E6%92%A4%E8%BE%BE26%25",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "黄金又突然暴涨",
@@ -3174,7 +3297,7 @@
     },
     {
       "keyword_group": "AI 人工智能",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
@@ -3204,11 +3327,12 @@
             24,
             22,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[05时41分 ~ 21时14分]"
+          "appearance_count": 22,
+          "time_info": "[05时41分 ~ 21时58分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -3228,6 +3352,19 @@
           "time_info": "[05时41分 ~ 17时19分]"
         },
         {
+          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
+          "url": "https://www.cls.cn/detail/2332176",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时51分 ~ 21时58分]"
+        },
+        {
           "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
           "url": "https://www.cls.cn/detail/2331334",
           "source": "财联社热门",
@@ -3238,19 +3375,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时35分 ~ 14时02分]"
-        },
-        {
-          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
-          "url": "https://www.cls.cn/detail/2332176",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时51分 ~ 21时14分]"
         },
         {
           "title": "借助AI监控伊朗高官后“定点清除”：以色列如何替美国“干脏活”",
@@ -3287,17 +3411,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时52分 ~ 21时14分]"
-        },
-        {
-          "title": "美国圣路易斯联储主席Musalem：维持利率不变可能在相当长一段时间内是合适的。 劳动力市场与通胀双方风险均有所上升。 若核心通胀或通胀预期上升，可能支持加息。 私募信贷压力并非广泛的信贷质量问题。 若劳动力市场走弱，可能支持降息。 目前通胀在2026年全年持续高企的风险加大。 裁员激增可能导致失业率快速上升。 人工智能可能提升供给，但目前也在拉动需求。",
-          "url": "https://wallstreetcn.com/livenews/3080936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时14分"
         },
         {
           "title": "澳大利亚与Anthropic围绕国别人工智能（National AI）计划签署备忘录（MOU）。",
@@ -3359,6 +3472,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时36分 ~ 11时45分]"
+        },
+        {
+          "title": "美国圣路易斯联储主席Musalem：维持利率不变可能在相当长一段时间内是合适的。 劳动力市场与通胀双方风险均有所上升。 若核心通胀或通胀预期上升，可能支持加息。 私募信贷压力并非广泛的信贷质量问题。 若劳动力市场走弱，可能支持降息。 目前通胀在2026年全年持续高企的风险加大。 裁员激增可能导致失业率快速上升。 人工智能可能提升供给，但目前也在拉动需求。",
+          "url": "https://wallstreetcn.com/livenews/3080936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时58分]"
         },
         {
           "title": "HBM之父：看好高带宽闪存技术 未来AI产业或从GPU转向内存主导",
@@ -3535,13 +3660,24 @@
           "time_info": "[05时40分 ~ 05时41分]"
         },
         {
+          "title": "美联储穆萨莱姆：目前尚难在宏观层面观察到人工智能带来的生产率提升。",
+          "url": "https://flash.jin10.com/detail/20260401213620357800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "美联储穆萨莱姆：人工智能既能提升供给，也能提振需求。",
           "url": "https://flash.jin10.com/detail/20260401210913561800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时14分"
         },
@@ -3568,6 +3704,17 @@
           "time_info": "17时52分"
         },
         {
+          "title": "美国圣路易斯联储主席Musalem：我决心将通货膨胀率降至 2%。 预计未来两个季度关税影响将逐渐减弱。 降低通胀有利于经济增长。 长期通胀预期仍然看起来得到锚定。 尚未看到石油冲击将如何在经济中传导。 部分潜在的通胀压力无法用关税来解释。 目前尚无法在宏观层面看到人工智能带来的生产力提升。",
+          "url": "https://wallstreetcn.com/livenews/3080943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "苹果客服回应撤回国行AI",
           "url": "https://www.douyin.com/hot/2449610",
           "source": "抖音",
@@ -3588,6 +3735,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
+        },
+        {
+          "title": "美联储理事Barr：目前人工智能还不太可能提高美国的生产效率。 人工智能对劳动力市场的影响迄今相对较小。",
+          "url": "https://wallstreetcn.com/livenews/3080941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "HBM之父：看好高带宽闪存技术 未来AI产业或从GPU转向内存主导",
@@ -3626,7 +3784,7 @@
     },
     {
       "keyword_group": "美股 纳斯达克",
-      "match_count": 26,
+      "match_count": 34,
       "titles": [
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -3636,8 +3794,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[07时31分 ~ 21时14分]"
+          "appearance_count": 24,
+          "time_info": "[07时31分 ~ 21时58分]"
         },
         {
           "title": "【早报】伊朗总统：愿在诉求满足前提下结束战争；美股大涨，科技股、中概股大幅走强",
@@ -3677,8 +3835,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[06时45分 ~ 21时14分]"
+          "appearance_count": 26,
+          "time_info": "[06时45分 ~ 21时58分]"
         },
         {
           "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
@@ -3734,6 +3892,28 @@
           "time_info": "[06时45分 ~ 06时52分]"
         },
         {
+          "title": "美股涨幅扩大，纳指涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3080958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF普涨，全球航空业ETF、半导体ETF涨超2%，全球科技股指数ETF涨1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3080956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
           "url": "https://wallstreetcn.com/articles/3768684",
           "source": "华尔街见闻",
@@ -3743,6 +3923,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时40分 ~ 06时52分]"
+        },
+        {
+          "title": "美伊释放停战信号，美股高开，科技股普涨，布油跌超2%，美元小幅走软，黄金日内涨2%",
+          "url": "https://wallstreetcn.com/articles/3768936",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "黄金ETF收跌将近3.8%，领跌美股大类资产类ETF，一季度布油基金涨超83%",
@@ -3804,6 +3995,18 @@
           "time_info": "[11时36分 ~ 11时45分]"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3080924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时58分]"
+        },
+        {
           "title": "WTI原油、现货黄金周三小幅高开，美股股指期货微跌。",
           "url": "https://flash.jin10.com/detail/20260401060049918800",
           "source": "金十数据",
@@ -3861,15 +4064,15 @@
           "time_info": "[05时40分 ~ 05时41分]"
         },
         {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3080924",
+          "title": "美股盘初：纳指涨0.7%，大型科技股普涨",
+          "url": "https://wallstreetcn.com/livenews/3080946",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时14分"
+          "time_info": "21时58分"
         },
         {
           "title": "美股三大股指集体收涨纳指涨超3.8%",
@@ -3883,6 +4086,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "标普500指数高开28.04点，涨幅0.43%，报6556.56点； 道琼斯工业平均指数高开54.61点，涨幅0.12%，报46396.12点； 纳斯达克综合指数高开152.17点，涨幅0.70%，报21742.79点。",
+          "url": "https://wallstreetcn.com/livenews/3080945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "耐克美股盘前跌超9%，此前公司意外下调第四财季销售额预期。",
           "url": "https://wallstreetcn.com/livenews/3080739",
           "source": "华尔街见闻-快讯",
@@ -3894,6 +4108,28 @@
           "time_info": "16时44分"
         },
         {
+          "title": "美股延续涨势，纳斯达克指数涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260401213433565800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
+          "title": "道琼斯指数4月1日（周三）开盘上涨337.08点，涨幅0.73%，报46678.59点；<br/>标普500指数4月1日（周三）开盘上涨37.37点，涨幅0.57%，报6565.89点；<br/>纳斯达克综合指数4月1日（周三）开盘上涨172.25点，涨幅0.80%，报21762.88点。",
+          "url": "https://flash.jin10.com/detail/20260401213222169800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "抄底买家要当心？顶级经济学家警告：务必避开美股大盘！",
           "url": "https://flash.jin10.com/detail/20260401143225343800",
           "source": "金十数据",
@@ -3903,6 +4139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        },
+        {
+          "title": "“小非农”高于预期 美股三大股指开涨",
+          "url": "https://flash.jin10.com/detail/20260401213025708800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "欧股期货、美股期货走高，纳斯达克100指数期货涨1%，标普500指数期货涨0.7%，道指期货涨0.6%；欧洲斯托克50指数期货涨2.8%，德国DAX指数期货涨2.7%，法国CAC 40指数期货涨近1%。",
@@ -3922,7 +4169,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时14分"
         },
@@ -4081,7 +4328,7 @@
     },
     {
       "keyword_group": "OpenAI ChatGPT Claude Gemini Copilot",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "如何看待 Anthropic 官方工具 Claude Code 源码泄露事件？",
@@ -4104,23 +4351,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[07时31分 ~ 21时14分]"
-        },
-        {
-          "title": "ClaudeCode源码泄露",
-          "url": "https://www.douyin.com/hot/2451216",
-          "source": "抖音",
-          "ranks": [
-            8,
-            9,
-            10,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时16分 ~ 21时14分]"
+          "appearance_count": 24,
+          "time_info": "[07时31分 ~ 21时58分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -4132,11 +4364,28 @@
             4,
             7,
             22,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时48分 ~ 21时14分]"
+          "appearance_count": 10,
+          "time_info": "[15时48分 ~ 21时58分]"
+        },
+        {
+          "title": "ClaudeCode源码泄露",
+          "url": "https://www.douyin.com/hot/2451216",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9,
+            10,
+            12,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时16分 ~ 21时58分]"
         },
         {
           "title": "Claude Code源码意外泄露",
@@ -4170,22 +4419,35 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时51分 ~ 21时14分]"
+          "appearance_count": 4,
+          "time_info": "[19时51分 ~ 21时58分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E6%B3%84%E9%9C%B2%E6%BA%90%E7%A0%81%E6%89%92%E5%87%BAClaude%E9%9A%90%E8%97%8F%E5%BD%A9%E8%9B%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 21时14分]"
+          "appearance_count": 3,
+          "time_info": "[21时06分 ~ 21时58分]"
+        },
+        {
+          "title": "Claude Opus是否会淘汰程序员",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%E6%98%AF%E5%90%A6%E4%BC%9A%E6%B7%98%E6%B1%B0%E7%A8%8B%E5%BA%8F%E5%91%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "Claude Code泄漏代码完整逆向",
