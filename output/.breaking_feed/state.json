@@ -28,34 +28,47 @@
     "wallstreetcn-quick:伊朗称特朗普社媒声明纯属子虚乌有据伊朗国家电视台今天4月1日报道伊朗外交部发言人巴加埃表示美国总统特朗普稍早前在社交媒体发布所谓伊朗新政权总统请求停火的声明纯属子虚乌有的假消息cctv国际时讯",
     "wallstreetcn-quick:伊朗重申将封锁霍尔木兹海峡作为反制手段伊朗最高领袖办公室4月1日在社交媒体上摘发最高领袖穆杰塔巴哈梅内伊首次讲话内容重申继续将封锁霍尔木兹海峡作为反制手段伊朗最高领袖办公室还摘发讲话内容说伊朗正研究开辟其他潜在战线认为对手在相关领域缺乏经验且存在明显弱点如战事持续在综合考量相关因素后将启动这些战线新华社",
     "wallstreetcn-quick:数亿美元openai股份在二级市场无人接盘20亿现金蓄势待投anthropic",
-    "jin10:据axios记者美国总统特朗普与沙特王储讨论了与伊朗的战争并向他简要介绍了关于可能停火的谈判情况"
+    "jin10:据axios记者美国总统特朗普与沙特王储讨论了与伊朗的战争并向他简要介绍了关于可能停火的谈判情况",
+    "wallstreetcn-quick:摩根士丹利全球兼并ma主管tommiles目前而言伊朗战争和石油价格飙涨并没有造成企业并购活动放缓虽然面临全球性干扰但企业并购活动能够继续推进",
+    "jin10:乌克兰总统泽连斯基俄罗斯以袭击乌克兰能源基础设施回击基辅提出的复活节停火倡议",
+    "wallstreetcn-quick:伊朗称600多处教育设施遭美以蓄意袭击"
   ],
-  "last_checked_at": "2026-04-02 01:41:18",
-  "last_sent_at": "2026-04-02 01:41:18",
+  "last_checked_at": "2026-04-02 02:37:42",
+  "last_sent_at": "2026-04-02 02:37:42",
   "last_alerts": [
     {
       "source_id": "wallstreetcn-quick",
       "source_name": "华尔街见闻快讯",
-      "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
-      "url": "https://wallstreetcn.com/livenews/3081032",
-      "rank": 1,
-      "score": 110,
+      "title": "摩根士丹利全球兼并（M&A）主管Tom Miles：目前而言，伊朗战争和石油价格飙涨并没有造成企业并购活动放缓。 虽然面临全球性干扰，但企业并购活动能够继续推进。",
+      "url": "https://wallstreetcn.com/livenews/3081051",
+      "rank": 6,
+      "score": 95,
       "matched_keywords": [
-        "openai",
-        "anthropic",
-        "ai"
+        "战争",
+        "并购"
       ]
     },
     {
       "source_id": "jin10",
       "source_name": "金十数据",
-      "title": "据Axios记者：美国总统特朗普与沙特王储讨论了与伊朗的战争，并向他简要介绍了关于可能停火的谈判情况。",
-      "url": "https://flash.jin10.com/detail/20260402001939021800",
-      "rank": 1,
-      "score": 110,
+      "title": "乌克兰总统泽连斯基：俄罗斯以袭击乌克兰能源基础设施回击基辅提出的复活节停火倡议。",
+      "url": "https://flash.jin10.com/detail/20260402005010083800",
+      "rank": 12,
+      "score": 90,
       "matched_keywords": [
-        "战争",
-        "停火"
+        "停火",
+        "袭击"
+      ]
+    },
+    {
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "伊朗称600多处教育设施遭美以蓄意袭击",
+      "url": "https://wallstreetcn.com/livenews/3081053",
+      "rank": 4,
+      "score": 80,
+      "matched_keywords": [
+        "袭击"
       ]
     }
   ]
