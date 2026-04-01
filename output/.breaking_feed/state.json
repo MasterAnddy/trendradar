@@ -5,68 +5,78 @@
     "jin10:荷兰国际英国央行加息预期调整空间更大英镑兑欧元或走弱",
     "wallstreetcn-hot:美以袭击伊朗最大岛屿",
     "ifeng:美以伊战争丨伊朗霍尔木兹海峡不会开放",
-    "wallstreetcn-hot:伊朗总统称要结束战争对方须保证不再侵略伊外长称与美有信息交流但没谈判"
+    "wallstreetcn-hot:伊朗总统称要结束战争对方须保证不再侵略伊外长称与美有信息交流但没谈判",
+    "jin10:欧洲央行马赫鲁夫若中东战争持续欧元区将走向不利情景",
+    "jin10:欧洲央行管委马赫鲁夫已准备好在数据明确战争影响时采取行动",
+    "wallstreetcn-quick:英国央行金融体系迄今表现出韧性但风险上升多项脆弱性可能同时暴露中东冲突已对全球经济造成重大负面供应冲击主权债务市场高风险资产估值私募信贷领域仍存在风险外债市场或股票估值出现冲击可能传导至英国mfs违约凸显高风险信贷市场的弱点美国科技公司估值依然明显偏高伊朗冲突加剧风险因ai数据中心和供应链能源消耗巨大市场预计中东冲突为短期事件但对其走势和长期影响存在高度不确定性按当前市场利率预期到2028年第四季度58的英国房贷持有人还款将增加且大多数幅度较为温和银行使用人工智能带来的风险可能会迅速增加",
+    "jin10:欧洲央行管委马赫鲁夫不排除任何可能性长期战争将使欧洲央行面临不利局面",
+    "wallstreetcn-quick:十国外长强烈谴责针对联黎部队的袭击"
   ],
-  "last_checked_at": "2026-04-01 18:29:39",
-  "last_sent_at": "2026-04-01 18:29:39",
+  "last_checked_at": "2026-04-01 19:34:53",
+  "last_sent_at": "2026-04-01 19:34:53",
   "last_alerts": [
     {
-      "source_id": "wallstreetcn-quick",
-      "source_name": "华尔街见闻快讯",
-      "title": "Anthropic意外泄露了Claude AI智能体的源代码",
-      "url": "https://wallstreetcn.com/livenews/3080773",
-      "rank": 14,
-      "score": 90,
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "欧洲央行马赫鲁夫：若中东战争持续，欧元区将走向不利情景",
+      "url": "https://flash.jin10.com/detail/20260401182410538800",
+      "rank": 8,
+      "score": 95,
       "matched_keywords": [
-        "anthropic",
-        "claude",
-        "ai",
-        "智能体"
+        "战争",
+        "欧洲央行",
+        "央行"
       ]
     },
     {
       "source_id": "jin10",
       "source_name": "金十数据",
-      "title": "荷兰国际：英国央行加息预期调整空间更大 英镑兑欧元或走弱",
-      "url": "https://flash.jin10.com/detail/20260401171651604800",
-      "rank": 24,
-      "score": 85,
+      "title": "欧洲央行管委马赫鲁夫：已准备好在数据明确战争影响时采取行动。",
+      "url": "https://flash.jin10.com/detail/20260401180559768800",
+      "rank": 29,
+      "score": 90,
+      "matched_keywords": [
+        "战争",
+        "欧洲央行",
+        "央行"
+      ]
+    },
+    {
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "英国央行：金融体系迄今表现出韧性，但风险上升，多项脆弱性可能同时暴露。 中东冲突已对全球经济造成“重大负面供应冲击”。 主权债务市场、高风险资产估值、私募信贷领域仍存在风险。 外债市场或股票估值出现冲击，可能传导至英国。 MFS违约凸显高风险信贷市场的弱点。 美国科技公司估值“依然明显偏高”，伊朗冲突加剧风险，因AI数据中心和供应链能源消耗巨大。 市场预计中东冲突为短期事件，但对其走势和长期影响存在高度不确定性。 按当前市场利率预期，到2028年第四季度，58%的英国房贷持有人还款将增加，且大多数幅度较为温和。 银行使用人工智能带来的风险可能会“迅速增加”。",
+      "url": "https://wallstreetcn.com/livenews/3080798",
+      "rank": 30,
+      "score": 90,
       "matched_keywords": [
         "央行",
-        "加息"
+        "违约",
+        "人工智能",
+        "ai"
       ]
     },
     {
-      "source_id": "wallstreetcn-hot",
-      "source_name": "华尔街见闻",
-      "title": "美以袭击伊朗最大岛屿",
-      "url": "https://wallstreetcn.com/articles/3768911",
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "欧洲央行管委马赫鲁夫：不排除任何可能性，长期战争将使欧洲央行面临不利局面。",
+      "url": "https://flash.jin10.com/detail/20260401180531961800",
+      "rank": 30,
+      "score": 90,
+      "matched_keywords": [
+        "战争",
+        "欧洲央行",
+        "央行"
+      ]
+    },
+    {
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "十国外长强烈谴责针对联黎部队的袭击",
+      "url": "https://wallstreetcn.com/livenews/3080846",
       "rank": 2,
-      "score": 75,
+      "score": 85,
       "matched_keywords": [
         "袭击"
-      ]
-    },
-    {
-      "source_id": "ifeng",
-      "source_name": "凤凰网",
-      "title": "美以伊战争丨伊朗：霍尔木兹海峡不会开放",
-      "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-      "rank": 1,
-      "score": 70,
-      "matched_keywords": [
-        "战争"
-      ]
-    },
-    {
-      "source_id": "wallstreetcn-hot",
-      "source_name": "华尔街见闻",
-      "title": "伊朗总统称要结束战争、对方须保证不再侵略，伊外长称与美有信息交流但没谈判",
-      "url": "https://wallstreetcn.com/articles/3768922",
-      "rank": 5,
-      "score": 70,
-      "matched_keywords": [
-        "战争"
       ]
     }
   ]
