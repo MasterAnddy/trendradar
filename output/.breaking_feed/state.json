@@ -51,68 +51,50 @@
     "jin10:欧洲央行管委维勒鲁瓦高油价使欧洲央行的不利情景更接近",
     "wallstreetcn-quick:欧洲央行管委兼法国央行行长villeroy某些金融条件趋紧已经显现出来",
     "jin10:欧洲央行管委维勒鲁瓦现在的情况与2022年不一样这次的开局更为有利",
-    "wallstreetcn-hot:外媒称伊朗已向中国寻求安全保障如果这些保障能够提供美以伊或能达成停火协议外交部中方支持一切有利于和平的努力"
+    "wallstreetcn-hot:外媒称伊朗已向中国寻求安全保障如果这些保障能够提供美以伊或能达成停火协议外交部中方支持一切有利于和平的努力",
+    "wallstreetcn-quick:伊朗向以色列特拉维夫发动新一轮导弹袭击",
+    "jin10:当地时间4月2日晚伊朗向以色列特拉维夫发动新一轮导弹袭击",
+    "wallstreetcn-quick:谷歌公司推出gemma4开源模型为高级推理打造gemma4英伟达与谷歌公司致力于为英伟达gpus优化gemma4英伟达为本地智能体人工智能agenticai加速gemma4"
   ],
-  "last_checked_at": "2026-04-03 01:14:52",
-  "last_sent_at": "2026-04-03 01:14:52",
+  "last_checked_at": "2026-04-03 02:12:22",
+  "last_sent_at": "2026-04-03 02:12:22",
   "last_alerts": [
     {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "惠誉：假设由于伊朗战争导致卡塔尔能源的液化天然气生产停产，产能恢复产能可能需要数年时间。",
-      "url": "https://flash.jin10.com/detail/20260402235524072800",
-      "rank": 4,
-      "score": 100,
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "伊朗向以色列特拉维夫发动新一轮导弹袭击",
+      "url": "https://wallstreetcn.com/livenews/3081720",
+      "rank": 9,
+      "score": 95,
       "matched_keywords": [
-        "战争",
-        "停产"
+        "袭击",
+        "导弹"
       ]
     },
     {
       "source_id": "jin10",
       "source_name": "金十数据",
-      "title": "欧洲央行管委维勒鲁瓦：高油价使欧洲央行的不利情景更接近。",
-      "url": "https://flash.jin10.com/detail/20260403000229059800",
-      "rank": 1,
+      "title": "当地时间4月2日晚，伊朗向以色列特拉维夫发动新一轮导弹袭击。",
+      "url": "https://flash.jin10.com/detail/20260403004413877800",
+      "rank": 9,
       "score": 95,
       "matched_keywords": [
-        "欧洲央行",
-        "央行"
+        "袭击",
+        "导弹"
       ]
     },
     {
       "source_id": "wallstreetcn-quick",
       "source_name": "华尔街见闻快讯",
-      "title": "欧洲央行管委兼法国央行行长Villeroy：某些金融条件趋紧已经显现出来。",
-      "url": "https://wallstreetcn.com/livenews/3081709",
-      "rank": 2,
+      "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
+      "url": "https://wallstreetcn.com/livenews/3081712",
+      "rank": 16,
       "score": 90,
       "matched_keywords": [
-        "欧洲央行",
-        "央行"
-      ]
-    },
-    {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "欧洲央行管委维勒鲁瓦：现在的情况与2022年不一样，这次的开局更为有利。",
-      "url": "https://flash.jin10.com/detail/20260402235054513800",
-      "rank": 5,
-      "score": 85,
-      "matched_keywords": [
-        "欧洲央行",
-        "央行"
-      ]
-    },
-    {
-      "source_id": "wallstreetcn-hot",
-      "source_name": "华尔街见闻",
-      "title": "外媒称伊朗已向中国寻求安全保障，如果这些保障能够提供，美以伊或能达成停火协议，外交部：中方支持一切有利于和平的努力",
-      "url": "https://wallstreetcn.com/articles/3769089",
-      "rank": 3,
-      "score": 75,
-      "matched_keywords": [
-        "停火"
+        "英伟达",
+        "谷歌",
+        "人工智能",
+        "ai"
       ]
     }
   ]
