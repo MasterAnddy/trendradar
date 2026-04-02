@@ -5,6 +5,72 @@
     "wallstreetcn-quick:美国地质调查局称印尼特尔纳特西北偏西119公里处发生78级地震太平洋海啸预警中心称印尼沿海可能发生海啸",
     "jin10:美国海啸预警系统印尼菲律宾和马来西亚沿岸距震中1000公里范围内可能产生由此次地震引发的海啸波",
     "jin10:美国海啸预警系统印尼马鲁古海发生78级地震后发布海啸警报",
-    "wallstreetcn-quick:消息人士称伊朗要求停火谈判必须以永久结束战争为前提"
+    "wallstreetcn-quick:消息人士称伊朗要求停火谈判必须以永久结束战争为前提",
+    "wallstreetcn-quick:据韩国媒体韩国将在伊朗战争结束后继续维持燃油价格上限",
+    "jin10:印尼地球物理局已解除海啸预警此前哈马黑拉岛附近发生76级地震",
+    "wallstreetcn-quick:绩优基金称值得买入受战争冲击的韩国芯片股",
+    "wallstreetcn-hot:停火预期点燃fomo情绪美股指两连涨存储股大涨黄金四连涨油价震荡于百元",
+    "wallstreetcn-quick:意大利挪威西班牙等15国外长发表联合声明以色列在黎军事行动和真主党袭击都必须停止"
+  ],
+  "last_checked_at": "2026-04-02 12:22:04",
+  "last_sent_at": "2026-04-02 12:22:04",
+  "last_alerts": [
+    {
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "据韩国媒体，韩国将在伊朗战争结束后继续维持燃油价格上限。",
+      "url": "https://wallstreetcn.com/livenews/3081281",
+      "rank": 1,
+      "score": 90,
+      "matched_keywords": [
+        "战争"
+      ]
+    },
+    {
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "印尼地球物理局已解除海啸预警，此前哈马黑拉岛附近发生7.6级地震。",
+      "url": "https://flash.jin10.com/detail/20260402110137969800",
+      "rank": 11,
+      "score": 90,
+      "matched_keywords": [
+        "地震",
+        "海啸"
+      ]
+    },
+    {
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "绩优基金称值得买入受战争冲击的韩国芯片股",
+      "url": "https://wallstreetcn.com/livenews/3081256",
+      "rank": 20,
+      "score": 85,
+      "matched_keywords": [
+        "战争",
+        "芯片"
+      ]
+    },
+    {
+      "source_id": "wallstreetcn-hot",
+      "source_name": "华尔街见闻",
+      "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
+      "url": "https://wallstreetcn.com/articles/3768936",
+      "rank": 1,
+      "score": 80,
+      "matched_keywords": [
+        "停火"
+      ]
+    },
+    {
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "意大利、挪威、西班牙等15国外长发表联合声明：以色列在黎军事行动和真主党袭击都必须停止",
+      "url": "https://wallstreetcn.com/livenews/3081271",
+      "rank": 9,
+      "score": 75,
+      "matched_keywords": [
+        "袭击"
+      ]
+    }
   ]
 }
