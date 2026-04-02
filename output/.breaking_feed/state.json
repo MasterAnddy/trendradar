@@ -24,45 +24,77 @@
     "wallstreetcn-quick:欧洲央行管委simkus鉴于形势正在变化利率方面需保持谨慎现在判断四月份需要采取什么行动还为时过早",
     "wallstreetcn-quick:英国央行调查预计未来12个月物价涨幅升至37此前预计为34预计3月份cpi增速从3升至35",
     "jin10:美银警告百元油价将贯穿全年美联储降息存泡汤风险",
-    "jin10:印度政府发布命令将出口产品关税和税收减免计划延长至2026年9月"
+    "jin10:印度政府发布命令将出口产品关税和税收减免计划延长至2026年9月",
+    "jin10:中东冲突不退降息不来3月非农能否打破僵局丨hi今天怎么看",
+    "wallstreetcn-quick:美银全球研究预计英国央行将在2026年6月和7月各加息25个基点而此前预期为今年6月和9月降息",
+    "jin10:欧洲央行帕内塔即使战争结束损害仍将持续造成影响",
+    "jin10:美国银行全球研究部预计英国央行将在6月和7月各加息25个基点而此前的预测是今年6月和9月降息",
+    "jin10:美国银行全球研究部预计英国央行将在2027年4月7月和11月分别降息25个基点"
   ],
-  "last_checked_at": "2026-04-02 17:52:08",
-  "last_sent_at": "2026-04-02 17:52:08",
+  "last_checked_at": "2026-04-02 18:55:18",
+  "last_sent_at": "2026-04-02 18:55:18",
   "last_alerts": [
-    {
-      "source_id": "wallstreetcn-quick",
-      "source_name": "华尔街见闻快讯",
-      "title": "英国央行调查：预计未来12个月物价涨幅升至3.7%，此前预计为3.4%。 预计3月份CPI增速从3%升至3.5%。",
-      "url": "https://wallstreetcn.com/livenews/3081462",
-      "rank": 2,
-      "score": 90,
-      "matched_keywords": [
-        "央行",
-        "cpi"
-      ]
-    },
     {
       "source_id": "jin10",
       "source_name": "金十数据",
-      "title": "美银警告：百元油价将贯穿全年，美联储降息存“泡汤”风险",
-      "url": "https://flash.jin10.com/detail/20260402163640047800",
-      "rank": 13,
+      "title": "中东冲突不退，降息不来？3月非农能否打破僵局？丨Hi，今天怎么看？",
+      "url": "https://flash.jin10.com/detail/20260402172923504800",
+      "rank": 8,
+      "score": 95,
+      "matched_keywords": [
+        "降息",
+        "非农"
+      ]
+    },
+    {
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "美银全球研究：预计英国央行将在2026年6月和7月各加息25个基点，而此前预期为今年6月和9月降息。",
+      "url": "https://wallstreetcn.com/livenews/3081476",
+      "rank": 15,
       "score": 90,
       "matched_keywords": [
-        "美联储",
+        "央行",
+        "加息",
         "降息"
       ]
     },
     {
       "source_id": "jin10",
       "source_name": "金十数据",
-      "title": "印度政府发布命令，将出口产品关税和税收减免计划延长至2026年9月。",
-      "url": "https://flash.jin10.com/detail/20260402163944697800",
-      "rank": 6,
-      "score": 82,
+      "title": "欧洲央行帕内塔：即使战争结束，损害仍将持续造成影响",
+      "url": "https://flash.jin10.com/detail/20260402172014969800",
+      "rank": 19,
+      "score": 90,
       "matched_keywords": [
-        "关税",
-        "发布"
+        "战争",
+        "欧洲央行",
+        "央行"
+      ]
+    },
+    {
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "美国银行全球研究部预计，英国央行将在6月和7月各加息25个基点，而此前的预测是今年6月和9月降息。",
+      "url": "https://flash.jin10.com/detail/20260402171151086800",
+      "rank": 29,
+      "score": 90,
+      "matched_keywords": [
+        "央行",
+        "加息",
+        "降息"
+      ]
+    },
+    {
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "美国银行全球研究部预计，英国央行将在2027年4月、7月和11月分别降息25个基点。",
+      "url": "https://flash.jin10.com/detail/20260402171213791800",
+      "rank": 28,
+      "score": 85,
+      "matched_keywords": [
+        "央行",
+        "降息"
       ]
     }
   ]
