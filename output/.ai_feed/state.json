@@ -332,5 +332,395 @@
         "published": ""
       }
     ]
+  },
+  "company_sent_urls": [
+    "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "https://www.anthropic.com/news/claude-sonnet-4-6",
+    "https://www.anthropic.com/news/claude-opus-4-6",
+    "https://www.anthropic.com/news/claude-is-a-space-to-think",
+    "https://www.anthropic.com/news/australia-MOU",
+    "https://www.anthropic.com/news/claude-partner-network",
+    "https://www.anthropic.com/news/the-anthropic-institute",
+    "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
+    "https://www.anthropic.com/news/acquires-vercept",
+    "https://blogs.microsoft.com/blog/2026/03/31/open-to-work-how-to-get-ahead-in-the-age-of-ai/",
+    "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/",
+    "https://blogs.microsoft.com/blog/2026/02/27/microsoft-and-openai-joint-statement-on-continuing-partnership/",
+    "https://blogs.microsoft.com/blog/author/scottguthrie/",
+    "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
+    "https://blogs.microsoft.com/blog/2026/01/13/announcing-open-to-work-how-to-get-ahead-in-the-age-of-ai/",
+    "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/",
+    "https://blogs.microsoft.com/blog/2025/11/12/infinite-scale-the-architecture-behind-the-azure-ai-superfactory/",
+    "https://about.fb.com/news/tag/ray-ban-meta-glasses/",
+    "https://about.fb.com/news/2026/03/meta-ai-glasses-built-for-prescriptions/",
+    "https://about.fb.com/news/2026/03/how-ai-is-ushering-in-the-next-era-of-risk-review-at-meta/",
+    "https://about.fb.com/news/2026/03/boosting-your-support-and-safety-on-metas-apps-with-ai/",
+    "https://about.fb.com/news/2026/03/bringing-more-international-news-and-content-to-meta-ai/",
+    "https://about.fb.com/news/2026/03/facebook-marketplace-new-meta-ai-tools-make-selling-faster-and-easier/",
+    "https://about.fb.com/news/2026/03/expanding-metas-custom-silicon-to-power-our-ai-workloads/",
+    "https://about.fb.com/news/2026/03/meta-launches-new-anti-scam-tools-deploys-ai-technology-to-fight-scammers-and-protect-people/",
+    "https://about.fb.com/news/2026/02/meta-takes-legal-action-against-scam-advertisers/",
+    "https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion",
+    "https://nvidianews.nvidia.com/news/nvidia-and-emerald-ai-join-leading-energy-companies-to-pioneer-flexible-ai-factories-as-grid-assets",
+    "https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/",
+    "https://blogs.nvidia.com/blog/gtc-2026-virtual-worlds-physical-ai/",
+    "https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/",
+    "https://blogs.nvidia.com/blog/power-flexible-ai-factories-energy-grid/",
+    "https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/",
+    "https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/",
+    "https://blogs.nvidia.com/blog/gtc-2026-news/",
+    "https://blogs.nvidia.com/blog/build-robots-with-ai/",
+    "https://blogs.nvidia.com/blog/telecom-ai-grids-inference/",
+    "https://blogs.nvidia.com/blog/rtx-ai-garage-gtc-2026-nemoclaw/",
+    "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+    "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+    "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+    "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+    "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+    "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+    "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+    "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+    "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+    "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/"
+  ],
+  "company_daily_seen": {
+    "2026-04-02": [
+      {
+        "source": "OpenAI ChatGPT Release Notes",
+        "category_key": "product",
+        "title": "ChatGPT — Release Notes",
+        "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+        "published": ""
+      },
+      {
+        "source": "Anthropic News",
+        "category_key": "product",
+        "title": "ProductFeb 17, 2026Introducing Claude Sonnet 4.6Sonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale.",
+        "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
+        "published": ""
+      },
+      {
+        "source": "Anthropic News",
+        "category_key": "product",
+        "title": "AnnouncementsFeb 5, 2026Introducing Claude Opus 4.6We’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin.",
+        "url": "https://www.anthropic.com/news/claude-opus-4-6",
+        "published": ""
+      },
+      {
+        "source": "Anthropic News",
+        "category_key": "product",
+        "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
+        "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+        "published": ""
+      },
+      {
+        "source": "Anthropic News",
+        "category_key": "product",
+        "title": "Mar 31, 2026AnnouncementsAustralian government and Anthropic sign MOU for AI safety and research",
+        "url": "https://www.anthropic.com/news/australia-MOU",
+        "published": ""
+      },
+      {
+        "source": "Anthropic News",
+        "category_key": "product",
+        "title": "Mar 12, 2026AnnouncementsAnthropic invests $100 million into the Claude Partner Network",
+        "url": "https://www.anthropic.com/news/claude-partner-network",
+        "published": ""
+      },
+      {
+        "source": "Anthropic News",
+        "category_key": "product",
+        "title": "Mar 11, 2026AnnouncementsIntroducing The Anthropic Institute",
+        "url": "https://www.anthropic.com/news/the-anthropic-institute",
+        "published": ""
+      },
+      {
+        "source": "Anthropic News",
+        "category_key": "product",
+        "title": "Mar 10, 2026AnnouncementsSydney will become Anthropic’s fourth office in Asia-Pacific",
+        "url": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
+        "published": ""
+      },
+      {
+        "source": "Anthropic News",
+        "category_key": "product",
+        "title": "Feb 25, 2026AnnouncementsAnthropic acquires Vercept to advance Claude's computer use capabilities",
+        "url": "https://www.anthropic.com/news/acquires-vercept",
+        "published": ""
+      },
+      {
+        "source": "Microsoft Official Blog",
+        "category_key": "product",
+        "title": "Open to Work: How to Get Ahead in the Age of AI",
+        "url": "https://blogs.microsoft.com/blog/2026/03/31/open-to-work-how-to-get-ahead-in-the-age-of-ai/",
+        "published": ""
+      },
+      {
+        "source": "Microsoft Official Blog",
+        "category_key": "product",
+        "title": "Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI",
+        "url": "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/",
+        "published": ""
+      },
+      {
+        "source": "Microsoft Official Blog",
+        "category_key": "product",
+        "title": "Microsoft and OpenAI joint statement on continuing partnership",
+        "url": "https://blogs.microsoft.com/blog/2026/02/27/microsoft-and-openai-joint-statement-on-continuing-partnership/",
+        "published": ""
+      },
+      {
+        "source": "Microsoft Official Blog",
+        "category_key": "product",
+        "title": "Scott Guthrie - Executive Vice President, Cloud + AI",
+        "url": "https://blogs.microsoft.com/blog/author/scottguthrie/",
+        "published": ""
+      },
+      {
+        "source": "Microsoft Official Blog",
+        "category_key": "product",
+        "title": "Maia 200: The AI accelerator built for inference",
+        "url": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
+        "published": ""
+      },
+      {
+        "source": "Microsoft Official Blog",
+        "category_key": "product",
+        "title": "Announcing Open to Work: How to Get Ahead in the Age of AI",
+        "url": "https://blogs.microsoft.com/blog/2026/01/13/announcing-open-to-work-how-to-get-ahead-in-the-age-of-ai/",
+        "published": ""
+      },
+      {
+        "source": "Microsoft Official Blog",
+        "category_key": "product",
+        "title": "Microsoft, NVIDIA and Anthropic announce strategic partnerships",
+        "url": "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/",
+        "published": ""
+      },
+      {
+        "source": "Microsoft Official Blog",
+        "category_key": "product",
+        "title": "Infinite scale: The architecture behind the Azure AI superfactory",
+        "url": "https://blogs.microsoft.com/blog/2025/11/12/infinite-scale-the-architecture-behind-the-azure-ai-superfactory/",
+        "published": ""
+      },
+      {
+        "source": "Meta Newsroom",
+        "category_key": "company",
+        "title": "AI Glasses",
+        "url": "https://about.fb.com/news/tag/ray-ban-meta-glasses/",
+        "published": ""
+      },
+      {
+        "source": "Meta Newsroom",
+        "category_key": "company",
+        "title": "Introducing Our First AI Glasses Built For Prescriptions",
+        "url": "https://about.fb.com/news/2026/03/meta-ai-glasses-built-for-prescriptions/",
+        "published": ""
+      },
+      {
+        "source": "Meta Newsroom",
+        "category_key": "company",
+        "title": "How AI Is Ushering in the Next Era of Risk Review at Meta",
+        "url": "https://about.fb.com/news/2026/03/how-ai-is-ushering-in-the-next-era-of-risk-review-at-meta/",
+        "published": ""
+      },
+      {
+        "source": "Meta Newsroom",
+        "category_key": "company",
+        "title": "Boosting Your Support and Safety on Meta’s Apps With AI",
+        "url": "https://about.fb.com/news/2026/03/boosting-your-support-and-safety-on-metas-apps-with-ai/",
+        "published": ""
+      },
+      {
+        "source": "Meta Newsroom",
+        "category_key": "company",
+        "title": "Bringing More International News and Content to Meta AI",
+        "url": "https://about.fb.com/news/2026/03/bringing-more-international-news-and-content-to-meta-ai/",
+        "published": ""
+      },
+      {
+        "source": "Meta Newsroom",
+        "category_key": "company",
+        "title": "Facebook Marketplace’s New Meta AI Tools Make Selling Faster and Easier",
+        "url": "https://about.fb.com/news/2026/03/facebook-marketplace-new-meta-ai-tools-make-selling-faster-and-easier/",
+        "published": ""
+      },
+      {
+        "source": "Meta Newsroom",
+        "category_key": "company",
+        "title": "Expanding Meta’s Custom Silicon to Power Our AI Workloads",
+        "url": "https://about.fb.com/news/2026/03/expanding-metas-custom-silicon-to-power-our-ai-workloads/",
+        "published": ""
+      },
+      {
+        "source": "Meta Newsroom",
+        "category_key": "company",
+        "title": "Meta Launches New Anti-Scam Tools, Deploys AI Technology to Fight Scammers and Protect People",
+        "url": "https://about.fb.com/news/2026/03/meta-launches-new-anti-scam-tools-deploys-ai-technology-to-fight-scammers-and-protect-people/",
+        "published": ""
+      },
+      {
+        "source": "Meta Newsroom",
+        "category_key": "company",
+        "title": "Meta Takes Legal Action Against Scam Advertisers",
+        "url": "https://about.fb.com/news/2026/02/meta-takes-legal-action-against-scam-advertisers/",
+        "published": ""
+      },
+      {
+        "source": "NVIDIA Newsroom",
+        "category_key": "company",
+        "title": "NVIDIA AI Ecosystem Expands as Marvell Joins Forces Through NVLink Fusion",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion",
+        "published": ""
+      },
+      {
+        "source": "NVIDIA Newsroom",
+        "category_key": "company",
+        "title": "NVIDIA and Emerald AI Join Leading Energy Companies to Pioneer Flexible AI Factories as Grid Assets",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-and-emerald-ai-join-leading-energy-companies-to-pioneer-flexible-ai-factories-as-grid-assets",
+        "published": ""
+      },
+      {
+        "source": "NVIDIA Blog",
+        "category_key": "product",
+        "title": "Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid",
+        "url": "https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/",
+        "published": "Tue, 31 Mar 2026 15:00:51 +0000"
+      },
+      {
+        "source": "NVIDIA Blog",
+        "category_key": "product",
+        "title": "Into the Omniverse: NVIDIA GTC Showcases Virtual Worlds Powering the Physical AI Era",
+        "url": "https://blogs.nvidia.com/blog/gtc-2026-virtual-worlds-physical-ai/",
+        "published": "Thu, 26 Mar 2026 15:00:56 +0000"
+      },
+      {
+        "source": "NVIDIA Blog",
+        "category_key": "product",
+        "title": "The Future of AI Is Open and Proprietary",
+        "url": "https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/",
+        "published": "Wed, 25 Mar 2026 19:00:04 +0000"
+      },
+      {
+        "source": "NVIDIA Blog",
+        "category_key": "product",
+        "title": "Blowing Off Steam: How Power-Flexible AI Factories Can Stabilize the Global Energy Grid",
+        "url": "https://blogs.nvidia.com/blog/power-flexible-ai-factories-energy-grid/",
+        "published": "Wed, 25 Mar 2026 11:00:00 +0000"
+      },
+      {
+        "source": "NVIDIA Blog",
+        "category_key": "product",
+        "title": "Advancing Open Source AI, NVIDIA Donates Dynamic Resource Allocation Driver for GPUs to Kubernetes Community",
+        "url": "https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/",
+        "published": "Tue, 24 Mar 2026 08:00:12 +0000"
+      },
+      {
+        "source": "NVIDIA Blog",
+        "category_key": "product",
+        "title": "How Autonomous AI Agents Become Secure by Design With NVIDIA OpenShell",
+        "url": "https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/",
+        "published": "Mon, 23 Mar 2026 15:00:03 +0000"
+      },
+      {
+        "source": "NVIDIA Blog",
+        "category_key": "product",
+        "title": "NVIDIA GTC 2026: Live Updates on What’s Next in AI",
+        "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+        "published": "Fri, 20 Mar 2026 00:15:17 +0000"
+      },
+      {
+        "source": "NVIDIA Blog",
+        "category_key": "product",
+        "title": "From Simulation to Production: How to Build Robots With AI",
+        "url": "https://blogs.nvidia.com/blog/build-robots-with-ai/",
+        "published": "Wed, 18 Mar 2026 13:00:13 +0000"
+      },
+      {
+        "source": "NVIDIA Blog",
+        "category_key": "product",
+        "title": "NVIDIA, Telecom Leaders Build AI Grids to Optimize Inference on Distributed Networks",
+        "url": "https://blogs.nvidia.com/blog/telecom-ai-grids-inference/",
+        "published": "Tue, 17 Mar 2026 17:00:15 +0000"
+      },
+      {
+        "source": "NVIDIA Blog",
+        "category_key": "product",
+        "title": "GTC Spotlights NVIDIA RTX PCs and DGX Sparks Running Latest Open Models and AI Agents Locally",
+        "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-gtc-2026-nemoclaw/",
+        "published": "Tue, 17 Mar 2026 13:00:46 +0000"
+      },
+      {
+        "source": "TechCrunch AI",
+        "category_key": "media",
+        "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+        "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+        "published": "Wed, 01 Apr 2026 22:12:13 +0000"
+      },
+      {
+        "source": "TechCrunch AI",
+        "category_key": "media",
+        "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+        "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+        "published": "Wed, 01 Apr 2026 16:00:00 +0000"
+      },
+      {
+        "source": "TechCrunch AI",
+        "category_key": "media",
+        "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
+        "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+        "published": "Wed, 01 Apr 2026 01:42:59 +0000"
+      },
+      {
+        "source": "TechCrunch AI",
+        "category_key": "media",
+        "title": "Anthropic is having a month",
+        "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+        "published": "Tue, 31 Mar 2026 23:58:26 +0000"
+      },
+      {
+        "source": "TechCrunch AI",
+        "category_key": "media",
+        "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+        "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+        "published": "Tue, 31 Mar 2026 22:46:25 +0000"
+      },
+      {
+        "source": "TechCrunch AI",
+        "category_key": "media",
+        "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+        "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+        "published": "Tue, 31 Mar 2026 21:25:04 +0000"
+      },
+      {
+        "source": "TechCrunch AI",
+        "category_key": "media",
+        "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
+        "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+        "published": "Tue, 31 Mar 2026 20:01:07 +0000"
+      },
+      {
+        "source": "TechCrunch AI",
+        "category_key": "media",
+        "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+        "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+        "published": "Tue, 31 Mar 2026 15:00:00 +0000"
+      },
+      {
+        "source": "TechCrunch AI",
+        "category_key": "media",
+        "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
+        "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+        "published": "Tue, 31 Mar 2026 14:00:00 +0000"
+      },
+      {
+        "source": "TechCrunch AI",
+        "category_key": "media",
+        "title": "With its new app store, Ring bets on AI to go beyond home security",
+        "url": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
+        "published": "Tue, 31 Mar 2026 13:00:00 +0000"
+      }
+    ]
   }
 }
