@@ -381,7 +381,16 @@
     "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
     "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
     "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
-    "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/"
+    "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
+    "https://openai.com/news/global-affairs/",
+    "https://openai.com/news/ai-adoption/",
+    "https://openai.com/index/accelerating-the-next-phase-ai/",
+    "https://openai.com/index/our-approach-to-the-model-spec/",
+    "https://openai.com/index/safety-bug-bounty/",
+    "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard/",
+    "https://openai.com/index/update-on-the-openai-foundation/",
+    "https://openai.com/index/powering-product-discovery-in-chatgpt/",
+    "https://help.openai.com/en/articles/9624314-model-release-notes"
   ],
   "company_daily_seen": {
     "2026-04-02": [
@@ -720,6 +729,69 @@
         "title": "With its new app store, Ring bets on AI to go beyond home security",
         "url": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
         "published": "Tue, 31 Mar 2026 13:00:00 +0000"
+      },
+      {
+        "source": "OpenAI Newsroom",
+        "category_key": "product",
+        "title": "Global Affairs",
+        "url": "https://openai.com/news/global-affairs/",
+        "published": ""
+      },
+      {
+        "source": "OpenAI Newsroom",
+        "category_key": "product",
+        "title": "AI Adoption",
+        "url": "https://openai.com/news/ai-adoption/",
+        "published": ""
+      },
+      {
+        "source": "OpenAI Newsroom",
+        "category_key": "product",
+        "title": "OpenAI raises $122 billion to accelerate the next phase of AICompanyMar 31, 2026",
+        "url": "https://openai.com/index/accelerating-the-next-phase-ai/",
+        "published": ""
+      },
+      {
+        "source": "OpenAI Newsroom",
+        "category_key": "product",
+        "title": "Inside our approach to the Model SpecResearchMar 25, 2026",
+        "url": "https://openai.com/index/our-approach-to-the-model-spec/",
+        "published": ""
+      },
+      {
+        "source": "OpenAI Newsroom",
+        "category_key": "product",
+        "title": "Introducing the OpenAI Safety Bug Bounty programSafetyMar 25, 2026",
+        "url": "https://openai.com/index/safety-bug-bounty/",
+        "published": ""
+      },
+      {
+        "source": "OpenAI Newsroom",
+        "category_key": "product",
+        "title": "Helping developers build safer AI experiences for teensSafetyMar 24, 2026",
+        "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard/",
+        "published": ""
+      },
+      {
+        "source": "OpenAI Newsroom",
+        "category_key": "product",
+        "title": "Update on the OpenAI FoundationCompanyMar 24, 2026",
+        "url": "https://openai.com/index/update-on-the-openai-foundation/",
+        "published": ""
+      },
+      {
+        "source": "OpenAI Newsroom",
+        "category_key": "product",
+        "title": "Powering Product Discovery in ChatGPTProductMar 24, 2026",
+        "url": "https://openai.com/index/powering-product-discovery-in-chatgpt/",
+        "published": ""
+      },
+      {
+        "source": "OpenAI Model Release Notes",
+        "category_key": "product",
+        "title": "Model Release Notes",
+        "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+        "published": ""
       }
     ]
   }
