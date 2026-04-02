@@ -14,53 +14,64 @@
     "jin10:伊朗发导弹和无人机发射画面",
     "wallstreetcn-quick:以军称再次监测到伊方发射的导弹",
     "jin10:美国驻巴格达大使馆表示亲伊朗民兵组织可能在未来24至48小时内于巴格达中部发动袭击并敦促美国公民立即离开伊拉克",
-    "ifeng:美以伊战争丨特朗普讲话被批老调重弹"
+    "ifeng:美以伊战争丨特朗普讲话被批老调重弹",
+    "wallstreetcn-quick:伊朗外交部发言人伊朗将继续抵抗非法战争",
+    "jin10:波兰央行委员利维纽克我们不应预期在近期降息若通胀趋势呈现下行态势我们将考虑加息",
+    "jin10:前首席敦促日本央行若不想让通胀变灾难立即加息",
+    "cls-hot:滞胀来袭美银美联储今年料降息50基点油价全年维持100美元"
   ],
-  "last_checked_at": "2026-04-02 14:17:40",
-  "last_sent_at": "2026-04-02 14:17:40",
+  "last_checked_at": "2026-04-02 15:43:10",
+  "last_sent_at": "2026-04-02 15:43:10",
   "last_alerts": [
-    {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "伊朗发导弹和无人机发射画面",
-      "url": "https://flash.jin10.com/detail/20260402131053029800",
-      "rank": 2,
-      "score": 85,
-      "matched_keywords": [
-        "导弹"
-      ]
-    },
     {
       "source_id": "wallstreetcn-quick",
       "source_name": "华尔街见闻快讯",
-      "title": "以军称再次监测到伊方发射的导弹",
-      "url": "https://wallstreetcn.com/livenews/3081313",
-      "rank": 3,
-      "score": 85,
+      "title": "伊朗外交部发言人：伊朗将继续抵抗“非法战争”",
+      "url": "https://wallstreetcn.com/livenews/3081390",
+      "rank": 1,
+      "score": 90,
       "matched_keywords": [
-        "导弹"
+        "战争"
       ]
     },
     {
       "source_id": "jin10",
       "source_name": "金十数据",
-      "title": "美国驻巴格达大使馆表示，亲伊朗民兵组织可能在未来24至48小时内于巴格达中部发动袭击，并敦促美国公民立即离开伊拉克。",
-      "url": "https://flash.jin10.com/detail/20260402130308633800",
-      "rank": 8,
-      "score": 75,
+      "title": "波兰央行委员利维纽克：我们不应预期在近期降息。若通胀趋势呈现下行态势，我们将考虑加息。",
+      "url": "https://flash.jin10.com/detail/20260402140936320800",
+      "rank": 22,
+      "score": 90,
       "matched_keywords": [
-        "袭击"
+        "央行",
+        "加息",
+        "降息",
+        "通胀"
       ]
     },
     {
-      "source_id": "ifeng",
-      "source_name": "凤凰网",
-      "title": "美以伊战争丨特朗普讲话被批老调重弹",
-      "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-      "rank": 1,
-      "score": 70,
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "前首席敦促日本央行：若不想让通胀变灾难，立即加息！",
+      "url": "https://flash.jin10.com/detail/20260402135923833800",
+      "rank": 30,
+      "score": 90,
       "matched_keywords": [
-        "战争"
+        "日本央行",
+        "央行",
+        "加息",
+        "通胀"
+      ]
+    },
+    {
+      "source_id": "cls-hot",
+      "source_name": "财联社热门",
+      "title": "“滞胀”来袭！美银：美联储今年料降息50基点 油价全年维持100美元",
+      "url": "https://www.cls.cn/detail/2332777",
+      "rank": 12,
+      "score": 85,
+      "matched_keywords": [
+        "美联储",
+        "降息"
       ]
     }
   ]
