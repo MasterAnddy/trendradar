@@ -18,60 +18,47 @@
     "wallstreetcn-quick:伊朗外交部发言人伊朗将继续抵抗非法战争",
     "jin10:波兰央行委员利维纽克我们不应预期在近期降息若通胀趋势呈现下行态势我们将考虑加息",
     "jin10:前首席敦促日本央行若不想让通胀变灾难立即加息",
-    "cls-hot:滞胀来袭美银美联储今年料降息50基点油价全年维持100美元"
+    "cls-hot:滞胀来袭美银美联储今年料降息50基点油价全年维持100美元",
+    "jin10:国际现货黄金仍面临战术性下行风险美联储本轮降息虽迟但到live分析更新中",
+    "cls-hot:快速停火期望破灭特朗普演讲震动市场原油美元齐涨亚太股市转跌",
+    "wallstreetcn-quick:欧洲央行管委simkus鉴于形势正在变化利率方面需保持谨慎现在判断四月份需要采取什么行动还为时过早"
   ],
-  "last_checked_at": "2026-04-02 15:43:10",
-  "last_sent_at": "2026-04-02 15:43:10",
+  "last_checked_at": "2026-04-02 16:52:47",
+  "last_sent_at": "2026-04-02 16:52:47",
   "last_alerts": [
     {
-      "source_id": "wallstreetcn-quick",
-      "source_name": "华尔街见闻快讯",
-      "title": "伊朗外交部发言人：伊朗将继续抵抗“非法战争”",
-      "url": "https://wallstreetcn.com/livenews/3081390",
-      "rank": 1,
-      "score": 90,
-      "matched_keywords": [
-        "战争"
-      ]
-    },
-    {
       "source_id": "jin10",
       "source_name": "金十数据",
-      "title": "波兰央行委员利维纽克：我们不应预期在近期降息。若通胀趋势呈现下行态势，我们将考虑加息。",
-      "url": "https://flash.jin10.com/detail/20260402140936320800",
-      "rank": 22,
+      "title": "国际现货黄金仍面临战术性下行风险 美联储本轮降息虽迟但到？ | Live分析更新中",
+      "url": "https://flash.jin10.com/detail/20260402153645553800",
+      "rank": 14,
       "score": 90,
       "matched_keywords": [
-        "央行",
-        "加息",
-        "降息",
-        "通胀"
-      ]
-    },
-    {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "前首席敦促日本央行：若不想让通胀变灾难，立即加息！",
-      "url": "https://flash.jin10.com/detail/20260402135923833800",
-      "rank": 30,
-      "score": 90,
-      "matched_keywords": [
-        "日本央行",
-        "央行",
-        "加息",
-        "通胀"
+        "美联储",
+        "降息"
       ]
     },
     {
       "source_id": "cls-hot",
       "source_name": "财联社热门",
-      "title": "“滞胀”来袭！美银：美联储今年料降息50基点 油价全年维持100美元",
-      "url": "https://www.cls.cn/detail/2332777",
-      "rank": 12,
-      "score": 85,
+      "title": "快速停火期望破灭？特朗普演讲震动市场：原油、美元齐涨 亚太股市转跌",
+      "url": "https://www.cls.cn/detail/2332994",
+      "rank": 3,
+      "score": 80,
       "matched_keywords": [
-        "美联储",
-        "降息"
+        "停火"
+      ]
+    },
+    {
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "欧洲央行管委SIMKUS：鉴于形势正在变化，利率方面需保持谨慎。 现在判断四月份需要采取什么行动还为时过早。",
+      "url": "https://wallstreetcn.com/livenews/3081426",
+      "rank": 7,
+      "score": 80,
+      "matched_keywords": [
+        "欧洲央行",
+        "央行"
       ]
     }
   ]
