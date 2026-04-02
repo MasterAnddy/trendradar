@@ -21,17 +21,32 @@
     "cls-hot:滞胀来袭美银美联储今年料降息50基点油价全年维持100美元",
     "jin10:国际现货黄金仍面临战术性下行风险美联储本轮降息虽迟但到live分析更新中",
     "cls-hot:快速停火期望破灭特朗普演讲震动市场原油美元齐涨亚太股市转跌",
-    "wallstreetcn-quick:欧洲央行管委simkus鉴于形势正在变化利率方面需保持谨慎现在判断四月份需要采取什么行动还为时过早"
+    "wallstreetcn-quick:欧洲央行管委simkus鉴于形势正在变化利率方面需保持谨慎现在判断四月份需要采取什么行动还为时过早",
+    "wallstreetcn-quick:英国央行调查预计未来12个月物价涨幅升至37此前预计为34预计3月份cpi增速从3升至35",
+    "jin10:美银警告百元油价将贯穿全年美联储降息存泡汤风险",
+    "jin10:印度政府发布命令将出口产品关税和税收减免计划延长至2026年9月"
   ],
-  "last_checked_at": "2026-04-02 16:52:47",
-  "last_sent_at": "2026-04-02 16:52:47",
+  "last_checked_at": "2026-04-02 17:52:08",
+  "last_sent_at": "2026-04-02 17:52:08",
   "last_alerts": [
+    {
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "英国央行调查：预计未来12个月物价涨幅升至3.7%，此前预计为3.4%。 预计3月份CPI增速从3%升至3.5%。",
+      "url": "https://wallstreetcn.com/livenews/3081462",
+      "rank": 2,
+      "score": 90,
+      "matched_keywords": [
+        "央行",
+        "cpi"
+      ]
+    },
     {
       "source_id": "jin10",
       "source_name": "金十数据",
-      "title": "国际现货黄金仍面临战术性下行风险 美联储本轮降息虽迟但到？ | Live分析更新中",
-      "url": "https://flash.jin10.com/detail/20260402153645553800",
-      "rank": 14,
+      "title": "美银警告：百元油价将贯穿全年，美联储降息存“泡汤”风险",
+      "url": "https://flash.jin10.com/detail/20260402163640047800",
+      "rank": 13,
       "score": 90,
       "matched_keywords": [
         "美联储",
@@ -39,26 +54,15 @@
       ]
     },
     {
-      "source_id": "cls-hot",
-      "source_name": "财联社热门",
-      "title": "快速停火期望破灭？特朗普演讲震动市场：原油、美元齐涨 亚太股市转跌",
-      "url": "https://www.cls.cn/detail/2332994",
-      "rank": 3,
-      "score": 80,
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "印度政府发布命令，将出口产品关税和税收减免计划延长至2026年9月。",
+      "url": "https://flash.jin10.com/detail/20260402163944697800",
+      "rank": 6,
+      "score": 82,
       "matched_keywords": [
-        "停火"
-      ]
-    },
-    {
-      "source_id": "wallstreetcn-quick",
-      "source_name": "华尔街见闻快讯",
-      "title": "欧洲央行管委SIMKUS：鉴于形势正在变化，利率方面需保持谨慎。 现在判断四月份需要采取什么行动还为时过早。",
-      "url": "https://wallstreetcn.com/livenews/3081426",
-      "rank": 7,
-      "score": 80,
-      "matched_keywords": [
-        "欧洲央行",
-        "央行"
+        "关税",
+        "发布"
       ]
     }
   ]
