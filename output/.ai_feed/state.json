@@ -42,7 +42,8 @@
     "https://developer.nvidia.com/blog/designing-protein-binders-using-the-generative-model-proteina-complexa/",
     "https://developer.nvidia.com/blog/deploying-disaggregated-llm-inference-workloads-on-kubernetes/",
     "https://developer.nvidia.com/blog/bringing-ai-closer-to-the-edge-and-on-device-with-gemma-4/",
-    "https://developer.nvidia.com/blog/achieving-single-digit-microsecond-latency-inference-for-capital-markets/"
+    "https://developer.nvidia.com/blog/achieving-single-digit-microsecond-latency-inference-for-capital-markets/",
+    "https://developer.nvidia.com/blog/building-nvidia-nemotron-3-agents-for-reasoning-multimodal-rag-voice-and-safety/"
   ],
   "research_daily_seen": {
     "2026-04-03": [
@@ -58,6 +59,13 @@
         "category_key": "research",
         "title": "Achieving Single-Digit Microsecond Latency Inference for Capital Markets",
         "url": "https://developer.nvidia.com/blog/achieving-single-digit-microsecond-latency-inference-for-capital-markets/",
+        "published": ""
+      },
+      {
+        "source": "NVIDIA Developer Blog",
+        "category_key": "research",
+        "title": "Building NVIDIA Nemotron 3 Agents for Reasoning, Multimodal RAG, Voice, and Safety",
+        "url": "https://developer.nvidia.com/blog/building-nvidia-nemotron-3-agents-for-reasoning-multimodal-rag-voice-and-safety/",
         "published": ""
       }
     ]
