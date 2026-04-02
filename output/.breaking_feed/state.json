@@ -60,57 +60,59 @@
     "wallstreetcn-quick:以军称打死伊朗导弹部队一指挥官",
     "jin10:欧洲央行管委维勒鲁瓦欧洲央行下一步可能加息但时机尚不明确",
     "jin10:openai将chatgpt企业版的年订阅价格从每用户25美元降至20美元",
-    "wallstreetcn-quick:以军称伊朗军方石油部门负责人遭空袭身亡"
+    "wallstreetcn-quick:以军称伊朗军方石油部门负责人遭空袭身亡",
+    "wallstreetcn-quick:美国纽约联储主席威廉姆斯随着时间的推移美国和以色列发动伊朗战争造成的通胀将体现在统计数据中通胀上扬与经济放缓的风险都已经加重当前我认为美联储通胀就业目标所面临的风险是平衡的能源价格传导至许许多多的东西上市场乐观地认为油价将显著回落",
+    "jin10:美国官员大型制药企业有120天时间作出公告以避免被征收100的关税",
+    "jin10:美国官员小型制药企业有180天时间避免更高关税将制造业迁回美国并与美国卫生与公众服务部签署最惠国药品定价协议的企业将免征药品关税",
+    "jin10:美国官员因贸易协定对欧洲日本韩国和瑞士的药品关税降至15"
   ],
-  "last_checked_at": "2026-04-03 04:12:26",
-  "last_sent_at": "2026-04-03 04:12:26",
+  "last_checked_at": "2026-04-03 04:59:12",
+  "last_sent_at": "2026-04-03 04:59:12",
   "last_alerts": [
     {
       "source_id": "wallstreetcn-quick",
       "source_name": "华尔街见闻快讯",
-      "title": "以军称打死伊朗导弹部队一指挥官",
-      "url": "https://wallstreetcn.com/livenews/3081756",
-      "rank": 1,
-      "score": 90,
-      "matched_keywords": [
-        "导弹"
-      ]
-    },
-    {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "欧洲央行管委维勒鲁瓦：欧洲央行下一步可能加息，但时机尚不明确",
-      "url": "https://flash.jin10.com/detail/20260403015137743800",
-      "rank": 23,
-      "score": 90,
-      "matched_keywords": [
-        "欧洲央行",
-        "央行",
-        "加息"
-      ]
-    },
-    {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "OpenAI：将ChatGPT企业版的年订阅价格从每用户25美元降至20美元。",
-      "url": "https://flash.jin10.com/detail/20260403014329436800",
-      "rank": 27,
-      "score": 87,
-      "matched_keywords": [
-        "openai",
-        "chatgpt",
-        "ai"
-      ]
-    },
-    {
-      "source_id": "wallstreetcn-quick",
-      "source_name": "华尔街见闻快讯",
-      "title": "以军称伊朗军方石油部门负责人遭空袭身亡",
-      "url": "https://wallstreetcn.com/livenews/3081752",
+      "title": "美国纽约联储主席威廉姆斯：随着时间的推移，（美国和以色列发动伊朗战争造成的）通胀将体现在统计数据中。 通胀（上扬）与经济放缓的风险都已经加重。 当前，我认为美联储（通胀+就业）目标所面临的风险是平衡的。 能源价格传导至许许多多的东西上。 市场乐观地认为，油价将显著回落。",
+      "url": "https://wallstreetcn.com/livenews/3081772",
       "rank": 4,
+      "score": 100,
+      "matched_keywords": [
+        "战争",
+        "美联储",
+        "通胀"
+      ]
+    },
+    {
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "美国官员：大型制药企业有120天时间作出公告，以避免被征收100%的关税。",
+      "url": "https://flash.jin10.com/detail/20260403032938811800",
+      "rank": 1,
+      "score": 85,
+      "matched_keywords": [
+        "关税"
+      ]
+    },
+    {
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "美国官员：小型制药企业有180天时间避免更高关税，将制造业迁回美国并与美国卫生与公众服务部签署最惠国药品定价协议的企业，将免征药品关税。",
+      "url": "https://flash.jin10.com/detail/20260403032920305800",
+      "rank": 2,
       "score": 80,
       "matched_keywords": [
-        "空袭"
+        "关税"
+      ]
+    },
+    {
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "美国官员：因贸易协定，对欧洲、日本、韩国和瑞士的药品关税降至15%。",
+      "url": "https://flash.jin10.com/detail/20260403032842972800",
+      "rank": 4,
+      "score": 75,
+      "matched_keywords": [
+        "关税"
       ]
     }
   ]
