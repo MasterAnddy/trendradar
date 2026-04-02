@@ -56,35 +56,61 @@
     "jin10:当地时间4月2日晚伊朗向以色列特拉维夫发动新一轮导弹袭击",
     "wallstreetcn-quick:谷歌公司推出gemma4开源模型为高级推理打造gemma4英伟达与谷歌公司致力于为英伟达gpus优化gemma4英伟达为本地智能体人工智能agenticai加速gemma4",
     "wallstreetcn-quick:openai收购科技行业脱口秀tbpn华尔街日报",
-    "jin10:市场消息openai收购tbpn"
+    "jin10:市场消息openai收购tbpn",
+    "wallstreetcn-quick:以军称打死伊朗导弹部队一指挥官",
+    "jin10:欧洲央行管委维勒鲁瓦欧洲央行下一步可能加息但时机尚不明确",
+    "jin10:openai将chatgpt企业版的年订阅价格从每用户25美元降至20美元",
+    "wallstreetcn-quick:以军称伊朗军方石油部门负责人遭空袭身亡"
   ],
-  "last_checked_at": "2026-04-03 03:03:23",
-  "last_sent_at": "2026-04-03 03:03:23",
+  "last_checked_at": "2026-04-03 04:12:26",
+  "last_sent_at": "2026-04-03 04:12:26",
   "last_alerts": [
     {
       "source_id": "wallstreetcn-quick",
       "source_name": "华尔街见闻快讯",
-      "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
-      "url": "https://wallstreetcn.com/livenews/3081739",
+      "title": "以军称打死伊朗导弹部队一指挥官",
+      "url": "https://wallstreetcn.com/livenews/3081756",
       "rank": 1,
-      "score": 110,
+      "score": 90,
       "matched_keywords": [
-        "收购",
-        "openai",
-        "ai"
+        "导弹"
       ]
     },
     {
       "source_id": "jin10",
       "source_name": "金十数据",
-      "title": "市场消息：OpenAI收购TBPN。",
-      "url": "https://flash.jin10.com/detail/20260403012712890800",
-      "rank": 1,
-      "score": 110,
+      "title": "欧洲央行管委维勒鲁瓦：欧洲央行下一步可能加息，但时机尚不明确",
+      "url": "https://flash.jin10.com/detail/20260403015137743800",
+      "rank": 23,
+      "score": 90,
       "matched_keywords": [
-        "收购",
+        "欧洲央行",
+        "央行",
+        "加息"
+      ]
+    },
+    {
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "OpenAI：将ChatGPT企业版的年订阅价格从每用户25美元降至20美元。",
+      "url": "https://flash.jin10.com/detail/20260403014329436800",
+      "rank": 27,
+      "score": 87,
+      "matched_keywords": [
         "openai",
+        "chatgpt",
         "ai"
+      ]
+    },
+    {
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "以军称伊朗军方石油部门负责人遭空袭身亡",
+      "url": "https://wallstreetcn.com/livenews/3081752",
+      "rank": 4,
+      "score": 80,
+      "matched_keywords": [
+        "空袭"
       ]
     }
   ]
