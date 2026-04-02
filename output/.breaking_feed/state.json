@@ -33,27 +33,30 @@
     "wallstreetcn-quick:伊朗实施真实承诺4第90波打击行动袭击美相关金属产业设施当地时间4月2日伊朗伊斯兰革命卫队发布声明称已实施真实承诺4第90波打击行动对地区内与美国相关的钢铁和铝业设施发动打击央视",
     "ifeng:美以伊战争丨伊朗指控美国新型导弹致21名运动员遇难",
     "cls-hot:事关中美经贸关系meta收购manus商务部发声",
-    "wallstreetcn-hot:伊总统致美民众公开信美国俨然以色列代理伊朗对别国并无敌意绝非发动战争"
+    "wallstreetcn-hot:伊总统致美民众公开信美国俨然以色列代理伊朗对别国并无敌意绝非发动战争",
+    "jin10:阿联酋方面表示周四遭到19枚导弹和26架无人机袭击",
+    "ifeng:美以伊战争丨伊朗指控新型导弹致21名运动员遇难",
+    "jin10:据伊朗媒体farsnews军事袭击了影响伊朗首都德黑兰与卡拉杰市之间的高速公路b1桥"
   ],
-  "last_checked_at": "2026-04-02 19:53:52",
-  "last_sent_at": "2026-04-02 19:53:52",
+  "last_checked_at": "2026-04-02 20:43:46",
+  "last_sent_at": "2026-04-02 20:43:46",
   "last_alerts": [
     {
-      "source_id": "wallstreetcn-quick",
-      "source_name": "华尔街见闻快讯",
-      "title": "【伊朗实施“真实承诺-4”第90波打击行动 袭击美相关金属产业设施】当地时间4月2日，伊朗伊斯兰革命卫队发布声明称，已实施“真实承诺-4”第90波打击行动，对地区内与美国相关的钢铁和铝业设施发动打击。（央视）",
-      "url": "https://wallstreetcn.com/livenews/3081542",
-      "rank": 2,
-      "score": 97,
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "阿联酋方面表示，周四遭到19枚导弹和26架无人机袭击。",
+      "url": "https://flash.jin10.com/detail/20260402192356807800",
+      "rank": 8,
+      "score": 95,
       "matched_keywords": [
         "袭击",
-        "发布"
+        "导弹"
       ]
     },
     {
       "source_id": "ifeng",
       "source_name": "凤凰网",
-      "title": "美以伊战争丨伊朗指控美国：新型导弹致21名运动员遇难",
+      "title": "美以伊战争丨伊朗指控：新型导弹致21名运动员遇难",
       "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
       "rank": 1,
       "score": 90,
@@ -63,26 +66,14 @@
       ]
     },
     {
-      "source_id": "cls-hot",
-      "source_name": "财联社热门",
-      "title": "事关中美经贸关系、Meta收购Manus，商务部发声",
-      "url": "https://www.cls.cn/detail/2333286",
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "据伊朗媒体Fars News：军事袭击了影响伊朗首都德黑兰与卡拉杰市之间的高速公路B1桥。",
+      "url": "https://flash.jin10.com/detail/20260402192952498800",
       "rank": 2,
-      "score": 80,
+      "score": 85,
       "matched_keywords": [
-        "收购",
-        "meta"
-      ]
-    },
-    {
-      "source_id": "wallstreetcn-hot",
-      "source_name": "华尔街见闻",
-      "title": "伊总统致美民众公开信：美国俨然以色列代理，伊朗对别国并无敌意、绝非发动战争",
-      "url": "https://wallstreetcn.com/articles/3769031",
-      "rank": 5,
-      "score": 70,
-      "matched_keywords": [
-        "战争"
+        "袭击"
       ]
     }
   ]
