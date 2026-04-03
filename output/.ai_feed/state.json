@@ -139,37 +139,17 @@
     "https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/",
     "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
     "https://openai.com/index/openai-acquires-tbpn/",
-    "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/"
+    "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+    "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/"
   ],
   "company_daily_seen": {
-    "2026-04-03": [
-      {
-        "source": "NVIDIA Blog",
-        "category_key": "product",
-        "title": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
-        "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/",
-        "published": "Thu, 02 Apr 2026 16:15:58 +0000"
-      },
+    "2026-04-04": [
       {
         "source": "TechCrunch AI",
         "category_key": "media",
-        "title": "Microsoft takes on AI rivals with three new foundational models",
-        "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
-        "published": "Thu, 02 Apr 2026 16:48:16 +0000"
-      },
-      {
-        "source": "OpenAI Newsroom",
-        "category_key": "product",
-        "title": "OpenAI acquires TBPNCompanyApr 2, 2026",
-        "url": "https://openai.com/index/openai-acquires-tbpn/",
-        "published": ""
-      },
-      {
-        "source": "TechCrunch AI",
-        "category_key": "media",
-        "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-        "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
-        "published": "Thu, 02 Apr 2026 19:21:00 +0000"
+        "title": "The Facebook insider building content moderation for the AI era",
+        "url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+        "published": "Fri, 03 Apr 2026 14:00:15 +0000"
       }
     ]
   },
