@@ -122,20 +122,35 @@
     "jin10:机构美联储今年可能两次降息以支持劳动力市场",
     "jin10:美国法官拒绝重新审理针对美联储主席鲍威尔的调查裁决",
     "wallstreetcn-quick:谷歌推出veo31lite版本并在vertexai平台新增veo超分辨率升级功能",
-    "jin10:美方曾提议停火48小时伊朗以战场行动作出回应"
+    "jin10:美方曾提议停火48小时伊朗以战场行动作出回应",
+    "cls-hot:美国3月非农如期出现技术性反弹劳动人口缩减压低失业率",
+    "wallstreetcn-hot:超预期反弹美国3月非农新增就业178万人创逾一年新高失业率意外降至43"
   ],
-  "last_checked_at": "2026-04-04 04:24:30",
-  "last_sent_at": "2026-04-04 04:24:30",
+  "last_checked_at": "2026-04-04 04:59:18",
+  "last_sent_at": "2026-04-04 04:59:18",
   "last_alerts": [
     {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "美方曾提议停火48小时 伊朗以战场行动作出“回应”",
-      "url": "https://flash.jin10.com/detail/20260404025442248800",
-      "rank": 1,
-      "score": 90,
+      "source_id": "cls-hot",
+      "source_name": "财联社热门",
+      "title": "美国3月非农如期出现技术性反弹 劳动人口缩减压低失业率",
+      "url": "https://www.cls.cn/detail/2335085",
+      "rank": 6,
+      "score": 85,
       "matched_keywords": [
-        "停火"
+        "非农",
+        "失业率"
+      ]
+    },
+    {
+      "source_id": "wallstreetcn-hot",
+      "source_name": "华尔街见闻",
+      "title": "超预期反弹！美国3月非农新增就业17.8万人，创逾一年新高，失业率意外降至4.3% ！",
+      "url": "https://wallstreetcn.com/articles/3769211",
+      "rank": 7,
+      "score": 80,
+      "matched_keywords": [
+        "非农",
+        "失业率"
       ]
     }
   ]
