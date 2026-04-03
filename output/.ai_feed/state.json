@@ -44,36 +44,16 @@
     "https://developer.nvidia.com/blog/bringing-ai-closer-to-the-edge-and-on-device-with-gemma-4/",
     "https://developer.nvidia.com/blog/achieving-single-digit-microsecond-latency-inference-for-capital-markets/",
     "https://developer.nvidia.com/blog/building-nvidia-nemotron-3-agents-for-reasoning-multimodal-rag-voice-and-safety/",
-    "https://developer.nvidia.com/blog/accelerating-vision-ai-pipelines-with-batch-mode-vc-6-and-nvidia-nsight/"
+    "https://developer.nvidia.com/blog/accelerating-vision-ai-pipelines-with-batch-mode-vc-6-and-nvidia-nsight/",
+    "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/"
   ],
   "research_daily_seen": {
-    "2026-04-03": [
+    "2026-04-04": [
       {
-        "source": "NVIDIA Developer Blog",
+        "source": "Google Research Blog",
         "category_key": "research",
-        "title": "Bringing AI Closer to the Edge and On-Device with Gemma 4",
-        "url": "https://developer.nvidia.com/blog/bringing-ai-closer-to-the-edge-and-on-device-with-gemma-4/",
-        "published": ""
-      },
-      {
-        "source": "NVIDIA Developer Blog",
-        "category_key": "research",
-        "title": "Achieving Single-Digit Microsecond Latency Inference for Capital Markets",
-        "url": "https://developer.nvidia.com/blog/achieving-single-digit-microsecond-latency-inference-for-capital-markets/",
-        "published": ""
-      },
-      {
-        "source": "NVIDIA Developer Blog",
-        "category_key": "research",
-        "title": "Building NVIDIA Nemotron 3 Agents for Reasoning, Multimodal RAG, Voice, and Safety",
-        "url": "https://developer.nvidia.com/blog/building-nvidia-nemotron-3-agents-for-reasoning-multimodal-rag-voice-and-safety/",
-        "published": ""
-      },
-      {
-        "source": "NVIDIA Developer Blog",
-        "category_key": "research",
-        "title": "Accelerating Vision AI Pipelines with Batch Mode VC-6 and NVIDIA Nsight",
-        "url": "https://developer.nvidia.com/blog/accelerating-vision-ai-pipelines-with-batch-mode-vc-6-and-nvidia-nsight/",
+        "title": "April 3, 2026 Evaluating alignment of behavioral dispositions in LLMs Generative AI · Human-Computer Interaction and Visualization · Machine Intelligence",
+        "url": "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/",
         "published": ""
       }
     ]
