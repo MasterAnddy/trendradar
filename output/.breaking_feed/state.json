@@ -88,33 +88,51 @@
     "jin10:市场消息日本从美国订购的数百枚战斧导弹面临交付威胁因为美国与以色列对伊朗的战争消耗了大量库存",
     "jin10:400枚战斧导弹交付受阻东京军购案面临延期",
     "jin10:日本央行的4月悬念加息还是不动市场已押注70",
-    "jin10:日元疲软推高加息预期但中东战火成最大黑天鹅"
+    "jin10:日元疲软推高加息预期但中东战火成最大黑天鹅",
+    "wallstreetcn-quick:外交部回应伊朗桥梁遭袭中方反对袭击民用设施有关方应立即停火",
+    "cls-hot:就在今晚中东战火下首份非农出炉美联储会倒向降息还是加息",
+    "wallstreetcn-quick:欧洲央行官员radev能源危机可能蔓延至更广泛的经济领域应当利用有利的融资条件来进行准备工作"
   ],
-  "last_checked_at": "2026-04-03 15:13:14",
-  "last_sent_at": "2026-04-03 15:13:14",
+  "last_checked_at": "2026-04-03 16:38:43",
+  "last_sent_at": "2026-04-03 16:38:43",
   "last_alerts": [
     {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "日本央行的“4月悬念”：加息还是不动？市场已押注70%",
-      "url": "https://flash.jin10.com/detail/20260403140511270800",
-      "rank": 3,
-      "score": 105,
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "外交部回应伊朗桥梁遭袭：中方反对袭击民用设施 有关方应立即停火",
+      "url": "https://wallstreetcn.com/livenews/3082053",
+      "rank": 6,
+      "score": 95,
       "matched_keywords": [
-        "日本央行",
-        "央行",
-        "加息"
+        "停火",
+        "袭击"
       ]
     },
     {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "日元疲软推高加息预期 但中东战火成最大“黑天鹅”",
-      "url": "https://flash.jin10.com/detail/20260403140504935800",
-      "rank": 4,
-      "score": 75,
+      "source_id": "cls-hot",
+      "source_name": "财联社热门",
+      "title": "就在今晚！中东战火下首份非农出炉：美联储会倒向降息还是加息？",
+      "url": "https://www.cls.cn/detail/2334455",
+      "rank": 9,
+      "score": 90,
       "matched_keywords": [
-        "加息"
+        "美联储",
+        "加息",
+        "降息",
+        "非农"
+      ]
+    },
+    {
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "欧洲央行官员Radev：能源危机可能蔓延至更广泛的经济领域。 应当利用有利的融资条件来进行准备工作。",
+      "url": "https://wallstreetcn.com/livenews/3082027",
+      "rank": 22,
+      "score": 90,
+      "matched_keywords": [
+        "欧洲央行",
+        "央行",
+        "融资"
       ]
     }
   ]
