@@ -120,7 +120,8 @@
     "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
     "https://openai.com/index/openai-acquires-tbpn/",
     "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
-    "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/"
+    "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+    "https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/"
   ],
   "company_daily_seen": {
     "2026-04-04": [
@@ -130,6 +131,13 @@
         "title": "The Facebook insider building content moderation for the AI era",
         "url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
         "published": "Fri, 03 Apr 2026 14:00:15 +0000"
+      },
+      {
+        "source": "TechCrunch AI",
+        "category_key": "media",
+        "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+        "url": "https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/",
+        "published": "Fri, 03 Apr 2026 19:48:22 +0000"
       }
     ]
   },
