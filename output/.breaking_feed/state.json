@@ -80,56 +80,62 @@
     "jin10:美联储古尔斯比当汽油价格大幅上涨时可能会出现一些复杂情况这会推高通胀预期那将使我们处境更加艰难",
     "jin10:美联储古尔斯比对通胀感到担忧",
     "jin10:美联储古尔斯比油价上涨时机不佳原本希望通胀会消退",
-    "jin10:特朗普高抬贵手金属关税大调整但50大棒仍高高举起"
+    "jin10:特朗普高抬贵手金属关税大调整但50大棒仍高高举起",
+    "jin10:金十整理中中东局势推升通胀风险主要投行预计欧洲央行最早4月加息英国央行降息预期推迟",
+    "cls-hot:早报美国将对进口专利药加征100关税飙涨近12美油站上110美元",
+    "cls-hot:算力太紧俏英伟达四年前发布的h100租赁费用近半年飙升近40",
+    "jin10:法国拟拨款85亿欧元2030年前将导弹和无人机库存扩大400"
   ],
-  "last_checked_at": "2026-04-03 08:54:56",
-  "last_sent_at": "2026-04-03 08:54:56",
+  "last_checked_at": "2026-04-03 11:32:18",
+  "last_sent_at": "2026-04-03 11:32:18",
   "last_alerts": [
     {
       "source_id": "jin10",
       "source_name": "金十数据",
-      "title": "美联储古尔斯比：当汽油价格大幅上涨时，可能会出现一些复杂情况，这会推高通胀预期。那将使我们处境更加艰难。",
-      "url": "https://flash.jin10.com/detail/20260403074014140800",
-      "rank": 6,
-      "score": 85,
+      "title": "金十整理：中中东局势推升通胀风险，主要投行预计欧洲央行最早4月加息、英国央行降息预期推迟",
+      "url": "https://flash.jin10.com/detail/20260403095904891800",
+      "rank": 18,
+      "score": 90,
       "matched_keywords": [
-        "美联储",
-        "通胀"
+        "欧洲央行",
+        "央行",
+        "加息",
+        "降息"
       ]
     },
     {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "美联储古尔斯比：对通胀感到担忧。",
-      "url": "https://flash.jin10.com/detail/20260403073936707800",
-      "rank": 8,
-      "score": 85,
-      "matched_keywords": [
-        "美联储",
-        "通胀"
-      ]
-    },
-    {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "美联储古尔斯比：油价上涨时机不佳，原本希望通胀会消退。",
-      "url": "https://flash.jin10.com/detail/20260403073814155800",
-      "rank": 10,
-      "score": 85,
-      "matched_keywords": [
-        "美联储",
-        "通胀"
-      ]
-    },
-    {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "特朗普“高抬贵手”？金属关税大调整，但50%大棒仍高高举起",
-      "url": "https://flash.jin10.com/detail/20260403074051630800",
-      "rank": 3,
+      "source_id": "cls-hot",
+      "source_name": "财联社热门",
+      "title": "【早报】美国：将对进口专利药加征100%关税；飙涨近12%，美油站上110美元",
+      "url": "https://www.cls.cn/detail/2334089",
+      "rank": 1,
       "score": 80,
       "matched_keywords": [
         "关税"
+      ]
+    },
+    {
+      "source_id": "cls-hot",
+      "source_name": "财联社热门",
+      "title": "算力太紧俏！英伟达四年前发布的H100租赁费用近半年飙升近40%",
+      "url": "https://www.cls.cn/detail/2334039",
+      "rank": 6,
+      "score": 77,
+      "matched_keywords": [
+        "英伟达",
+        "发布",
+        "算力"
+      ]
+    },
+    {
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "法国拟拨款85亿欧元 2030年前将导弹和无人机库存扩大400%",
+      "url": "https://flash.jin10.com/detail/20260403101401132800",
+      "rank": 7,
+      "score": 75,
+      "matched_keywords": [
+        "导弹"
       ]
     }
   ]
