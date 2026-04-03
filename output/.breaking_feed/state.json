@@ -93,32 +93,48 @@
     "cls-hot:就在今晚中东战火下首份非农出炉美联储会倒向降息还是加息",
     "wallstreetcn-quick:欧洲央行官员radev能源危机可能蔓延至更广泛的经济领域应当利用有利的融资条件来进行准备工作",
     "ifeng:美以伊战争丨中方回应美军空袭伊朗大桥",
-    "jin10:决战非农非农之夜黄金市场提前消音周线翻红后空头布局愈发保守"
+    "jin10:决战非农非农之夜黄金市场提前消音周线翻红后空头布局愈发保守",
+    "cls-hot:外交部回应伊朗桥梁遭袭中方反对袭击民用设施有关方应立即停火",
+    "jin10:乌克兰外长近五百架无人机和巡航导弹袭击了乌克兰至少一人遇难其他人受伤残酷的攻击就是俄罗斯对乌克兰复活节停火提议的回应俄罗斯拒绝外交和和平努力他们必须得到强烈反击",
+    "wallstreetcn-quick:乌称基辅州遭大规模袭击已致人员伤亡"
   ],
-  "last_checked_at": "2026-04-03 17:32:03",
-  "last_sent_at": "2026-04-03 17:32:03",
+  "last_checked_at": "2026-04-03 18:33:35",
+  "last_sent_at": "2026-04-03 18:33:35",
   "last_alerts": [
     {
-      "source_id": "ifeng",
-      "source_name": "凤凰网",
-      "title": "美以伊战争丨中方回应美军空袭伊朗大桥",
-      "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-      "rank": 1,
+      "source_id": "cls-hot",
+      "source_name": "财联社热门",
+      "title": "外交部回应伊朗桥梁遭袭：中方反对袭击民用设施 有关方应立即停火",
+      "url": "https://www.cls.cn/detail/2334610",
+      "rank": 7,
       "score": 90,
       "matched_keywords": [
-        "战争",
-        "空袭"
+        "停火",
+        "袭击"
       ]
     },
     {
       "source_id": "jin10",
       "source_name": "金十数据",
-      "title": "决战非农！非农之夜黄金市场提前“消音”，周线翻红后空头布局愈发保守",
-      "url": "https://flash.jin10.com/detail/20260403160039991800",
-      "rank": 2,
-      "score": 80,
+      "title": "乌克兰外长：近五百架无人机和巡航导弹袭击了乌克兰，至少一人遇难，其他人受伤。残酷的攻击就是俄罗斯对乌克兰复活节停火提议的回应。俄罗斯拒绝外交和和平努力，他们必须得到强烈反击。",
+      "url": "https://flash.jin10.com/detail/20260403171018022800",
+      "rank": 15,
+      "score": 90,
       "matched_keywords": [
-        "非农"
+        "停火",
+        "袭击",
+        "导弹"
+      ]
+    },
+    {
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "乌称基辅州遭大规模袭击 已致人员伤亡",
+      "url": "https://wallstreetcn.com/livenews/3082122",
+      "rank": 3,
+      "score": 85,
+      "matched_keywords": [
+        "袭击"
       ]
     }
   ]
