@@ -125,20 +125,35 @@
     "jin10:美方曾提议停火48小时伊朗以战场行动作出回应",
     "cls-hot:美国3月非农如期出现技术性反弹劳动人口缩减压低失业率",
     "wallstreetcn-hot:超预期反弹美国3月非农新增就业178万人创逾一年新高失业率意外降至43",
-    "wallstreetcn-quick:美联储美国上周银行存款18987万亿美元之前一周18895万亿美元"
+    "wallstreetcn-quick:美联储美国上周银行存款18987万亿美元之前一周18895万亿美元",
+    "wallstreetcn-quick:imf呼吁日本央行继续加息",
+    "wallstreetcn-quick:美元指数在非农日清单的交投行情中涨超01本周大致持平"
   ],
-  "last_checked_at": "2026-04-04 05:49:50",
-  "last_sent_at": "2026-04-04 05:49:50",
+  "last_checked_at": "2026-04-04 07:36:38",
+  "last_sent_at": "2026-04-04 07:36:38",
   "last_alerts": [
     {
       "source_id": "wallstreetcn-quick",
       "source_name": "华尔街见闻快讯",
-      "title": "美联储：美国上周银行存款18.987万亿美元，之前一周18.895万亿美元。",
-      "url": "https://wallstreetcn.com/livenews/3082326",
-      "rank": 1,
+      "title": "IMF呼吁日本央行继续加息",
+      "url": "https://wallstreetcn.com/livenews/3082334",
+      "rank": 9,
+      "score": 95,
+      "matched_keywords": [
+        "日本央行",
+        "央行",
+        "加息"
+      ]
+    },
+    {
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "美元指数在非农日清单的交投行情中涨超0.1%，本周大致持平",
+      "url": "https://wallstreetcn.com/livenews/3082342",
+      "rank": 2,
       "score": 80,
       "matched_keywords": [
-        "美联储"
+        "非农"
       ]
     }
   ]
