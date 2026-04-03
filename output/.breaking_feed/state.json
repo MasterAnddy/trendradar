@@ -121,23 +121,21 @@
     "jin10:据伊朗努尔新闻nournews伊朗称空袭击中以色列大不里士一处休闲区",
     "jin10:机构美联储今年可能两次降息以支持劳动力市场",
     "jin10:美国法官拒绝重新审理针对美联储主席鲍威尔的调查裁决",
-    "wallstreetcn-quick:谷歌推出veo31lite版本并在vertexai平台新增veo超分辨率升级功能"
+    "wallstreetcn-quick:谷歌推出veo31lite版本并在vertexai平台新增veo超分辨率升级功能",
+    "jin10:美方曾提议停火48小时伊朗以战场行动作出回应"
   ],
-  "last_checked_at": "2026-04-04 03:30:51",
-  "last_sent_at": "2026-04-04 03:30:51",
+  "last_checked_at": "2026-04-04 04:24:30",
+  "last_sent_at": "2026-04-04 04:24:30",
   "last_alerts": [
     {
-      "source_id": "wallstreetcn-quick",
-      "source_name": "华尔街见闻快讯",
-      "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
-      "url": "https://wallstreetcn.com/livenews/3082305",
-      "rank": 6,
-      "score": 95,
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "美方曾提议停火48小时 伊朗以战场行动作出“回应”",
+      "url": "https://flash.jin10.com/detail/20260404025442248800",
+      "rank": 1,
+      "score": 90,
       "matched_keywords": [
-        "谷歌",
-        "xai",
-        "ai",
-        "推出"
+        "停火"
       ]
     }
   ]
