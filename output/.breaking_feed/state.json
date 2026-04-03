@@ -117,46 +117,22 @@
     "jin10:科威特方面表示过去24小时内共遭9枚导弹和26架无人机袭击",
     "wallstreetcn-quick:意大利央行下调2026年gdp预期至增长05因为美国和以色列发动伊朗战争的缘故之前料增06下调2027年gdp预期至增长05之前料增08维持2028年预期在增长08不变",
     "jin10:因伊朗战争意大利央行将2026年gdp增速预期从06下调至05",
-    "jin10:微软总裁伊朗导弹袭击后数据中心安全必须变革"
+    "jin10:微软总裁伊朗导弹袭击后数据中心安全必须变革",
+    "jin10:据伊朗努尔新闻nournews伊朗称空袭击中以色列大不里士一处休闲区"
   ],
-  "last_checked_at": "2026-04-04 01:24:18",
-  "last_sent_at": "2026-04-04 01:24:18",
+  "last_checked_at": "2026-04-04 02:03:30",
+  "last_sent_at": "2026-04-04 02:03:30",
   "last_alerts": [
     {
-      "source_id": "wallstreetcn-quick",
-      "source_name": "华尔街见闻快讯",
-      "title": "意大利央行下调2026年GDP预期至增长0.5%，因为（美国和以色列发动）伊朗战争的缘故；之前料增0.6%。 下调2027年GDP预期至增长0.5%（之前料增0.8%），维持2028年预期在增长0.8%不变。",
-      "url": "https://wallstreetcn.com/livenews/3082278",
-      "rank": 2,
-      "score": 105,
-      "matched_keywords": [
-        "战争",
-        "央行"
-      ]
-    },
-    {
       "source_id": "jin10",
       "source_name": "金十数据",
-      "title": "因伊朗战争，意大利央行将2026年GDP增速预期从0.6%下调至0.5%。",
-      "url": "https://flash.jin10.com/detail/20260404000128690800",
-      "rank": 2,
-      "score": 105,
+      "title": "据伊朗努尔新闻(Nour News)：伊朗称空袭击中以色列大不里士一处休闲区。",
+      "url": "https://flash.jin10.com/detail/20260404001408749800",
+      "rank": 6,
+      "score": 95,
       "matched_keywords": [
-        "战争",
-        "央行"
-      ]
-    },
-    {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "微软总裁：伊朗导弹袭击后，数据中心安全必须变革。",
-      "url": "https://flash.jin10.com/detail/20260404000007641800",
-      "rank": 3,
-      "score": 105,
-      "matched_keywords": [
-        "袭击",
-        "导弹",
-        "微软"
+        "空袭",
+        "袭击"
       ]
     }
   ]
