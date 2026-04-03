@@ -111,30 +111,45 @@
     "wallstreetcn-quick:以军称伊朗向以色列发动新一轮导弹袭击",
     "jin10:市场分析非农大增缓解就业市场担忧美联储审慎立场料延续",
     "jin10:一周热榜精选特朗普并未taco再引巨震鲍威尔发言修正加息预期",
-    "jin10:阿联酋环球铝业公司在阿布扎比哈利法经济区遭到伊朗导弹和无人机袭击后遭受了重大损失"
+    "jin10:阿联酋环球铝业公司在阿布扎比哈利法经济区遭到伊朗导弹和无人机袭击后遭受了重大损失",
+    "wallstreetcn-quick:新美联储通讯社就业超预期增长暂解美联储两难市场削减降息押注",
+    "jin10:美联储传声筒nicktimiraos美国失业率为4256在过去两年中保持显著稳定波动幅度非常小此前从2023年的35的低点上升3月份永久性失业人数略有下降",
+    "jin10:科威特方面表示过去24小时内共遭9枚导弹和26架无人机袭击"
   ],
-  "last_checked_at": "2026-04-03 23:59:51",
-  "last_sent_at": "2026-04-03 23:59:51",
+  "last_checked_at": "2026-04-04 00:48:49",
+  "last_sent_at": "2026-04-04 00:48:49",
   "last_alerts": [
     {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "一周热榜精选：特朗普并未TACO再引巨震！鲍威尔发言修正加息预期",
-      "url": "https://flash.jin10.com/detail/20260403223119763800",
-      "rank": 6,
-      "score": 95,
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "“新美联储通讯社”：就业超预期增长暂解美联储两难，市场削减降息押注",
+      "url": "https://wallstreetcn.com/livenews/3082270",
+      "rank": 1,
+      "score": 110,
       "matched_keywords": [
-        "鲍威尔",
-        "加息"
+        "美联储",
+        "降息"
       ]
     },
     {
       "source_id": "jin10",
       "source_name": "金十数据",
-      "title": "阿联酋环球铝业公司：在阿布扎比哈利法经济区遭到伊朗导弹和无人机袭击后，遭受了重大损失。",
-      "url": "https://flash.jin10.com/detail/20260403223058325800",
-      "rank": 7,
-      "score": 95,
+      "title": "“美联储传声筒”Nick Timiraos：美国失业率为4.256%，在过去两年中保持显著稳定，波动幅度非常小，此前从2023年的3.5%的低点上升。3月份永久性失业人数略有下降。",
+      "url": "https://flash.jin10.com/detail/20260403233034887800",
+      "rank": 5,
+      "score": 90,
+      "matched_keywords": [
+        "美联储",
+        "失业率"
+      ]
+    },
+    {
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "科威特方面表示，过去24小时内，共遭9枚导弹和26架无人机袭击。",
+      "url": "https://flash.jin10.com/detail/20260403224711890800",
+      "rank": 25,
+      "score": 90,
       "matched_keywords": [
         "袭击",
         "导弹"
