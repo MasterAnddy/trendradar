@@ -45,7 +45,8 @@
     "https://developer.nvidia.com/blog/achieving-single-digit-microsecond-latency-inference-for-capital-markets/",
     "https://developer.nvidia.com/blog/building-nvidia-nemotron-3-agents-for-reasoning-multimodal-rag-voice-and-safety/",
     "https://developer.nvidia.com/blog/accelerating-vision-ai-pipelines-with-batch-mode-vc-6-and-nvidia-nsight/",
-    "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/"
+    "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/",
+    "https://developer.nvidia.com/blog/enhancing-distributed-inference-performance-with-the-nvidia-inference-transfer-library/"
   ],
   "research_daily_seen": {
     "2026-04-04": [
@@ -54,6 +55,13 @@
         "category_key": "research",
         "title": "April 3, 2026 Evaluating alignment of behavioral dispositions in LLMs Generative AI · Human-Computer Interaction and Visualization · Machine Intelligence",
         "url": "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/",
+        "published": ""
+      },
+      {
+        "source": "NVIDIA Developer Blog",
+        "category_key": "research",
+        "title": "Enhancing Distributed Inference Performance with the NVIDIA Inference Transfer Library",
+        "url": "https://developer.nvidia.com/blog/enhancing-distributed-inference-performance-with-the-nvidia-inference-transfer-library/",
         "published": ""
       }
     ]
