@@ -140,21 +140,21 @@
     "jin10:美媒因ai初创公司mercor发生数据泄露事件meta暂停与其合作",
     "jin10:据伊朗迈赫尔通讯社德黑兰北部发生导弹袭击造成一人伤亡",
     "jin10:据伊朗媒体伊朗处决两名与反对派组织有关被判定实施袭击的男子",
-    "wallstreetcn-hot:中东局势重燃通胀之际今晚非农或大幅反弹"
+    "wallstreetcn-hot:中东局势重燃通胀之际今晚非农或大幅反弹",
+    "wallstreetcn-quick:以军称空袭德黑兰多处关键基础设施"
   ],
-  "last_checked_at": "2026-04-04 15:14:18",
-  "last_sent_at": "2026-04-04 15:14:18",
+  "last_checked_at": "2026-04-04 16:29:53",
+  "last_sent_at": "2026-04-04 16:29:53",
   "last_alerts": [
     {
-      "source_id": "wallstreetcn-hot",
-      "source_name": "华尔街见闻",
-      "title": "中东局势重燃通胀之际，今晚非农或大幅反弹！",
-      "url": "https://wallstreetcn.com/articles/3769178",
-      "rank": 5,
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "以军称空袭德黑兰多处关键基础设施",
+      "url": "https://wallstreetcn.com/livenews/3082392",
+      "rank": 3,
       "score": 85,
       "matched_keywords": [
-        "非农",
-        "通胀"
+        "空袭"
       ]
     }
   ]
