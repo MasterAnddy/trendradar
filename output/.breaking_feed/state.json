@@ -149,32 +149,35 @@
     "wallstreetcn-quick:美议员批国防部是战争罪部",
     "jin10:伊拉克民兵武装遭美以空袭致1死5伤",
     "wallstreetcn-quick:据伊拉克安全及能源部门消息两架无人机袭击伊拉克鲁迈拉北部油田rumailanorthoilfield造成三名伊拉克工人受伤",
-    "wallstreetcn-hot:停火斡旋陷僵局伊朗拒绝与美方伊斯兰堡会面卡塔尔退出调解"
+    "wallstreetcn-hot:停火斡旋陷僵局伊朗拒绝与美方伊斯兰堡会面卡塔尔退出调解",
+    "jin10:据印尼气象气候和地球物理局消息当地时间4月4日17时34分左右印尼北苏拉威西省塔劳群岛附近海域发生62级地震震源深度31公里地震未触发海啸预警",
+    "jin10:据伊朗塔斯尼姆通讯社真主党向贾巴勒尼里亚jabalniriya发动导弹袭击该地为以色列北部的空中作战与监视基地此次打击目标为位于被占领北部地区与米隆miron系统相关联的设施"
   ],
-  "last_checked_at": "2026-04-04 19:56:46",
-  "last_sent_at": "2026-04-04 19:56:46",
+  "last_checked_at": "2026-04-04 20:35:03",
+  "last_sent_at": "2026-04-04 20:35:03",
   "last_alerts": [
     {
-      "source_id": "wallstreetcn-quick",
-      "source_name": "华尔街见闻快讯",
-      "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
-      "url": "https://wallstreetcn.com/livenews/3082430",
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "据印尼气象、气候和地球物理局消息，当地时间4月4日17时34分左右，印尼北苏拉威西省塔劳群岛附近海域发生6.2级地震，震源深度31公里。地震未触发海啸预警。",
+      "url": "https://flash.jin10.com/detail/20260404185646197800",
       "rank": 3,
-      "score": 97,
+      "score": 105,
       "matched_keywords": [
-        "袭击",
-        "ai"
+        "地震",
+        "海啸"
       ]
     },
     {
-      "source_id": "wallstreetcn-hot",
-      "source_name": "华尔街见闻",
-      "title": "停火斡旋陷僵局：伊朗拒绝与美方伊斯兰堡会面，卡塔尔退出调解",
-      "url": "https://wallstreetcn.com/articles/3769228",
-      "rank": 1,
-      "score": 80,
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "据伊朗塔斯尼姆通讯社：真主党向贾巴勒·尼里亚（Jabal Niriya）发动导弹袭击，该地为以色列北部的空中作战与监视基地。此次打击目标为位于被占领北部地区、与米隆（Miron）系统相关联的设施。",
+      "url": "https://flash.jin10.com/detail/20260404185427980800",
+      "rank": 5,
+      "score": 100,
       "matched_keywords": [
-        "停火"
+        "袭击",
+        "导弹"
       ]
     }
   ]
