@@ -175,21 +175,21 @@
     "jin10:伊朗军方通过无人机袭击美国在科威特和阿联酋的资产",
     "ifeng:美以伊战争丨以官员伊朗仍有超千枚可打击以的导弹",
     "jin10:据伊朗官方媒体presstv如果美国入侵伊朗岛屿美国将会遭受巨大的伤亡美国的入侵很可能以彻底的灾难和彻底的耻辱告终美国正被揭开面具实质是一只纸老虎只会空口许诺却什么也兑现不了",
-    "jin10:据科威特国家通讯社无人机袭击后舒韦赫shuwaikh石油工业区发生火灾暂无人员伤亡报告"
+    "jin10:据科威特国家通讯社无人机袭击后舒韦赫shuwaikh石油工业区发生火灾暂无人员伤亡报告",
+    "wallstreetcn-quick:伊朗石化经济特区遭空袭5死170伤"
   ],
-  "last_checked_at": "2026-04-05 08:26:37",
-  "last_sent_at": "2026-04-05 08:26:37",
+  "last_checked_at": "2026-04-05 08:56:51",
+  "last_sent_at": "2026-04-05 08:56:51",
   "last_alerts": [
     {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "据科威特国家通讯社：无人机袭击后，舒韦赫（Shuwaikh）石油工业区发生火灾，暂无人员伤亡报告。",
-      "url": "https://flash.jin10.com/detail/20260405062637079800",
-      "rank": 1,
-      "score": 102,
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "伊朗石化经济特区遭空袭，5死170伤",
+      "url": "https://wallstreetcn.com/livenews/3082463",
+      "rank": 2,
+      "score": 85,
       "matched_keywords": [
-        "袭击",
-        "ai"
+        "空袭"
       ]
     }
   ]
