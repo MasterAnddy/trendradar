@@ -141,20 +141,51 @@
     "jin10:据伊朗迈赫尔通讯社德黑兰北部发生导弹袭击造成一人伤亡",
     "jin10:据伊朗媒体伊朗处决两名与反对派组织有关被判定实施袭击的男子",
     "wallstreetcn-hot:中东局势重燃通胀之际今晚非农或大幅反弹",
-    "wallstreetcn-quick:以军称空袭德黑兰多处关键基础设施"
+    "wallstreetcn-quick:以军称空袭德黑兰多处关键基础设施",
+    "wallstreetcn-quick:国际货币基金组织imf日本央行正在恰当地退出货币宽松政策随着基础通胀率向日本央行目标靠拢逐步加息直至利率达到中性水平的进程应该继续",
+    "jin10:国际货币基金组织敦促日本央行继续加息",
+    "wallstreetcn-hot:新美联储通讯社就业超预期增长暂解美联储两难市场削减降息押注"
   ],
-  "last_checked_at": "2026-04-04 16:29:53",
-  "last_sent_at": "2026-04-04 16:29:53",
+  "last_checked_at": "2026-04-04 17:04:21",
+  "last_sent_at": "2026-04-04 17:04:21",
   "last_alerts": [
     {
       "source_id": "wallstreetcn-quick",
       "source_name": "华尔街见闻快讯",
-      "title": "以军称空袭德黑兰多处关键基础设施",
-      "url": "https://wallstreetcn.com/livenews/3082392",
-      "rank": 3,
+      "title": "国际货币基金组织(IMF)：日本央行正在恰当地退出货币宽松政策。随着基础通胀率向日本央行目标靠拢，逐步加息直至利率达到中性水平的进程应该继续。",
+      "url": "https://wallstreetcn.com/livenews/3082399",
+      "rank": 1,
+      "score": 110,
+      "matched_keywords": [
+        "日本央行",
+        "央行",
+        "加息",
+        "通胀"
+      ]
+    },
+    {
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "国际货币基金组织敦促日本央行继续加息",
+      "url": "https://flash.jin10.com/detail/20260404152514771800",
+      "rank": 5,
+      "score": 100,
+      "matched_keywords": [
+        "日本央行",
+        "央行",
+        "加息"
+      ]
+    },
+    {
+      "source_id": "wallstreetcn-hot",
+      "source_name": "华尔街见闻",
+      "title": "\"新美联储通讯社\"：就业超预期增长暂解美联储两难，市场削减降息押注",
+      "url": "https://wallstreetcn.com/articles/3769224",
+      "rank": 10,
       "score": 85,
       "matched_keywords": [
-        "空袭"
+        "美联储",
+        "降息"
       ]
     }
   ]
