@@ -147,31 +147,34 @@
     "wallstreetcn-hot:新美联储通讯社就业超预期增长暂解美联储两难市场削减降息押注",
     "wallstreetcn-quick:以军称伊朗发射集束弹头导弹击中以中部多地致住宅受损",
     "wallstreetcn-quick:美议员批国防部是战争罪部",
-    "jin10:伊拉克民兵武装遭美以空袭致1死5伤"
+    "jin10:伊拉克民兵武装遭美以空袭致1死5伤",
+    "wallstreetcn-quick:据伊拉克安全及能源部门消息两架无人机袭击伊拉克鲁迈拉北部油田rumailanorthoilfield造成三名伊拉克工人受伤",
+    "wallstreetcn-hot:停火斡旋陷僵局伊朗拒绝与美方伊斯兰堡会面卡塔尔退出调解"
   ],
-  "last_checked_at": "2026-04-04 19:20:21",
-  "last_sent_at": "2026-04-04 19:20:21",
+  "last_checked_at": "2026-04-04 19:56:46",
+  "last_sent_at": "2026-04-04 19:56:46",
   "last_alerts": [
     {
       "source_id": "wallstreetcn-quick",
       "source_name": "华尔街见闻快讯",
-      "title": "美议员批国防部是“战争罪部”",
-      "url": "https://wallstreetcn.com/livenews/3082427",
-      "rank": 2,
-      "score": 85,
+      "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
+      "url": "https://wallstreetcn.com/livenews/3082430",
+      "rank": 3,
+      "score": 97,
       "matched_keywords": [
-        "战争"
+        "袭击",
+        "ai"
       ]
     },
     {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "伊拉克民兵武装遭美以空袭 致1死5伤",
-      "url": "https://flash.jin10.com/detail/20260404175635414800",
-      "rank": 2,
-      "score": 85,
+      "source_id": "wallstreetcn-hot",
+      "source_name": "华尔街见闻",
+      "title": "停火斡旋陷僵局：伊朗拒绝与美方伊斯兰堡会面，卡塔尔退出调解",
+      "url": "https://wallstreetcn.com/articles/3769228",
+      "rank": 1,
+      "score": 80,
       "matched_keywords": [
-        "空袭"
+        "停火"
       ]
     }
   ]
