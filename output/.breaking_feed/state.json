@@ -139,45 +139,22 @@
     "jin10:迪拜当局表示在拦截导弹行动后出现碎片坠落已对涉及甲骨文大厦的轻微事故作出回应未报告人员伤亡",
     "jin10:美媒因ai初创公司mercor发生数据泄露事件meta暂停与其合作",
     "jin10:据伊朗迈赫尔通讯社德黑兰北部发生导弹袭击造成一人伤亡",
-    "jin10:据伊朗媒体伊朗处决两名与反对派组织有关被判定实施袭击的男子"
+    "jin10:据伊朗媒体伊朗处决两名与反对派组织有关被判定实施袭击的男子",
+    "wallstreetcn-hot:中东局势重燃通胀之际今晚非农或大幅反弹"
   ],
-  "last_checked_at": "2026-04-04 14:12:42",
-  "last_sent_at": "2026-04-04 14:12:42",
+  "last_checked_at": "2026-04-04 15:14:18",
+  "last_sent_at": "2026-04-04 15:14:18",
   "last_alerts": [
     {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "美媒：因AI初创公司Mercor发生数据泄露事件 Meta暂停与其合作",
-      "url": "https://flash.jin10.com/detail/20260404125453767800",
-      "rank": 1,
-      "score": 107,
-      "matched_keywords": [
-        "数据泄露",
-        "meta",
-        "ai"
-      ]
-    },
-    {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "据伊朗迈赫尔通讯社：德黑兰北部发生导弹袭击，造成一人伤亡。",
-      "url": "https://flash.jin10.com/detail/20260404120249121800",
-      "rank": 9,
-      "score": 95,
-      "matched_keywords": [
-        "袭击",
-        "导弹"
-      ]
-    },
-    {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "据伊朗媒体：伊朗处决两名与反对派组织有关、被判定实施袭击的男子。",
-      "url": "https://flash.jin10.com/detail/20260404124933072800",
-      "rank": 2,
+      "source_id": "wallstreetcn-hot",
+      "source_name": "华尔街见闻",
+      "title": "中东局势重燃通胀之际，今晚非农或大幅反弹！",
+      "url": "https://wallstreetcn.com/articles/3769178",
+      "rank": 5,
       "score": 85,
       "matched_keywords": [
-        "袭击"
+        "非农",
+        "通胀"
       ]
     }
   ]
