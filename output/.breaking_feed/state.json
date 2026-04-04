@@ -132,56 +132,22 @@
     "jin10:市场消息伊朗一枚携带了集束炸弹弹头的弹道导弹袭击了以色列中部地区以色列当局正在对佩塔提克瓦罗什哈因和比内布拉克进行安全扫描",
     "jin10:据叙利亚国家电视台大马士革及其周边地区接连响起的爆炸声系以色列防空系统拦截伊朗导弹所致",
     "wallstreetcn-quick:以色列南部工业园遭伊朗导弹袭击起火",
-    "wallstreetcn-quick:德国汉莎航空警告若伊朗战争持续可能出现航油短缺"
+    "wallstreetcn-quick:德国汉莎航空警告若伊朗战争持续可能出现航油短缺",
+    "jin10:市场消息伊朗导弹袭击后以色列特拉维夫多处地点发生火灾"
   ],
-  "last_checked_at": "2026-04-04 08:47:53",
-  "last_sent_at": "2026-04-04 08:47:53",
+  "last_checked_at": "2026-04-04 09:58:35",
+  "last_sent_at": "2026-04-04 09:58:35",
   "last_alerts": [
     {
       "source_id": "jin10",
       "source_name": "金十数据",
-      "title": "市场消息：伊朗一枚携带了集束炸弹弹头的弹道导弹袭击了以色列中部地区，以色列当局正在对佩塔提克瓦、罗什哈因和比内布拉克进行安全扫描。",
-      "url": "https://flash.jin10.com/detail/20260404071839309800",
-      "rank": 1,
-      "score": 110,
-      "matched_keywords": [
-        "袭击",
-        "导弹"
-      ]
-    },
-    {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "据叙利亚国家电视台：大马士革及其周边地区接连响起的爆炸声，系以色列防空系统拦截伊朗导弹所致。",
-      "url": "https://flash.jin10.com/detail/20260404070053518800",
-      "rank": 2,
-      "score": 105,
-      "matched_keywords": [
-        "导弹",
-        "爆炸"
-      ]
-    },
-    {
-      "source_id": "wallstreetcn-quick",
-      "source_name": "华尔街见闻快讯",
-      "title": "以色列南部工业园遭伊朗导弹袭击起火",
-      "url": "https://wallstreetcn.com/livenews/3082348",
-      "rank": 3,
-      "score": 105,
-      "matched_keywords": [
-        "袭击",
-        "导弹"
-      ]
-    },
-    {
-      "source_id": "wallstreetcn-quick",
-      "source_name": "华尔街见闻快讯",
-      "title": "德国汉莎航空警告：若伊朗战争持续，可能出现航油短缺",
-      "url": "https://wallstreetcn.com/livenews/3082350",
-      "rank": 1,
+      "title": "市场消息：伊朗导弹袭击后，以色列特拉维夫多处地点发生火灾。",
+      "url": "https://flash.jin10.com/detail/20260404072408016800",
+      "rank": 12,
       "score": 90,
       "matched_keywords": [
-        "战争"
+        "袭击",
+        "导弹"
       ]
     }
   ]
