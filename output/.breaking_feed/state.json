@@ -207,43 +207,21 @@
     "ifeng:美以伊战争丨特朗普能在4月6日前与伊朗达成协议",
     "wallstreetcn-quick:opec强调能源供应市场保护措施的重要性其中就包括海上通道opec对美国和以色列发动伊朗战争造成的袭击能源基础设施感到忧心忡忡战后对能源资产的重建将代价高昂需要耗费时日opec将于5月增产206万桶日opec定于6月7日举行下一轮联合部长级监督委员会jmmc会议",
     "wallstreetcn-quick:伊朗总统办公室官员当美国和以色列发动的战争造成的破坏过缴纳通行费的方式得到赔偿霍尔木兹海峡就会重新开放",
-    "wallstreetcn-quick:一货船在亚速海遭无人机袭击致2人死亡"
+    "wallstreetcn-quick:一货船在亚速海遭无人机袭击致2人死亡",
+    "wallstreetcn-quick:伊官员提开放霍尔木兹海峡条件先用过往船税补偿伊朗战争损失"
   ],
-  "last_checked_at": "2026-04-06 00:25:08",
-  "last_sent_at": "2026-04-06 00:25:08",
+  "last_checked_at": "2026-04-06 00:55:54",
+  "last_sent_at": "2026-04-06 00:55:54",
   "last_alerts": [
     {
       "source_id": "wallstreetcn-quick",
       "source_name": "华尔街见闻快讯",
-      "title": "OPEC+强调（能源供应市场）保护措施的重要性，其中就包括海上通道。 OPEC对（美国和以色列发动伊朗战争造成的）袭击能源基础设施感到忧心忡忡。 战后对能源资产的重建将代价高昂，需要耗费时日。 OPEC+将于5月增产20.6万桶/日。 OPEC+定于6月7日举行下一轮联合部长级监督委员会（JMMC）会议。",
-      "url": "https://wallstreetcn.com/livenews/3082648",
-      "rank": 17,
+      "title": "伊官员提开放霍尔木兹海峡条件：先用过往船税补偿伊朗战争损失",
+      "url": "https://wallstreetcn.com/livenews/3082667",
+      "rank": 1,
       "score": 90,
       "matched_keywords": [
-        "战争",
-        "袭击"
-      ]
-    },
-    {
-      "source_id": "wallstreetcn-quick",
-      "source_name": "华尔街见闻快讯",
-      "title": "伊朗总统办公室官员：当（美国和以色列发动的）战争造成的破坏“过缴纳通行费的方式”得到赔偿，霍尔木兹海峡就会重新开放。",
-      "url": "https://wallstreetcn.com/livenews/3082664",
-      "rank": 2,
-      "score": 85,
-      "matched_keywords": [
         "战争"
-      ]
-    },
-    {
-      "source_id": "wallstreetcn-quick",
-      "source_name": "华尔街见闻快讯",
-      "title": "一货船在亚速海遭无人机袭击致2人死亡",
-      "url": "https://wallstreetcn.com/livenews/3082662",
-      "rank": 4,
-      "score": 80,
-      "matched_keywords": [
-        "袭击"
       ]
     }
   ]
