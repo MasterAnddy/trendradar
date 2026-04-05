@@ -194,21 +194,22 @@
     "wallstreetcn-quick:俄炼油厂及热电厂遭乌无人机袭击受损",
     "wallstreetcn-quick:以军称伊朗向以北部发动导弹袭击",
     "wallstreetcn-quick:伊朗对以色列发动新一轮导弹袭击",
-    "ifeng:美以伊战争丨伊媒发布美军机残骸画面"
+    "ifeng:美以伊战争丨伊媒发布美军机残骸画面",
+    "jin10:巴林国防军表示自战争开始以来已拦截来自伊朗的466架无人机和188枚导弹"
   ],
-  "last_checked_at": "2026-04-05 18:08:43",
-  "last_sent_at": "2026-04-05 18:08:43",
+  "last_checked_at": "2026-04-05 19:39:20",
+  "last_sent_at": "2026-04-05 19:39:20",
   "last_alerts": [
     {
-      "source_id": "ifeng",
-      "source_name": "凤凰网",
-      "title": "美以伊战争丨伊媒发布美军机残骸画面",
-      "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-      "rank": 1,
-      "score": 82,
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "巴林国防军表示，自战争开始以来已拦截来自伊朗的466架无人机和188枚导弹。",
+      "url": "https://flash.jin10.com/detail/20260405172127458800",
+      "rank": 10,
+      "score": 95,
       "matched_keywords": [
         "战争",
-        "发布"
+        "导弹"
       ]
     }
   ]
