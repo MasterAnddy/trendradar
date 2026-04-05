@@ -186,18 +186,34 @@
     "wallstreetcn-hot:美以空袭伊朗石化枢纽美国驻沙特大使馆遭袭伊朗谴责是以色列干的伊方警告中东诸国不想挨打就让美军撤出",
     "wallstreetcn-hot:特朗普警告伊朗还剩48小时伊朗军方回应让侵略者付出代价战争升级至海湾基础设施",
     "jin10:也门胡塞武装使用携带集束弹头的导弹袭击以色列",
-    "wallstreetcn-quick:伊朗处决两名企图袭击德黑兰军事基地军械库的人员"
+    "wallstreetcn-quick:伊朗处决两名企图袭击德黑兰军事基地军械库的人员",
+    "wallstreetcn-quick:伊朗外长就美以袭击伊核设施致信联合国",
+    "wallstreetcn-quick:也门胡塞武装使用携带集束弹头的导弹袭击以色列",
+    "wallstreetcn-quick:巴林石油公司储存设施遭无人机袭击起火",
+    "jin10:当地州长表示俄罗斯诺尔西炼油厂在遭遇无人机袭击后发生火灾"
   ],
-  "last_checked_at": "2026-04-05 15:42:15",
-  "last_sent_at": "2026-04-05 15:42:15",
+  "last_checked_at": "2026-04-05 16:42:33",
+  "last_sent_at": "2026-04-05 16:42:33",
   "last_alerts": [
     {
-      "source_id": "jin10",
-      "source_name": "金十数据",
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "伊朗外长就美以袭击伊核设施致信联合国",
+      "url": "https://wallstreetcn.com/livenews/3082569",
+      "rank": 4,
+      "score": 100,
+      "matched_keywords": [
+        "袭击",
+        "核设施"
+      ]
+    },
+    {
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
       "title": "也门胡塞武装使用携带集束弹头的导弹袭击以色列",
-      "url": "https://flash.jin10.com/detail/20260405140906773800",
-      "rank": 1,
-      "score": 110,
+      "url": "https://wallstreetcn.com/livenews/3082561",
+      "rank": 12,
+      "score": 90,
       "matched_keywords": [
         "袭击",
         "导弹"
@@ -206,10 +222,21 @@
     {
       "source_id": "wallstreetcn-quick",
       "source_name": "华尔街见闻快讯",
-      "title": "伊朗处决两名企图袭击德黑兰军事基地军械库的人员",
-      "url": "https://wallstreetcn.com/livenews/3082563",
-      "rank": 1,
-      "score": 90,
+      "title": "巴林石油公司储存设施遭无人机袭击起火",
+      "url": "https://wallstreetcn.com/livenews/3082571",
+      "rank": 2,
+      "score": 85,
+      "matched_keywords": [
+        "袭击"
+      ]
+    },
+    {
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "当地州长表示，俄罗斯诺尔西炼油厂在遭遇无人机袭击后发生火灾。",
+      "url": "https://flash.jin10.com/detail/20260405144519130800",
+      "rank": 3,
+      "score": 85,
       "matched_keywords": [
         "袭击"
       ]
