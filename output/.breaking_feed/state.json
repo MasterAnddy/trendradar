@@ -176,20 +176,61 @@
     "ifeng:美以伊战争丨以官员伊朗仍有超千枚可打击以的导弹",
     "jin10:据伊朗官方媒体presstv如果美国入侵伊朗岛屿美国将会遭受巨大的伤亡美国的入侵很可能以彻底的灾难和彻底的耻辱告终美国正被揭开面具实质是一只纸老虎只会空口许诺却什么也兑现不了",
     "jin10:据科威特国家通讯社无人机袭击后舒韦赫shuwaikh石油工业区发生火灾暂无人员伤亡报告",
-    "wallstreetcn-quick:伊朗石化经济特区遭空袭5死170伤"
+    "wallstreetcn-quick:伊朗石化经济特区遭空袭5死170伤",
+    "jin10:市场消息一枚从伊朗发射的导弹瞄准了巴林的石油储存设施",
+    "jin10:市场消息大规模导弹袭击已向以色列北部发射",
+    "jin10:经济学家美国3月cpi月率或大涨1美联储今年或难降息",
+    "wallstreetcn-hot:美以四次轰炸伊朗境内唯一运转核电站俄罗斯紧急撤离198人伊朗外长若发生核泄漏周边国家将遭殃"
   ],
-  "last_checked_at": "2026-04-05 08:56:51",
-  "last_sent_at": "2026-04-05 08:56:51",
+  "last_checked_at": "2026-04-05 12:23:12",
+  "last_sent_at": "2026-04-05 12:23:12",
   "last_alerts": [
     {
-      "source_id": "wallstreetcn-quick",
-      "source_name": "华尔街见闻快讯",
-      "title": "伊朗石化经济特区遭空袭，5死170伤",
-      "url": "https://wallstreetcn.com/livenews/3082463",
-      "rank": 2,
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "市场消息：一枚从伊朗发射的导弹瞄准了巴林的石油储存设施。",
+      "url": "https://flash.jin10.com/detail/20260405105423199800",
+      "rank": 1,
+      "score": 90,
+      "matched_keywords": [
+        "导弹"
+      ]
+    },
+    {
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "市场消息：大规模导弹袭击已向以色列北部发射。",
+      "url": "https://flash.jin10.com/detail/20260405093113964800",
+      "rank": 12,
+      "score": 90,
+      "matched_keywords": [
+        "袭击",
+        "导弹"
+      ]
+    },
+    {
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "经济学家：美国3月CPI月率或大涨1% 美联储今年或难降息",
+      "url": "https://flash.jin10.com/detail/20260405085640617800",
+      "rank": 17,
+      "score": 90,
+      "matched_keywords": [
+        "美联储",
+        "降息",
+        "cpi"
+      ]
+    },
+    {
+      "source_id": "wallstreetcn-hot",
+      "source_name": "华尔街见闻",
+      "title": "美以“四次”轰炸“伊朗境内唯一运转核电站”！俄罗斯“紧急撤离198人”，伊朗外长：若发生核泄漏，周边国家将遭殃",
+      "url": "https://wallstreetcn.com/articles/3769269",
+      "rank": 8,
       "score": 85,
       "matched_keywords": [
-        "空袭"
+        "核泄漏",
+        "撤离"
       ]
     }
   ]
