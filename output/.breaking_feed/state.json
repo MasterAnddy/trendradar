@@ -213,31 +213,21 @@
     "wallstreetcn-quick:部分美国官员认为对伊战争将进入第二阶段",
     "wallstreetcn-quick:伊朗最高领袖强调继续推进国土防御须继续运用封锁霍尔木兹海峡这一战略杠杆",
     "wallstreetcn-quick:伊朗政府发言人谴责以色列袭击民用设施",
-    "wallstreetcn-quick:黎巴嫩称向以色列提出停火倡议尚未收到回应"
+    "wallstreetcn-quick:黎巴嫩称向以色列提出停火倡议尚未收到回应",
+    "jin10:乌克兰总统泽连斯基我们讨论了所有议题从安全和国防问题地区局势到伊朗局势再到两国间的能源和基础设施合作我们还将继续在粮食安全方面开展工作我们详细讨论了如何克服战争的后果以及就俄乌冲突进行谈判的进程"
   ],
-  "last_checked_at": "2026-04-06 02:52:38",
-  "last_sent_at": "2026-04-06 02:52:38",
+  "last_checked_at": "2026-04-06 04:22:29",
+  "last_sent_at": "2026-04-06 04:22:29",
   "last_alerts": [
     {
-      "source_id": "wallstreetcn-quick",
-      "source_name": "华尔街见闻快讯",
-      "title": "伊朗政府发言人谴责以色列袭击民用设施",
-      "url": "https://wallstreetcn.com/livenews/3082675",
-      "rank": 1,
-      "score": 90,
-      "matched_keywords": [
-        "袭击"
-      ]
-    },
-    {
-      "source_id": "wallstreetcn-quick",
-      "source_name": "华尔街见闻快讯",
-      "title": "黎巴嫩称向以色列提出停火倡议，尚未收到回应",
-      "url": "https://wallstreetcn.com/livenews/3082673",
-      "rank": 3,
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "乌克兰总统泽连斯基：我们讨论了所有议题，从安全和国防问题、地区局势，到伊朗局势，再到两国间的能源和基础设施合作。我们还将继续在粮食安全方面开展工作。我们详细讨论了如何克服战争的后果，以及就俄乌冲突进行谈判的进程。",
+      "url": "https://flash.jin10.com/detail/20260406022249689800",
+      "rank": 2,
       "score": 85,
       "matched_keywords": [
-        "停火"
+        "战争"
       ]
     }
   ]
