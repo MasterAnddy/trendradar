@@ -136,23 +136,17 @@
     "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
     "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
     "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
-    "https://blogs.nvidia.com/blog/national-robotics-week-2026/"
+    "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+    "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/"
   ],
   "company_daily_seen": {
-    "2026-04-05": [
+    "2026-04-06": [
       {
         "source": "TechCrunch AI",
         "category_key": "media",
-        "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-        "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
-        "published": "Sat, 04 Apr 2026 16:32:22 +0000"
-      },
-      {
-        "source": "NVIDIA Blog",
-        "category_key": "product",
-        "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
-        "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
-        "published": "Sat, 04 Apr 2026 17:00:59 +0000"
+        "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+        "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+        "published": "Sun, 05 Apr 2026 18:51:37 +0000"
       }
     ]
   },
