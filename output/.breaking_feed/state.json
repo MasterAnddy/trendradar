@@ -219,20 +219,21 @@
     "wallstreetcn-quick:openai首席执行官和首席财务官据称在ipo时机问题上意见分歧theinformation",
     "jin10:乌克兰总统泽连斯基与叙利亚领导人沙拉举行了双边会谈讨论了从安全和国防问题到伊朗局势发展对地区局势的影响再到两国之间的能源和基础设施合作我们还将继续致力于粮食安全问题我们详细讨论了如何克服战争的后果以及俄乌冲突谈判的进程",
     "jin10:美国国务院与伊朗有关联的武装组织袭击了美国驻伊拉克外交官",
-    "jin10:以色列伊朗仍有超过1000枚导弹威胁着我"
+    "jin10:以色列伊朗仍有超过1000枚导弹威胁着我",
+    "ifeng:美以伊战争丨特朗普有望在7日前与伊朗达成协议"
   ],
-  "last_checked_at": "2026-04-06 07:49:26",
-  "last_sent_at": "2026-04-06 07:49:26",
+  "last_checked_at": "2026-04-06 08:20:50",
+  "last_sent_at": "2026-04-06 08:20:50",
   "last_alerts": [
     {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "以色列：伊朗仍有超过1000枚导弹威胁着我！",
-      "url": "https://flash.jin10.com/detail/20260406063003704800",
+      "source_id": "ifeng",
+      "source_name": "凤凰网",
+      "title": "美以伊战争丨特朗普：有望在7日前与伊朗达成协议",
+      "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
       "rank": 1,
-      "score": 90,
+      "score": 70,
       "matched_keywords": [
-        "导弹"
+        "战争"
       ]
     }
   ]
