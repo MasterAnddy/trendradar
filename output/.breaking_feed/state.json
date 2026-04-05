@@ -202,32 +202,34 @@
     "jin10:据以色列时报以色列消防部门表示在伊朗一枚弹道导弹袭击贝尔谢巴以南一处工业区后目前不存在危险物质泄漏的风险以色列消防与救援局称导弹击中了内奥特霍瓦夫neothovav工业区的一处空地冲击波和弹片对一座工厂建筑造成了轻微损坏",
     "wallstreetcn-quick:以军称对黎真主党基础设施发动新一轮空袭",
     "jin10:金十整理下周重要事件与数据预告中国3月外汇储备美国2月pce3月cpi美联储会议纪要",
-    "wallstreetcn-quick:俄罗斯石油公司lukoilpjsc旗下norsi炼油厂遭到乌克兰袭击随后发生火情"
+    "wallstreetcn-quick:俄罗斯石油公司lukoilpjsc旗下norsi炼油厂遭到乌克兰袭击随后发生火情",
+    "wallstreetcn-quick:opec强调能源供应市场保护措施的重要性其中就包括海上通道opec对美国和以色列发动伊朗战争造成的袭击能源基础设施感到忧心忡忡战后对能源资产的重建将代价高昂需要耗费时日opec定于6月7日举行下一轮联合部长级监督委员会jmmc会议",
+    "ifeng:美以伊战争丨特朗普能在4月6日前与伊朗达成协议"
   ],
-  "last_checked_at": "2026-04-05 23:03:54",
-  "last_sent_at": "2026-04-05 23:03:54",
+  "last_checked_at": "2026-04-05 23:51:31",
+  "last_sent_at": "2026-04-05 23:51:31",
   "last_alerts": [
-    {
-      "source_id": "jin10",
-      "source_name": "金十数据",
-      "title": "金十整理：下周重要事件与数据预告——中国3月外汇储备；美国2月PCE+3月CPI；美联储会议纪要",
-      "url": "https://flash.jin10.com/detail/20260405213407985800",
-      "rank": 7,
-      "score": 90,
-      "matched_keywords": [
-        "美联储",
-        "cpi"
-      ]
-    },
     {
       "source_id": "wallstreetcn-quick",
       "source_name": "华尔街见闻快讯",
-      "title": "俄罗斯石油公司Lukoil PJSC旗下Norsi炼油厂遭到乌克兰袭击，随后发生火情。",
-      "url": "https://wallstreetcn.com/livenews/3082643",
-      "rank": 2,
-      "score": 85,
+      "title": "OPEC+强调（能源供应市场）保护措施的重要性，其中就包括海上通道。 OPEC对（美国和以色列发动伊朗战争造成的）袭击能源基础设施感到忧心忡忡。 战后对能源资产的重建将代价高昂，需要耗费时日。 OPEC+定于6月7日举行下一轮联合部长级监督委员会（JMMC）会议。",
+      "url": "https://wallstreetcn.com/livenews/3082648",
+      "rank": 11,
+      "score": 90,
       "matched_keywords": [
+        "战争",
         "袭击"
+      ]
+    },
+    {
+      "source_id": "ifeng",
+      "source_name": "凤凰网",
+      "title": "美以伊战争丨特朗普：能在4月6日前与伊朗达成协议",
+      "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+      "rank": 1,
+      "score": 70,
+      "matched_keywords": [
+        "战争"
       ]
     }
   ]
