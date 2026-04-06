@@ -227,64 +227,75 @@
     "wallstreetcn-quick:伊朗媒体美以空袭伊朗谢里夫理工大学",
     "wallstreetcn-hot:伊拉克获豁免法日船只相继通过霍尔木兹通行量创战争以来新高",
     "wallstreetcn-quick:伊朗司法部长轰炸居民区和平民属于战争罪",
-    "ifeng:美以伊战争丨解码营救美飞行员的神秘部队"
+    "ifeng:美以伊战争丨解码营救美飞行员的神秘部队",
+    "jin10:日本央行部分地区担忧能源价格上涨和通胀加剧将引发更广泛的供应中断并损害家庭和企业信心",
+    "wallstreetcn-quick:日本央行在季度报告中维持对9个地区的评估不变",
+    "jin10:日本央行一些地区表示中东冲突的影响已通过油价飙升和供应中断显现出来",
+    "jin10:日本央行在季度报告中维持对日本9个地区的评估",
+    "ifeng:以色列民众不顾禁令涌向海边宁愿待在阳光下面对导弹"
   ],
-  "last_checked_at": "2026-04-06 11:46:25",
-  "last_sent_at": "2026-04-06 11:46:25",
+  "last_checked_at": "2026-04-06 14:13:37",
+  "last_sent_at": "2026-04-06 14:13:37",
   "last_alerts": [
     {
       "source_id": "jin10",
       "source_name": "金十数据",
-      "title": "美伊调解方争取45天停火协议！谈不成就要“炸毁一切”？",
-      "url": "https://flash.jin10.com/detail/20260406102754144800",
+      "title": "日本央行：部分地区担忧能源价格上涨和通胀加剧将引发更广泛的供应中断，并损害家庭和企业信心。",
+      "url": "https://flash.jin10.com/detail/20260406130312761800",
       "rank": 1,
+      "score": 110,
+      "matched_keywords": [
+        "日本央行",
+        "央行",
+        "通胀"
+      ]
+    },
+    {
+      "source_id": "wallstreetcn-quick",
+      "source_name": "华尔街见闻快讯",
+      "title": "日本央行在季度报告中维持对9个地区的评估不变。",
+      "url": "https://wallstreetcn.com/livenews/3082743",
+      "rank": 1,
+      "score": 100,
+      "matched_keywords": [
+        "日本央行",
+        "央行"
+      ]
+    },
+    {
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "日本央行：一些地区表示，中东冲突的影响已通过油价飙升和供应中断显现出来。",
+      "url": "https://flash.jin10.com/detail/20260406130308964800",
+      "rank": 2,
+      "score": 95,
+      "matched_keywords": [
+        "日本央行",
+        "央行"
+      ]
+    },
+    {
+      "source_id": "jin10",
+      "source_name": "金十数据",
+      "title": "日本央行在季度报告中维持对日本9个地区的评估。",
+      "url": "https://flash.jin10.com/detail/20260406130029375800",
+      "rank": 4,
       "score": 90,
       "matched_keywords": [
-        "停火"
-      ]
-    },
-    {
-      "source_id": "wallstreetcn-quick",
-      "source_name": "华尔街见闻快讯",
-      "title": "伊朗媒体：美以空袭伊朗谢里夫理工大学",
-      "url": "https://wallstreetcn.com/livenews/3082721",
-      "rank": 4,
-      "score": 80,
-      "matched_keywords": [
-        "空袭"
-      ]
-    },
-    {
-      "source_id": "wallstreetcn-hot",
-      "source_name": "华尔街见闻",
-      "title": "伊拉克获豁免、法日船只相继通过，霍尔木兹通行量创战争以来新高",
-      "url": "https://wallstreetcn.com/articles/3769281",
-      "rank": 2,
-      "score": 75,
-      "matched_keywords": [
-        "战争"
-      ]
-    },
-    {
-      "source_id": "wallstreetcn-quick",
-      "source_name": "华尔街见闻快讯",
-      "title": "伊朗司法部长：轰炸居民区和平民属于战争罪",
-      "url": "https://wallstreetcn.com/livenews/3082717",
-      "rank": 8,
-      "score": 75,
-      "matched_keywords": [
-        "战争"
+        "日本央行",
+        "央行"
       ]
     },
     {
       "source_id": "ifeng",
       "source_name": "凤凰网",
-      "title": "美以伊战争丨解码营救美飞行员的神秘部队",
-      "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-      "rank": 1,
-      "score": 70,
+      "title": "以色列民众不顾禁令涌向海边：宁愿待在阳光下面对导弹",
+      "url": "https://news.ifeng.com/c/8s60ht8XnUn",
+      "rank": 4,
+      "score": 80,
       "matched_keywords": [
-        "战争"
+        "导弹",
+        "禁令"
       ]
     }
   ]
