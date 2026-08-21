@@ -1,0 +1,52 @@
+app:
+  base_url: "http://127.0.0.1:8000"
+  version_check_url: "https://raw.githubusercontent.com/sansan0/TrendRadar/refs/heads/master/version"
+  show_version_update: true
+
+crawler:
+  request_interval: 1000
+  enable_crawler: true
+  use_proxy: false
+  default_proxy: "http://127.0.0.1:10086"
+
+report:
+  mode: "daily"
+  rank_threshold: 5
+
+notification:
+  enable_notification: true
+  message_batch_size: 4000
+  batch_send_interval: 1
+  feishu_message_separator: "--------------------"
+  silent_push:
+    enabled: false
+    time_range:
+      start: "00:00"
+      end: "23:59"
+    once_per_day: false
+    push_record_retention_days: 7
+  webhooks:
+    feishu_url: ""
+    dingtalk_url: ""
+    wework_url: ""
+    telegram_bot_token: ""
+    telegram_chat_id: ""
+
+weight:
+  rank_weight: 0.6
+  frequency_weight: 0.3
+  hotness_weight: 0.1
+
+platforms:
+  - id: "wallstreetcn-hot"
+    name: "华尔街见闻"
+  - id: "wallstreetcn-quick"
+    name: "华尔街见闻快讯"
+  - id: "jin10"
+    name: "金十数据"
+  - id: "cls-hot"
+    name: "财联社热门"
+  - id: "thepaper"
+    name: "澎湃新闻"
+  - id: "ifeng"
+    name: "凤凰网"

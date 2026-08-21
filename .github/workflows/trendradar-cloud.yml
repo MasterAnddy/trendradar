@@ -1,0 +1,116 @@
+name: TrendRadar Cloud
+
+on:
+  schedule:
+    - cron: "14,29,44,59 * * * *"
+    - cron: "5 * * * *"
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Mode to run"
+        required: true
+        default: "current"
+        type: choice
+        options:
+          - incremental
+          - current
+          - daily
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trendradar-state-writers-${{ github.ref_name }}
+  queue: max
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONUTF8: "1"
+      TIMEZONE: "Asia/Tokyo"
+      TZ: "Asia/Tokyo"
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 5
+          clean: true
+
+      - name: Resolve mode
+        id: mode
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            MODE="${{ inputs.mode }}"
+          else
+            case "${{ github.event.schedule }}" in
+              "14,29,44,59 * * * *") MODE="incremental" ;;
+              "5 * * * *") MODE="current" ;;
+              "0 12 * * *") MODE="daily" ;;
+              *) echo "Unknown schedule"; exit 1 ;;
+            esac
+          fi
+          echo "mode=$MODE" >> "$GITHUB_OUTPUT"
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v7
+
+      - name: Install dependencies
+        run: uv sync --frozen --no-dev
+
+      - name: Prepare runtime config
+        env:
+          MODE: ${{ steps.mode.outputs.mode }}
+        run: |
+          uv run python prepare_trendradar_cloud.py \
+            --mode "$MODE" \
+            --timezone "Asia/Tokyo" \
+            --output "$RUNNER_TEMP/trendradar-cloud.yaml"
+
+      - name: Run TrendRadar
+        env:
+          CONFIG_PATH: ${{ runner.temp }}/trendradar-cloud.yaml
+          FREQUENCY_WORDS_PATH: config/keywords/frequency_words.user.txt
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GITHUB_ACTIONS: true
+        run: uv run python -m trendradar
+
+      - name: Commit generated files
+        shell: bash
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add -A output index.html
+          if git diff --cached --quiet; then
+            echo "No generated changes to persist"
+            exit 0
+          fi
+          git commit -m "TrendRadar ${{ steps.mode.outputs.mode }} update $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M:%S')"
+          for attempt in 1 2 3 4; do
+            git fetch --no-tags --depth=5 origin "$GITHUB_REF_NAME"
+            if ! git rebase FETCH_HEAD; then
+              git rebase --abort || true
+              echo "::error::Generated state conflicts with a newer remote commit"
+              exit 1
+            fi
+            if git push origin "HEAD:$GITHUB_REF_NAME"; then
+              exit 0
+            fi
+            if [ "$attempt" -eq 4 ]; then
+              echo "::error::GitHub rejected the state push after 4 attempts"
+              exit 1
+            fi
+            delay=$((attempt * 10))
+            echo "::warning::State push attempt $attempt failed; retrying in ${delay}s"
+            sleep "$delay"
+          done

@@ -1,0 +1,122 @@
+name: AI Feed Cloud
+
+on:
+  schedule:
+    - cron: "20 * * * *"
+    - cron: "35 * * * *"
+    - cron: "10 11 * * *"
+    - cron: "30 11 * * *"
+  workflow_dispatch:
+    inputs:
+      feed:
+        description: "Feed to run"
+        required: true
+        default: "research"
+        type: choice
+        options:
+          - research
+          - company
+      mode:
+        description: "Realtime or daily"
+        required: true
+        default: "realtime"
+        type: choice
+        options:
+          - realtime
+          - daily
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trendradar-state-writers-${{ github.ref_name }}
+  queue: max
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    env:
+      AI_BILINGUAL_TRANSLATION: "true"
+      AI_FEED_TIMEZONE: "Asia/Tokyo"
+      PYTHONUTF8: "1"
+      TZ: "Asia/Tokyo"
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 5
+
+      - name: Resolve feed/mode
+        id: route
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            FEED="${{ inputs.feed }}"
+            MODE="${{ inputs.mode }}"
+          else
+            case "${{ github.event.schedule }}" in
+              "20 * * * *") FEED="research"; MODE="realtime" ;;
+              "35 * * * *") FEED="company"; MODE="realtime" ;;
+              "10 11 * * *") FEED="research"; MODE="daily" ;;
+              "30 11 * * *") FEED="company"; MODE="daily" ;;
+              *) echo "Unknown schedule"; exit 1 ;;
+            esac
+          fi
+          echo "feed=$FEED" >> "$GITHUB_OUTPUT"
+          echo "mode=$MODE" >> "$GITHUB_OUTPUT"
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Cache Argos packages
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.local/share/argos-translate
+            ~/.local/cache/argos-translate
+          key: argos-en-zh-v1
+
+      - name: Install AI feed dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements-ai.txt
+
+      - name: Run AI feed
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python ai_feed.py --mode "${{ steps.route.outputs.mode }}" --feed "${{ steps.route.outputs.feed }}"
+
+      - name: Commit AI feed state
+        shell: bash
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add output/.ai_feed
+          if git diff --cached --quiet; then
+            echo "No AI-feed state changes to persist"
+            exit 0
+          fi
+          git commit -m "AI feed ${{ steps.route.outputs.feed }} ${{ steps.route.outputs.mode }} $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M:%S')"
+          for attempt in 1 2 3 4; do
+            git fetch --no-tags --depth=5 origin "$GITHUB_REF_NAME"
+            if ! git rebase FETCH_HEAD; then
+              git rebase --abort || true
+              echo "::error::AI-feed state conflicts with a newer remote commit"
+              exit 1
+            fi
+            if git push origin "HEAD:$GITHUB_REF_NAME"; then
+              exit 0
+            fi
+            if [ "$attempt" -eq 4 ]; then
+              echo "::error::GitHub rejected the state push after 4 attempts"
+              exit 1
+            fi
+            delay=$((attempt * 10))
+            echo "::warning::State push attempt $attempt failed; retrying in ${delay}s"
+            sleep "$delay"
+          done
